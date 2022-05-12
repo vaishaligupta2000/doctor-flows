@@ -1,0 +1,3 @@
+from action_disease_detection import ActionHandleSymptom
+from action_disease_detection import ActionDiagnosis
+from action_doctor_booking import ActionSubmit

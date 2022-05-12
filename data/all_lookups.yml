@@ -1,0 +1,44 @@
+version: "2.0"
+
+nlu:
+
+- lookup: location
+  examples: |
+    - Ghatkopar
+    - Bandra
+    - Navi Mumbai
+    - Chembur
+    - Belapur
+    - Borivali
+    - DN Nagar
+    - Jogeshwari
+    - Byculla
+    - Andheri
+    - Mahim
+    - South Mumbai
+    - Thane
+    - Sion
+    - Govandi
+    - Vikhroli
+    - Santacruz
+    - Malad
+    - Vashi
+    - South Bombay
+    - Kandivali
+    - Mulund
+    - Goregaon
+    - Badlapur
+    - Dombivali
+    - Juhu
+    - Ville Parle
+    - Delhi
+    - NCR
+    - Faridabad
+    - Gurgaon
+    - Noida
+    - Uttar Pradesh
+    - Himachal
+    - Kangra
+
+
+

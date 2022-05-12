@@ -1,0 +1,442 @@
+version: "2.0"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: goodbye
+  examples: |
+    - good afternoon
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+    - okay thanks bye
+
+- intent: affirm
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+
+- intent: deny
+  examples: |
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+
+- intent: mood_great
+  examples: |
+    - perfect
+    - great
+    - amazing
+    - feeling like a king
+    - wonderful
+    - I am feeling very good
+    - I am great
+    - I am amazing
+    - I am going to save the world
+    - super stoked
+    - extremely good
+    - so so perfect
+    - so good
+    - so perfect
+
+- intent: check_symptoms
+  examples: |
+    - What disease do i have
+    - check my symptoms
+    - here are my symptoms
+    - take my illness
+    - take my symptoms
+    - detect my disease
+    - tell me disease of mine
+
+- intent: mood_unhappy
+  examples: |
+    - my day was horrible
+    - I am sad
+    - I don't feel very well
+    - I am disappointed
+    - super sad
+    - I'm so sad
+    - sad
+    - very sad
+    - unhappy
+    - not good
+    - not very good
+    - extremly sad
+    - so saad
+    - so sad
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+    - who are you?
+
+- intent: end
+  examples: |
+    - that's all
+    - Yeah, that's it
+    - thats it
+    - It's all folks
+    - I guess that's it
+    - I guess that's all
+    - Yep, I think it's all
+    - Done, nothing more
+    - Thank you
+    - im done
+    - no more symptoms
+    - thanks thats it
+
+- intent: symptom
+  examples: |
+    - I have fever
+    - My head is paining
+    - I have a headache
+    - dizziness
+    - I've been coughing
+    - I'm exhuasted
+    - I have fatigue
+    - back pain
+    - stomach pain
+    - I feel dizzy
+    - Dizziness is what I got
+    - uncoordination
+    - fever
+    - pleuritic pain
+    - snuffle
+    - throat sore
+    - malaise
+    - debilitation
+    - symptom aggravating factors
+    - chill
+    - scleral icterus
+    - nasal flaring
+    - dysuria
+    - lip smacking
+    - headache
+    - sneeze
+    - snore
+    - green sputum
+    - short of breath
+    - distress respiratory
+    - blackout
+    - extreme exhaustion
+    - heme positive
+    - abdominal pain
+    - vomiting
+    - disequilibrium
+    - nausea
+    - intoxication
+    - haemorrhage
+    - guaiac positive
+    - body weight decrease
+    - sore to touch
+    - pain
+    - chest pain
+    - sweat increase
+    - pressure chest
+    - syncope
+    - numbness
+    - chest discomfort
+    - shortof breath
+    - segment depression
+    - worry
+    - bradycardia
+    - dyspnea
+    - seizure
+    - hypermetabolism
+    - aura
+    - muscle twitch
+    - drowsy
+    - tremor
+    - unresponsiveness
+    - hemiplegia
+    - myoclonus
+    - gurgle
+    - sleepy
+    - lethargy
+    - hypotension
+    - lightheadedness
+    - unwell
+    - mental status changes
+    - sensory discomfort
+    - dizzy
+    - profuse sweating
+    - diarrhea
+    - anemia
+    - muscle pain
+    - convulsion
+    - coma
+    - bloody stools.chills
+    - poor appetite
+    - weakness
+    - intestinal bleeding
+    - cough
+    - constipation
+    - side pain
+    - proststism
+    - sniffle
+    - vertigo
+    - numb hand
+    - out of breath
+    - wheezing
+    - tight chest
+    - sedentry
+    - angina pectoris
+    - unhappy
+    - hypothermia
+    - hypoxemia
+    - tender renal angle
+    - hematuria
+    - orthopnea
+    - fatigue
+    - exertion
+    - venous distention
+    - impaired cognition
+    - tachypnea
+    - sinus
+    - unsteadyness
+    - bruit
+    - lesion
+    - difficulty passing urine
+    - monoclonal
+    - tumor cell invasion
+    - pallor
+    - asthenia
+    - orthostatis
+    - swelling
+    - exhaustion
+    - ascites
+    - rupture of membranes
+    - pruritis
+    - anorexia
+    - transaminitis
+    - fremitus
+    - papaparesis
+    - hunger
+    - apyrexial
+    - nervousness
+    - feeling suicidal
+    - feeling hopeless
+    - weepiness
+    - sleeplessness
+    - irritable mood
+    - agitation
+    - nightmare
+    - unable to concentrate
+    - short of breadth
+    - rale
+    - ronchus
+    - haemoptysis
+    - fall
+    - distended abdomen
+    - unsteady gait
+    - paresthesia
+    - burning sensation
+    - chest lightness
+    - night sweat
+    - stridor
+    - stuffy nose
+    - egophony
+    - frail
+    - nasal discharge
+    - cystic lesion
+    - atypia
+    - unsteadiness
+    - polydypsia
+    - ambidexterity
+  
+- intent: Location
+  examples: |
+    - I live in [Ghatkopar]{"entity":"location"}
+    - My region is [Vikhroli]{"entity":"location"}
+    - [Vidyavihar]{"entity":"location"} is my address
+    - I am currently residing in [Kurla]{"entity":"location"}
+    - [Dadar]{"entity":"location"} district suburban
+    - I reside in [Parel]{"entity":"location"}
+    - my address is [Sion]{"entity":"location"}
+    - [Thane]{"entity":"location"} is my city
+    - [Dombivli]{"entity":"location"} is my district name
+    - [Kalyan]{"entity":"location"} is my town
+    - [Mahim]{"entity":"location"} district
+    - [Bandra]{"entity":"location"} city
+    - West [Chembur]{"entity":"location"}
+    - East [Andheri]{"entity":"location"}
+    - [Borivali]{"entity":"location"} East
+    - [Byculla]{"entity":"location"} West
+    - my city is [Juhu]{"entity":"location"} south
+    - I live at [Ville Parle]{"entity":"location"}
+    - my locality is [Navi Mumbai]{"entity":"location"} central
+    - my district is [South Bombay]{"entity":"location"}
+    - my town is [South Mumbai]{"entity":"location"}
+    - Rural [Govandi]{"entity":"location"}
+    - Urban [Vashi]{"entity":"location"}
+    - [Delhi]{"entity":"location"}
+    - [NCR]{"entity":"location"}
+    - [Noida]{"entity":"location"}
+    - [Faridbad]{"entity":"location"}
+    - [UP]{"entity":"location"}
+    - [gurgaon]{"entity":"location"}
+    - [Lucknow]{"entity":"location"}
+    - [Himachal]{"entity":"location"}
+    - [Kangra]{"entity":"location"}
+
+- intent: my_name
+  examples: |
+    - my name is [Smit Patel]{"entity":"name"}
+    - [smit]{"entity":"name"} is my name
+    - [Sundar Topibaz]{"entity":"name"}
+    - my name is [Karan Gori]{"entity":"name"}
+    - [Harsh Gori]{"entity":"name"}
+    - My name is [Drishti Parekh]{"entity":"name"}
+    - My name is [Aaradhya Ganshyam]{"entity":"name"}
+    - [Ishita Shetty]{"entity":"name"} is my name
+    - My name is [Kashvi Gala]{"entity":"name"}
+    - My name is [Tanvi Talwar]{"entity":"name"}
+    - My name is [Aaradhya Shah]{"entity":"name"}
+    - [Sneha Pawar]{"entity":"name"}
+    - [Sachin Tendulkar]{"entity":"name"}
+    - [Virat Kohli]{"entity":"name"} is my name
+    - [Jash Bhanushali]{"entity":"name"}
+    - [Kevin Upadhyay]{"entity":"name"} is my name
+    - [Nimit Panchal]{"entity":"name"} is my name
+    - [Ranbir Kapoor]{"entity":"name"} is my name
+    - Here is my name [Taksh Zaveri]{"entity":"name"}
+    - [Yug Gupta]{"entity":"name"}
+    - [Vaishali Gupta]{"entity":"name"}
+    - [Advitiya Sood]{"entity":"name"}
+    - [Tanya Singh]{"entity":"name"}
+
+# - regex: name
+#   examples: |
+#     - [A-Z]+[a-z]+
+
+- regex: number
+  examples: |
+    - \d{10}
+
+- regex: email
+  examples: |
+    - [\w!#$%&'/=?^.+*-]+@[\w.-]+$
+
+# - regex: age
+#   examples: |
+#     - \d{2}
+
+- intent: mobile_number
+  examples: |
+    - my number is [9876543210]{"entity":"number"}
+    - [9876543210]{"entity":"number"} is my mobile number
+    - [9876543210]{"entity":"number"}
+    - [1234567890]{"entity":"number"}
+    - [1234567890]{"entity":"number"} is my mobile number
+    - here it is [8168276390]{"entity":"number"}
+    - yes this is my mobile number [9618697981]{"entity":"number"}
+    - [9816141231]{"entity":"number"}
+
+- intent: my_age
+  examples: |
+    - my age is [32]{"entity":"age"}
+    - [18]{"entity":"age"} is my current age
+    - i am [20]{"entity":"age"} years old
+    - [21]{"entity":"age"} year old
+    - [30]{"entity":"age"} old
+    - [24]{"entity":"age"}
+    - i am [22]{"entity":"age"} years old
+    - [19]{"entity":"age"} is my age
+
+- intent: my_email
+  examples: |
+    - my mail id is [abc@gmail.com]{"entity":"email"}
+    - [smitpatel@gmail.com]{"entity":"email"} is my email
+    - here is my email address [123@gmail.com]{"entity":"email"}
+    - my electronic mail id is [xyz_@hotmail.com]{"entity":"email"}
+    - my email address is [abc@gmail.com]{"entity":"email"}
+    - [smit123@sakec.ac.in]{"entity":"email"}
+    - note this as my active mail address [karan2726@outlook.com]{"entity":"email"}
+    - [harsh2893@yahoo.com]{"entity":"email"}
+
+- intent: Appointment
+  examples: |
+    - i need an appointment
+    - book me an appointment
+    - please provide me appointment details
+    - appointment
+    - booking for a appointment
+    - book an appointment
+    - doctor appointment
+    - want a doctor
+    - want appointment
+    - apptment
+    - appt
+    - dr appt
+    - appontment
+
+- intent: out_of_scope
+  examples: |
+    - who is the prime minister of india
+    - what is 2+2
+    - I want to order food
+    - what is the big bang theory?
+    - tell me about the quantum physics
+    - how to file a tax return?
+    - fastest animal on earth?
+
+- intent: time_slot
+  examples: |
+    - I want to book at [7:00 pm]{"entity": "time"}
+    - I want [9:00 am]{"entity": "time"}
+    - I want [10:00 am]{"entity": "time"}
+    - book for [6:00 pm]{"entity": "time"}
+    - I need [5:00 pm]{"entity": "time"}
+    - I want [4:15 pm]{"entity": "time"}
+    - book for [3:00 pm]{"entity": "time"}
+    - book for [12:00 pm]{"entity": "time"}
+    - I need [11:00 am]{"entity": "time"}
+    - I need [11:15 am]{"entity": "time"}
+
+- intent: doctor_specialisation
+  examples: |
+    - [General Doctor]{"entity": "doc_spec"}
+    - [ENT Specialist]{"entity": "doc_spec"}
+    - [eyecheckup]{"entity": "doc_spec"}
+    - [psychiatrist]{"entity": "doc_spec"}
+    - [gynecologist]{"entity": "doc_spec"}
+    - [thyroid specialist]{"entity": "doc_spec"}
+    - [dentist]{"entity": "doc_spec"}
+    - [ortho specialist]{"entity": "doc_spec"}
+    - [diabetologist]{"entity": "doc_spec"}
+    - [gastrologist]{"entity": "doc_spec"}
+    - [neuro surgeon]{"entity": "doc_spec"}
+    - [skin specialist]{"entity": "doc_spec"}

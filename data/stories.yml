@@ -1,0 +1,61 @@
+version: "2.0"
+
+stories:
+
+- story: happy path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+  - action: utter_happy
+
+- story: happy path
+  steps:
+  - intent: user_thanks
+  - action: utter_welcome
+
+
+- story: diagnosis path 1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: check_symptoms
+  - action: utter_help
+  - intent: symptom
+  - action: action_handle_symptom
+  - intent: deny
+  - action: utter_alternative
+  - intent: symptom
+  - action: action_handle_symptom
+  - intent: symptom
+  - action: action_handle_symptom
+  - intent: deny
+  - action: utter_alternative
+  - intent: symptom
+  - action: action_handle_symptom
+  - intent: deny
+  - action: utter_alternative
+  - intent: deny
+  - action: utter_alternative
+  - intent: end
+  - action: action_diagnosis
+
+- story: diagnosis path 2
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: check_symptoms
+  - action: utter_help
+  - intent: symptom
+  - action: action_handle_symptom
+  - intent: symptom
+  - action: action_handle_symptom
+  - intent: symptom
+  - action: action_handle_symptom
+  - intent: symptom
+  - action: action_handle_symptom
+  - intent: end
+  - action: action_diagnosis
+  - action: utter_did_that_help
+
+

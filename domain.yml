@@ -1,0 +1,239 @@
+version: "2.0"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - check_symptoms
+  - Appointment
+  - user_thanks
+  - bot_challenge
+  - symptom
+  - all:
+      use_entities: []
+  - end:
+      use_entities: []
+  - Location:
+      use_entities:
+      - location
+  - my_name:
+      use_entities:
+      - name
+  - mobile_number:
+      use_entities:
+      - number
+  - my_email:
+      use_entities:
+      - email
+  - my_age:
+      use_entities:
+      - age
+  - time_slot:
+      use_entities:
+      - time
+  - doctor_specialisation:
+      use_entities:
+      - doc_spec
+  - out_of_scope
+  - nlu_fallback
+
+entities:
+- location
+- name
+- number
+- email
+- age
+- time
+- doc_spec
+
+slots:
+  location:
+    type: text
+    influence_conversation: false
+  name:
+    type: text
+    influence_conversation: false
+  number:
+    type: text
+    influence_conversation: false
+  email:
+    type: text
+    influence_conversation: false
+  age:
+    type: text
+    influence_conversation: false
+  time:
+    type: text
+    influence_conversation: false
+  doc_spec:
+    type: text
+    influence_conversation: false
+  symptom_list:
+    type: list
+    influence_conversation: false
+
+responses:
+  utter_out_of_scope:
+  - text: Sorry! I didn't get what you said. Ask me about Healthcare
+  - text: You are going off topic! Ask me about Healthcare
+  - text: Sorry! I am not trained for this. Ask me about Healthcare
+
+  utter_ask_location:
+  - text: Sure! What is your city name?
+  - text: Please provide me with your city name
+
+  utter_sure_user_details:
+  - text: Sure! First I will be needing some details
+
+  utter_ask_name:
+  - text: Please mention your Full Name (eg- Karan Gori)
+
+  utter_ask_number:
+  - text: "{name}, please mention your Mobile Number:"
+
+  utter_ask_email:
+  - text: 'Please mention your Email id:'
+
+  utter_ask_age:
+  - text: 'Please enter your Age :'
+
+  utter_ask_doc_spec:
+    - buttons:
+        - title: "General Doctor"
+          payload: '/doctor_specialisation{{"doc_spec":"General Doctor"}}'
+        - title: "ENT Specialist"
+          payload: '/doctor_specialisation{{"doc_spec":"ENT Specialist"}}'
+        - title: "Dentist"
+          payload: '/doctor_specialisation{{"doc_spec":"Dentist"}}'
+        - title: "Eye Specialist"
+          payload: '/doctor_specialisation{{"doc_spec":"Eye Specialist"}}'
+        - title: "Psychiatrist"
+          payload: '/doctor_specialisation{{"doc_spec":"Psychiatrist"}}'
+        - title: "Skin Specialist"
+          payload: '/doctor_specialisation{{"doc_spec":"skin specialist"}}'
+      text: 'What is the doctors specialisation?'
+
+  utter_details_thanks:
+  - text: "I have booked an appointment for {Name} at {Time}\nLocation: {Location}\nMobile Number: {Mobile_number}\nEmail: {Email}\nAge: {Age}!"
+  utter_ask_time:
+  - buttons:
+      - title: "9:00AM"
+        payload: '/time_slot{{"time":"9:00 AM"}}'
+      - title: "11:00AM"
+        payload: '/time_slot{{"time":"11:00 AM"}}'
+      - title: "2:00PM"
+        payload: '/time_slot{{"time":"2:00 PM"}}'
+      - title: "4:00PM"
+        payload: '/time_slot{{"time":"4:00 pm"}}'
+    text: "Select your preferable time slot from the working hours:"
+
+  utter_greet:
+    - buttons:
+        - payload: '/Appointment'
+          title: Book an Appointment
+        - payload: '/check_symptoms'
+          title: Check my symptoms!
+      text: 'Hi, how can I help you?'
+
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+  - text: Did I predict it right?
+
+  utter_happy:
+  - text: "Great, carry on!"
+  - text: Happy to help
+
+  utter_goodbye:
+  - text: "Bye"
+  - text: Goodbye! Take care
+  - text: See Ya
+  - text: Enjoy your day!
+  - text: Sayonara!
+
+  utter_bot_challenge:
+  - text: "I am a Healthcare Assistant!"
+
+  utter_thanks:
+  - text: Thank You for providing the details
+
+  utter_welcome:
+  - text: You are welcome!
+  - text: My pleasure!
+  - text: At your service!
+
+  utter_enter_symp:
+  - text: Please enter the symptoms in comma separated format. Eg-(cough, fever, cold,... etc.)
+
+  utter_please_wait:
+  - text: Please wait while I am predicting the disease...
+
+  ask:
+  - text: Okay
+
+  ask_new:
+  - text: Please enter the symptom you have
+
+  utter_help:
+  - text: Please enter your symptoms
+
+  utter_solution:
+  - image: https://cdn.dribbble.com/users/1044993/screenshots/6403343/carebot-dribbble.png
+    text: 'Our Diagnosis: Asthma. Suggested Drug: Bronchodilator'
+
+  utter_alternative:
+  - text: Can you tell us what other symptom you have?
+
+  utter_iamabot:
+  - text: I am a bot, powered by Rasa.
+
+  utter_sorry:
+  - text: Sorry we couldn't help.
+
+  utter_ask:
+  - text: Do you have this symptom?
+    buttons:
+    - title: yes
+      payload: /symptom
+    - title: no
+      payload: /all
+
+actions:
+- action_submit
+- action_handle_symptom
+- action_diagnosis
+
+forms:
+  user_details_form:
+    required_slots:
+      name:
+        - type: from_entity
+          entity: name
+      number:
+        - type: from_entity
+          entity: number
+      location:
+        - type: from_entity
+          entity: location
+      email:
+        - type: from_entity
+          entity: email
+      age:
+        - type: from_entity
+          entity: age
+      time:
+        - type: from_entity
+          entity: time
+      doc_spec:
+        - type: from_entity
+          entity: doc_spec
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
