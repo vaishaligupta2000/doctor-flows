@@ -40,5 +40,8492 @@ nlu:
     - Himachal
     - Kangra
 
+- lookup: my_age
+  examples: |
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+    - 11
+    - 12
+    - 13
+    - 14
+    - 15
+    - 16
+    - 17
+    - 18
+    - 19
+    - 20
+    - 21
+    - 22
+    - 23
+    - 24
+    - 25
+    - 26
+    - 27
+    - 28
+    - 29
+    - 30
+    - 31
+    - 32
+    - 33
+    - 34
+    - 35
+    - 36
+    - 37
+    - 38
+    - 39
+    - 40
+    - 41
+    - 42
+    - 43
+    - 44
+    - 45
+    - 46
+    - 47
+    - 48
+    - 49
+    - 50
+    - 51
+    - 52
+    - 53
+    - 54
+    - 55
+    - 56
+    - 57
+    - 58
+    - 59
+    - 60
+    - 61
+    - 62
+    - 63
+    - 64
+    - 65
+    - 66
+    - 67
+    - 68
+    - 69
+    - 70
 
-
+- lookup: my_name
+  examples: |
+    - shivani
+    - isha
+    - smt shyani devi
+    - divya
+    - mansi
+    - mazida
+    - pooja
+    - kajal
+    - meena
+    - sonam
+    - buity
+    - hina
+    - shakshi sagar
+    - pooja
+    - anita
+    - neetu
+    - anshu d/o
+    - kanika kathuria
+    - manju
+    - shakshi
+    - anita
+    - reena
+    - neha
+    - khushboo
+    - aasmin
+    - jyoti
+    - riya masi
+    - rekha
+    - leela with a child
+    - isha
+    - gulshan
+    - priya jain
+    - pooja
+    - rakhi @payal
+    - versha
+    - sunita
+    - nitu kumari
+    - vandana
+    - roshni
+    - parveen
+    - versa
+    - kavita
+    - pooja
+    - sarojani
+    - nagina
+    - tapas das
+    - priyanka
+    - santna
+    - khushbu
+    - pooja
+    - any bobby
+    - deeya kumari
+    - anjali juneja
+    - anjali @ babli
+    - champa karketta
+    - anshu
+    - monika
+    - rimmi singh
+    - aanamika misra
+    - chahat
+    - manju
+    - nagma khatoon
+    - pooja
+    - sonam
+    - koshal
+    - laxmi devi w/o late sh hukan chand
+    - sandhya
+    - poonam
+    - sna
+    - nikita senger
+    - layba noor
+    - iqra
+    - salima
+    - naziya siddiqui
+    - priti
+    - kamni
+    - sandhya
+    - renu @ rinki
+    - priya
+    - pooja
+    - minakchi
+    - ruby
+    - smt.farhana baigum
+    - sheetal
+    - kalyani patro
+    - anjali
+    - priyanka
+    - palak @ simran
+    - babita
+    - gurdeep kaur
+    - dhanwanti  devi
+    - fooljhnah
+    - vandana
+    - smt. gyatri devi
+    - shehnaz
+    - kajal
+    - pooja
+    - ranju
+    - vidhi
+    - pooja kashyap
+    - jyoti
+    - meena kumari
+    - savita, sagar, panap
+    - reena devi
+    - neha
+    - payal goyala
+    - rakhi
+    - priynka
+    - janki
+    - laxmi  kumari
+    - rinku malav
+    - sohni
+    - basnti
+    - meera
+    - pinki
+    - shivani
+    - kiran devi
+    - sonia
+    - doly
+    - raj kumari
+    - manisha
+    - laxmi devi
+    - swati joshi
+    - aashiya
+    - reena
+    - vimla
+    - suman
+    - sunita
+    - sunita
+    - karina @ kavita
+    - pooja jayshwal
+    - pooja prajapati @ pratibha
+    - seema
+    - kranti
+    - neha
+    - dimpal @doli
+    - aarti devi
+    - sashi mittal
+    - pooja
+    - preeti
+    - priyanka
+    - shajiya
+    - priya sexena
+    - preeti
+    - shanti devi
+    - sitara
+    - aakanksha
+    - charu
+    - pinki
+    - nilam devi
+    - chango uraon
+    - shiv kumari
+    - kaushaliya
+    - babita
+    - mangla urf mangi bai
+    - grace p.a.
+    - usha
+    - smt rubi
+    - nisha @ chinu
+    - subhadra
+    - lalita
+    - asma khatun
+    - anjali
+    - kalawati
+    - seema
+    - santosh singal
+    - priyanka
+    - tina
+    - chanchal
+    - mercy
+    - poonam
+    - smt. manju
+    - varsha
+    - huma khan
+    - gulbasha
+    - seema khatun
+    - seema
+    - roshni
+    - rahila maqbool
+    - kajal choudhary
+    - preeti
+    - geeta devi
+    - swati thakur
+    - pooja
+    - shenaz
+    - rinki
+    - chandni
+    - priyanka
+    - ruksana
+    - vivek kumar
+    - kiran
+    - nisha
+    - heena d/o zamil akhtar
+    - jyoti
+    - rajni
+    - nidhi kumari
+    - seema @ simran
+    - usha devi
+    - kajal
+    - mala devi @ nisha
+    - khushbu
+    - meena
+    - hamida khatun
+    - chanchal
+    - aarti
+    - kanchan
+    - pooja
+    - jyoti
+    - priyaki rav
+    - ranu tiwari
+    - anita devi
+    - leelawati
+    - sunita
+    - manju devi
+    - kamla
+    - arti
+    - pooja
+    - mamta
+    - anju
+    - priyanka
+    - aarti
+    - noor bano
+    - saroj
+    - chandni
+    - rosy massey
+    - poonam
+    - rinukanwr
+    - poonam
+    - shalu
+    - sneha
+    - neetu
+    - komal
+    - sapna
+    - sashi
+    - devki
+    - priya 
+    - pooja
+    - aarti
+    - pooja
+    - sahin
+    - sunita
+    - shalu
+    - anita
+    - asha kumari
+    - komal
+    - kusum
+    - archna
+    - himanshi 
+    - jyoti
+    - jyoti
+    - aarti
+    - anuradha
+    - durga
+    - km sunita
+    - sony jha
+    - sheetal
+    - preety
+    - rubina
+    - sangeeta
+    - madhuri sharma
+    - shabanm
+    - sunita
+    - meena
+    - meenu chawla
+    - nisha
+    - roshni
+    - amar deep kaur
+    - jyoti
+    - shakshi
+    - neelam
+    - aarti
+    - smt sunita
+    - rajia
+    - devi
+    - sita
+    - rubi
+    - jyoti
+    - priyansi
+    - nandu
+    - nazmin
+    - neha
+    - varsha
+    - tripti
+    - ramvati
+    - vandana
+    - afsana
+    - farida begam
+    - khushbu
+    - neha
+    - arti
+    - simran
+    - ranita
+    - yogita tiwari
+    - asha
+    - kiran devi
+    - pooja
+    - soniya
+    - hemlata
+    - priyanka
+    - kajal
+    - sushma
+    - kavita
+    - ranjana
+    - benjir heena mohd.
+    - manju
+    - soniya
+    - seema
+    - komal
+    - salma
+    - rukshana
+    - palak
+    - astha
+    - fahija
+    - reeta
+    - noojo khatoon
+    - chaya
+    - vandana
+    - pooja
+    - mamta
+    - kiran
+    - sakila
+    - rehana
+    - mamta
+    - jyoti
+    - radha devi
+    - kumari komal
+    - neha siddiki
+    - geeta
+    - mira
+    - smt. anju
+    - neha
+    - manisha
+    - priti
+    - swati
+    - seema
+    - roshini praveen
+    - neha
+    - anjali
+    - afsana
+    - shilpa
+    - sudha kumari
+    - afrin
+    - sabnam
+    - batloon w/o garib ulla
+    - monika
+    - anjum devi
+    - smt dhapa devi
+    - priti
+    - yogita
+    - mohini
+    - samsad
+    - sama
+    - kusum
+    - maya
+    - jassi
+    - raj kumari
+    - arti
+    - priyanka
+    - priya
+    - maya
+    - yashoda
+    - susila gudiya
+    - kajal
+    - kumari shivani
+    - ramaiya
+    - kamli
+    - munbura bibi
+    - laxmi
+    - bulbul  devi
+    - radha
+    - rajni
+    - rupa
+    - kumkum
+    - ruksana bano with her son or daughter
+    - priyanka bagcdani d/o gulab bagcdani r/o 11/95 c.h
+    - nisha
+    - kiran
+    - sweety
+    - gulafsa khatun
+    - pooja
+    - pooja
+    - pooja
+    - priyanka
+    - captain
+    - aarti
+    - kumari priyanka agarwal
+    - khshbu
+    - heena
+    - sangeeta
+    - sunaki w/o kallu
+    - paramjeet kaur
+    - sangeet
+    - shalu
+    - neelima
+    - deepti
+    - rajkumari
+    - pooja kanwar
+    - heena
+    - meena
+    - rizwana khatun
+    - madhuri
+    - gulnanj
+    - pinki
+    - rajni
+    - archana
+    - rajni devi
+    - radha
+    - rinki
+    - dipti
+    - kiran
+    - araddhna
+    - bharti
+    - ku dolly
+    - meena devi
+    - payal
+    - divya kawar
+    - laxmi kumari
+    - babli
+    - muskan urf suman
+    - neha
+    - rekha
+    - badrunisha
+    - neelam
+    - poonam
+    - kanchan
+    - pinki
+    - varsa
+    - shukla vishwas
+    - ekta chauhan
+    - pooja kumari
+    - asha
+    - simran
+    - minakshi
+    - nasima @ reshma
+    - rajesh
+    - madhuri
+    - kajal
+    - juneb bano
+    - parerna
+    - alka
+    - manju devi
+    - anita
+    - gungun
+    - neelam
+    - monika
+    - sonia tiwari
+    - muskan
+    - priynka
+    - smt.kiswar jahan
+    - muskan
+    - vandhna
+    - kanchan
+    - santosh bai
+    - munni khatun
+    - smt. annpurna
+    - saneha
+    - hemlata
+    - monika rani
+    - neha
+    - reema jha
+    - kumari meera
+    - raj kumari
+    - yashika
+    - aarti
+    - tapsam
+    - sapna
+    - khusboo
+    - ishika
+    - partibha
+    - narbada
+    - kumari manju
+    - anita
+    - rinku kumari
+    - pooja
+    - sandhya
+    - renu
+    - deepika
+    - kanchan
+    - spana
+    - sapna
+    - rita roy
+    - manju
+    - reshma
+    - samaiali
+    - heena
+    - manju devi
+    - priyanka sagar
+    - samreen
+    - himanshi
+    - mamta
+    - reena
+    - pankaj
+    - roshan
+    - gul afshan
+    - shana
+    - nagma
+    - usha devi
+    - mamta
+    - tanuja
+    - rishu
+    - gunjan verna
+    - noor jala
+    - 
+    - varsha
+    - anjali
+    - khusbhu
+    - khusbhu
+    - reshma
+    - sushma
+    - lakhi devi
+    - nayana kumari
+    - nirmal
+    - bhawana
+    - preeti
+    - reema
+    - jamrujaha
+    - anju devi
+    - puja
+    - durga devi
+    - ruchi
+    - aruna with children
+    - chanchal
+    - chama ( with child dependeri age 2 years)
+    - deepa
+    - poonam
+    - poonam
+    - gulafsa
+    - manisha
+    - babita
+    - seema
+    - smt ladidavi
+    - khushbu
+    - sunaina
+    - gulista
+    - kumari deepa
+    - priya urf laxmi devi with her son
+    - manisha
+    - khushbu
+    - komal
+    - vandana
+    - jyoti devi
+    - payal
+    - kesnata devi @ rajni
+    - matul  devi
+    - nainshi
+    - mubshshira
+    - sona sarkar
+    - neeru
+    - poornima
+    - km. guddi
+    - sunita devi
+    - laxmi
+    - shayra
+    - neelam mehta
+    - priya kumar
+    - sashi
+    - himani
+    - sazi
+    - rashida khatoon
+    - radhika
+    - ruzina khatun
+    - kajol
+    - manisha
+    - jyoti
+    - rukmani
+    - radhika
+    - shabana
+    - geeta
+    - sarita
+    - poonam yadav
+    - neelu
+    - rangeeta
+    - shahnawaj
+    - rimpy
+    - rekha
+    - saroj devi
+    - seema chauhan
+    - kumari gori
+    - chumki
+    - pooja chawriya
+    - jyoti
+    - virjiniya
+    - laxmi
+    - gulfasha
+    - nirmla devi
+    - kavita
+    - saanu goyal
+    - smt kaushalya
+    - divya bharti
+    - varsha
+    - nisha
+    - apsana
+    - heena
+    - priti yadav
+    - bharkah
+    - deepali
+    - heena
+    - priyanka
+    - 
+    - muskan
+    - mudsay
+    - rubbi
+    - nagma
+    - ruksar
+    - komal
+    - smt. sushma
+    - alka
+    - smt. chancal
+    - ruby
+    - kusuma
+    - himanshi
+    - smt. sushma
+    - sumnesh
+    - neha
+    - heena
+    - shivani
+    - reena
+    - lali @ deepa
+    - zareena
+    - minakshi
+    - aarti
+    - karishma
+    - swati
+    - mamta
+    - priyanka
+    - seema
+    - preeti
+    - usha
+    - jasoda
+    - poonam
+    - shathi davi
+    - nimla sharama
+    - menadevi
+    - sut. suman khatik
+    - sameem
+    - shrishti
+    - bharti
+    - jyoty
+    - gudya singh
+    - sunita
+    - meena
+    - pooja
+    - laxami
+    - meghana
+    - kangana
+    - garima
+    - nandni
+    - lalita devi
+    - nazrin
+    - saraswati
+    - bhatri
+    - rakhi
+    - mobsheera haider (shadiya)
+    - pooja
+    - montu
+    - montu
+    - kajal
+    - pinki
+    - madhu
+    - mudrika
+    - radhika
+    - madhu
+    - devi sharma
+    - shivani
+    - muskan
+    - poonam
+    - sonia
+    - gytri  garg
+    - shashi @ kajal
+    - suganti @ sonali
+    - swati singh
+    - laxmi
+    - nekki
+    - rajni
+    - poonam
+    - khushi
+    - kureja
+    - anupama
+    - anupama
+    - sheetal
+    - rekha
+    - deepika
+    - gyatri
+    - raj rani
+    - ridhima
+    - rekha kumari
+    - nisha hajra
+    - naseeba
+    - isha naaz
+    - shivani
+    - jeenat
+    - ruksana bano
+    - soniya
+    - sarita
+    - biwa kumari
+    - gayatri
+    - ridhima
+    - sunita verma
+    - komal
+    - kanchan
+    - megha bansal
+    - neni
+    - sangeeta
+    - surjeet kaur
+    - tina
+    - swati
+    - nisha kapoor
+    - 
+    - shivani
+    - parwati
+    - anjali
+    - kanta
+    - priyanka
+    - prema devi
+    - maya kumari
+    - sajida
+    - disha
+    - geeta
+    - minakxi
+    - munni
+    - smt. vidhya tiwari
+    - nisha
+    - pooja
+    - ranjeeta
+    - smt. shweta gupta
+    - anam
+    - vibha
+    - roshan
+    - krishna
+    - asha devi
+    - resham yadav
+    - pavitra
+    - manpreet kaur @ preet
+    - rekha
+    - bigan mehto
+    - lalita
+    - razia
+    - pushpa
+    - aman jeet
+    - aman
+    - indra
+    - devi kanwar
+    - neha
+    - sunita
+    - neetu
+    - manju kumari
+    - parul
+    - mansi
+    - sabbo bano
+    - bimlesh
+    - chhabi rani dass
+    - rubi
+    - pooja
+    - anshu
+    - bindiya
+    - manisha
+    - rajni
+    - pooja
+    - santosh
+    - seema
+    - seema
+    - tara kanwar
+    - sarojini
+    - phulkana
+    - kiran
+    - sapna
+    - krishka
+    - ilema
+    - sonam
+    - khushi
+    - sahar bano
+    - sahiba
+    - rita
+    - pinki
+    - nisha
+    - chandni
+    - chandni
+    - himanshi
+    - sunita
+    - akansha
+    - gayatri @ rani
+    - pooja
+    - nisha
+    - bimla
+    - rada
+    - maya
+    - rahina
+    - parvesh kumari
+    - manorma
+    - sapna
+    - neha
+    - kirti ahuja
+    - alam aara
+    - priti rawat
+    - suman
+    - kum  mamta
+    - tamsa
+    - hoor bano
+    - bhawana jat
+    - sunita with her daughter
+    - sangeeta
+    - sangeeta
+    - harneet kaur
+    - harneet kaur
+    - roshani
+    - radha
+    - deepa
+    - mansi raghav
+    - jyoti
+    - pooja
+    - sarita devi
+    - laxmi
+    - vimla
+    - preeti
+    - sukhbir kaur
+    - seema
+    - saveta
+    - rakhi chauhan
+    - rani
+    - kafia
+    - minakshi
+    - smt sarita
+    - rubby
+    - ankita kanwar rathore
+    - meera
+    - manisha
+    - chand mundari@geeta
+    - kinya devi @ pinu
+    - pooja
+    - shikha rai
+    - kajal
+    - priti
+    - kanika sharma
+    - pallavi
+    - sakshi
+    - asgari bagam
+    - mumtaz @ babi
+    - ruksar
+    - kavita harijan
+    - sunita
+    - anupam
+    - karishma
+    - parniti
+    - ruksar
+    - pappy
+    - raziya
+    - payal
+    - neeru
+    - anita bai
+    - mohini
+    - diksha rani
+    - jamila khatoon
+    - preeti
+    - sabhana
+    - durgash urf mahi
+    - smt laxmi
+    - rupa verma
+    - km varsha
+    - ankita
+    - seema
+    - namarta
+    - guddi with 02 children
+    - phoolmani
+    - yogita
+    - shiwani
+    - parveen khatun
+    - kajal
+    - saroj
+    - anju goyal
+    - jyoti
+    - renu
+    - seema
+    - naseem
+    - hemraj
+    - sonia
+    - pushpa
+    - ramwati
+    - imrana
+    - vaishali
+    - jasoda
+    - kripya minch
+    - pushpa sahu
+    - chanchal
+    - sonam bano
+    - savita
+    - rashika
+    - priti
+    - chanchal
+    - poonam
+    - priyanka
+    - bilke khatoon
+    - sarita
+    - kajal
+    - punam
+    - krishna@manisha
+    - kavita
+    - madhu
+    - kulli devi
+    - kali
+    - komal berwal
+    - kumari radha
+    - chotti jha
+    - sivani
+    - monika
+    - shamima
+    - smt. muslima bibi
+    - rama sharma
+    - jyoti
+    - ranju devi
+    - sunali
+    - zahira
+    - purnima gosawmi
+    - ruksar
+    - kajal
+    - suman
+    - anshul
+    - nisha singh
+    - anjli
+    - himansi
+    - reeta  and her doughter surabhi
+    - manisha
+    - neelam
+    - dharmshila
+    - hemani
+    - mamta
+    - shivani
+    - sunder munni kumari
+    - sunder munni kumari
+    - santosh
+    - smt. lalita devi
+    - sangeeta mahali
+    - pooja
+    - reena
+    - ranjita devi and his son priyanshu age 2,1/2 yrs
+    - sareen bano
+    - sonali
+    - soni
+    - gyan devi @ biba
+    - seema
+    - preeti
+    - neelam devi
+    - neetu
+    - vinod gupta
+    - meena
+    - mamuni
+    - raja devi
+    - neha
+    - jyoti pandey
+    - paramjeet kaur @ aasha
+    - padma
+    - puja
+    - anjali
+    - jaya saini
+    - mamta
+    - aarti
+    - anjali
+    - vaishali
+    - savita
+    - poonam mishra
+    - komal
+    - madam sahnaj
+    - laxmi devi
+    - jeta
+    - naveena
+    - anu jain
+    - pooja
+    - padma devi
+    - puja chauhan
+    - poonam
+    - vinod devi
+    - ram pyari
+    - kali
+    - sumitra
+    - anju devi
+    - minakshi
+    - komal
+    - roshni
+    - pooja
+    - subhdra kumar
+    - shallu
+    - rinku kumari
+    - ahsamin @ juhi
+    - vandna @ krishma
+    - janki @ soni
+    - sweety
+    - 
+    - ku. seetal rawat
+    - kiran @ vina
+    - kanti devi
+    - maya devi
+    - labbhi
+    - shabnam
+    - bhawana
+    - kamlesh
+    - kumari aasu
+    - smt gulkasha
+    - neha
+    - deepa bhatt
+    - jyoti
+    - harpreet kaur
+    - gauri
+    - asha
+    - kavita
+    - meena
+    - muskhan
+    - arti
+    - annu sharma
+    - neetu
+    - sangeeta
+    - kusum
+    - smt shimla devi
+    - santoshi
+    - vinod kumar
+    - nurbi
+    - anil kumar
+    - ramli rathore
+    - sunita
+    - beauty khatoon
+    - sarvesh
+    - poonam
+    - praveena
+    - reetu
+    - lalita sharma
+    - munnadevi
+    - smt panchi devi urf sita devi
+    - rekha
+    - sabina @ faiziya
+    - kanchan
+    - mayuri
+    - aarti @ noni
+    - jyoti
+    - suman
+    - maheshar jahan
+    - sushma
+    - pinki
+    - sukenta
+    - sanjana
+    - versha
+    - reetu
+    - soni
+    - geeta devi
+    - suman
+    - maya bai
+    - muskan
+    - rozi sharma
+    - sheetal
+    - manju
+    - aarti
+    - jyoti
+    - sajia
+    - shivani
+    - babita
+    - kiran
+    - deepa
+    - shaving khatoon
+    - komal
+    - smt gita
+    - monika
+    - saroj
+    - bitoo devi
+    - genda
+    - hemlata
+    - priyanka @ khushboo
+    - priyanka @ khushboo
+    - vidhya
+    - smt neelam
+    - jyoti
+    - aditya negi
+    - smt. rashni
+    - gajala
+    - kanta sharma
+    - ravinder kaur asha
+    - rukhsar
+    - manpreet kaur
+    - rehana praveen
+    - babli
+    - komal
+    - ritika
+    - ritu @ shallu
+    - meena
+    - kiran
+    - rakhi
+    - anita devi
+    - bhuri devi
+    - renu
+    - mamta
+    - preeti
+    - pooja
+    - amiraka
+    - 
+    - malvika
+    - priti gujrati
+    - seema
+    - chanchal
+    - gotiya gurjar
+    - lalita devi
+    - pooja
+    - shveta
+    - 
+    - reeta
+    - kavita
+    - yasmin
+    - nirvat
+    - monika
+    - pooja
+    - pooja
+    - divya
+    - aaysha
+    - preeti chaudhary
+    - reena
+    - shikha
+    - manisha
+    - sunita
+    - shahna
+    - dhapu bai
+    - anjali
+    - mausam
+    - jyoti
+    - neha
+    - varsha
+    - sarita devi
+    - priya
+    - ridhima
+    - naraini devi
+    - poonam
+    - sapna
+    - sunita
+    - smt shasi
+    - smt. lalita
+    - chinki kanwar
+    - naryani devi
+    - sita devi
+    - jyoti
+    - geeta
+    - rachna
+    - jagrti
+    - niti
+    - rekha
+    - manisha
+    - aarti
+    - kajol
+    - neelam
+    - pinky
+    - pinki
+    - tarun
+    - pooja
+    - km0 mamta
+    - sumirta
+    - laxami
+    - anjila
+    - smt. parvti devi
+    - mamta
+    - priyanka
+    - renuka
+    - anita
+    - kajal
+    - rajeshwari
+    - savina
+    - sapna
+    - shaifali
+    - ekta
+    - poonam @ neelam
+    - sunita
+    - tanya
+    - beauty dass
+    - aayana
+    - ranjana
+    - anju kumari
+    - shabina
+    - dipika
+    - urmila with child
+    - komal
+    - jyoti joshi
+    - smt vinod devi
+    - doli
+    - ruksana
+    - arti arora
+    - dimple
+    - khusbhu
+    - soni
+    - himansi
+    - sobha veshy
+    - nasim bano
+    - shaifali
+    - smt. nena devi
+    - sangeeta shah
+    - farhana
+    - santok luhar
+    - kajal
+    - bhawana
+    - rekha
+    - anuradha
+    - aaradhana @ priyanka
+    - harshita poswal
+    - laxmi
+    - nabila
+    - kavita devi
+    - reshma
+    - mamta@lalita
+    - shakuntala sharma
+    - santosh
+    - sony
+    - bobi
+    - aradhana @ radha
+    - baby
+    - seema
+    - nisha
+    - nisha @ ninu
+    - anuradha
+    - miss geeta salvi
+    - miss kamlesh
+    - indra
+    - smt. seema
+    - anuradha
+    - parvesh
+    - poonam
+    - marya
+    - laxmi
+    - rojmen
+    - komal kumari
+    - neha
+    - sugna
+    - radikha
+    - meeta sharma
+    - anuradha
+    - minakshi
+    - manpreet
+    - saniya
+    - savitri bai
+    - farheen
+    - naina
+    - shanichari
+    - komal
+    - monika  kanwar
+    - sangeeta @  pooja
+    - suman
+    - neha
+    - priyanka - pinki
+    - kumari ritu
+    - manisha
+    - krishna w/o hiralal
+    - iqrar
+    - gali no 5/4 samta vihar m. pur part ii delhi
+    - nisha
+    - reena
+    - tanvi raheja
+    - divya
+    - hema khatun
+    - neelam
+    - koshal
+    - sunita
+    - radha
+    - babita
+    - komal
+    - haseena
+    - rajkumari
+    - mamita
+    - payal
+    - soniya w/o jauhar
+    - meenakshi
+    - neetu
+    - tapsya tyagi
+    - pooja  d/o
+    - mrs. leela
+    - rekha
+    - anjali
+    - supriya
+    - pinki
+    - smt akhtri begam
+    - muskan
+    - gayatri
+    - ashanjali
+    - pooja
+    - marjina
+    - poonam yadav
+    - richa
+    - rizwana
+    - salmakhatun
+    - beera
+    - nargis
+    - malti
+    - rubi
+    - seema
+    - pooja taneja
+    - ramdulari @ gulabu
+    - sheela
+    - preeti
+    - jyoti
+    - kumari kanta @ kajal
+    - usha sen
+    - gauri
+    - preeti d/o daulat ram r/o a-629, jj colony madipur
+    - preeti singh
+    - gajala parveen
+    - ruksana
+    - ranjana singh
+    - jayanti @ pooja
+    - neha parveen
+    - nashrin and her daughter jannat (both)
+    - sagita@harsita
+    - hyatun mulla
+    - himani
+    - arti
+    - ms irshrat
+    - ms. deepa
+    - manisha @ mansi
+    - anita
+    - sunita
+    - suman
+    - firida
+    - neha
+    - salma
+    - maya devi
+    - disha
+    - rajwati
+    - manju
+    - priyak davi
+    - tuba fatima
+    - rekha
+    - smt kanchan devi
+    - radhabai
+    - renu rajawat
+    - pooja
+    - ramila bai
+    - najma  & asma
+    - najma  & asma
+    - sunita
+    - muskan
+    - noor subha @ heena
+    - sunita
+    - sunita
+    - sunita
+    - sunita
+    - payal
+    - devender kaur
+    - rekha
+    - shusila devi
+    - ameera lakra
+    - kavita
+    - sona
+    - neelam @ munni
+    - pooja
+    - vinita
+    - pooja gop
+    - pooja ( with child )
+    - mahadevi
+    - veenita
+    - poonam
+    - atta
+    - shivani :yadav @ shalu
+    - dhola bai
+    - vijeta sexana
+    - ku aachal
+    - sangeeta
+    - kajal @ shagun
+    - gudiya
+    - sajiya katun
+    - mooli
+    - paryanka
+    - rekha meena
+    - jyoti
+    - laxmi
+    - shanti
+    - nikita
+    - naveela
+    - sundga
+    - farzana
+    - mona
+    - gulnaj
+    - meena
+    - shahin
+    - kiran
+    - anita
+    - amrita
+    - marjina
+    - kamana devi
+    - ram kali
+    - chaya
+    - shanti devi
+    - babita
+    - komal
+    - yukilal
+    - urmila
+    - lalita
+    - smt sanjana
+    - shahin
+    - reena
+    - madhu
+    - miss leela
+    - aasha rani
+    - chandni
+    - rozi
+    - shanti
+    - joyti
+    - priyanka
+    - renu gupta
+    - krishna
+    - w/o kundan kumar
+    - chander prabha
+    - sushmita
+    - 
+    - muskan
+    - paka kanda swamy
+    - sanju urf sanjya
+    - savitri
+    - muskan
+    - prinka jha
+    - parveen
+    - babita
+    - pinki
+    - rajni
+    - shipra
+    - km0 komal tomar
+    - sony @ madhubala
+    - mamta
+    - mamta
+    - sama
+    - jyoti
+    - aafrin
+    - gyaan kanwar
+    - sharda devi
+    - muskan
+    - manisha
+    - jyoti
+    - aarti
+    - manisha garg
+    - komal @ manju
+    - deepa
+    - versa
+    - huma @ nureen jahra
+    - aarti
+    - meena
+    - anjara @ vicky
+    - sarla
+    - meera devi
+    - masuma khatun @ manju
+    - poonam
+    - jinat
+    - sonali
+    - shivani
+    - deepika
+    - nisha
+    - pushpa
+    - urmila
+    - sunita bai
+    - ravina
+    - shivani
+    - sandhya
+    - smt. kavita
+    - jyoti
+    - smt sunita
+    - kumari priyanka
+    - shabana
+    - diksha or beby
+    - chameli
+    - anam
+    - preeti
+    - madhu
+    - chanda kumari
+    - payal
+    - rashi
+    - yogeshwari goyait
+    - sweta kumari
+    - sonu
+    - santi devi
+    - maya devi
+    - nisha
+    - nisha
+    - rakhi
+    - sweeti
+    - shital
+    - nosi
+    - nosi
+    - pinky verma
+    - geeta
+    - rita gupta
+    - safila
+    - robi
+    - kamlesh @ gordi
+    - pratibha
+    - aashi
+    - suman
+    - ladli
+    - partibha
+    - mangubai
+    - reena
+    - kusum
+    - rukhsar
+    - anita
+    - sabiya
+    - devi saraswati @ sapna
+    - raj rani
+    - reena jain
+    - sapna
+    - aarti
+    - harshita chobe
+    - simran
+    - komal panwar
+    - ravina
+    - kamlesh mehto
+    - shanti devi
+    - simmy m.no.-7206252659.
+    - rakhi
+    - ku. meena
+    - tulsi parashar
+    - smt. asha
+    - meenakshi
+    - rekha
+    - poonam
+    - anita
+    - ekta
+    - bharti
+    - maya
+    - rubi
+    - shanti
+    - chanda
+    - anjali
+    - neha
+    - kiran
+    - smt.sushil w/o fateh singh
+    - 
+    - anjli
+    - rekha urf annu
+    - babita
+    - chandra kala
+    - yogita
+    - khusbu
+    - sonali haldar
+    - urmila
+    - laxmi
+    - neeru
+    - manju kumari kalbi
+    - kiran
+    - smt munna kumari
+    - maya kvr
+    - shalu
+    - asha
+    - ganga devi
+    - ashwani chhabra
+    - bhumika chettri
+    - parveen
+    - asharani
+    - arsi praveen
+    - mamta
+    - gauri
+    - gayatri devi
+    - munna kawar
+    - sonia
+    - seeta
+    - deepa
+    - sarita
+    - mamta
+    - mansi
+    - ramesh roat
+    - kanku dendor meena
+    - varisha
+    - payal
+    - kavita
+    - bindu
+    - anita
+    - bhawna
+    - suman
+    - bindu devi
+    - vandita
+    - niru
+    - jagviri
+    - pushpa
+    - sangeeta mishra
+    - sanju
+    - bhuri vishnaw
+    - samreen
+    - saveena
+    - ramkali
+    - bindu
+    - manisha
+    - mona
+    - savita devi w/o sandeep patel
+    - tarannum @ arshi
+    - smariti
+    - savitri devi
+    - mamta
+    - roshni khan
+    - pooja
+    - tahira
+    - rubo kumari
+    - pooja
+    - dulari
+    - monika tyagi
+    - kali devi
+    - nand kanvari
+    - rashmi
+    - sayara
+    - kiran
+    - pooja bhandari
+    - tyara
+    - sudama
+    - sushila
+    - gyarsi
+    - sonia
+    - seema
+    - neha
+    - bala devi
+    - julekha banu @ sitara
+    - suman
+    - urvarshi
+    - renu
+    - kalpna
+    - nagma
+    - aarti
+    - geetu
+    - nandani
+    - bahalen angriya
+    - priya
+    - rashmi
+    - bhavana
+    - sangeeta
+    - abida
+    - anju
+    - kumkum
+    - kajal
+    - jyoti kumari
+    - anju
+    - renu
+    - manoj kanwar
+    - guni divy
+    - asha devi
+    - kali charan
+    - nazreen
+    - rajni
+    - rajni
+    - rinki
+    - sameena
+    - nirmala
+    - ankita singh
+    - smt. savita
+    - shima
+    - smt ganga
+    - smt sanju
+    - sonu
+    - saaniya
+    - pratibha
+    - dixya kanwar
+    - sapna
+    - raminder kaur
+    - monika
+    - aaysha
+    - sikha
+    - kajal
+    - ragni
+    - rachna
+    - gurpreet
+    - nena
+    - bimla
+    - aaysha
+    - anju naagar
+    - gaytri devi
+    - rani
+    - preeti
+    - shiwani
+    - kusum
+    - rita devi
+    - radha
+    - manju
+    - deepanshi
+    - narbda
+    - neetu
+    - ganga
+    - mamta
+    - asmit kaur
+    - kumari reshma
+    - pinki
+    - preti
+    - priti
+    - puja
+    - kanta
+    - sima
+    - eshavarya @ prachi
+    - komal
+    - bhawna
+    - sapna
+    - anarkali
+    - rajni
+    - sunita
+    - manlisa bairwa
+    - afarin
+    - bhagya shree
+    - komal
+    - afsana
+    - alema
+    - kajal
+    - sudha
+    - risabh
+    - bhumika
+    - babita
+    - paro
+    - pinky
+    - ritu
+    - sapana sharma
+    - chandra
+    - muskan
+    - bhawana
+    - shivani
+    - ambika panwan
+    - monika
+    - yashmin
+    - rachna
+    - heena
+    - lalita
+    - bhagwati
+    - reena
+    - manisha
+    - kusum
+    - sumalia
+    - soniya
+    - reetima
+    - dharma devi
+    - manju
+    - shanti devi
+    - neha
+    - sunita
+    - mamta jha
+    - sangeeta
+    - anju
+    - joyti sharma
+    - hadisha
+    - suhani singhal
+    - meenu
+    - pooja
+    - deepika
+    - sangeeta devi
+    - rupa
+    - barti
+    - poonam sharma
+    - onginye gift okofor
+    - vimla
+    - reenu
+    - yashoda
+    - kumari manjeet
+    - anju devi
+    - sharda
+    - nazahat
+    - neelam
+    - smt. shakuntala
+    - asha & harshita
+    - nency
+    - chanderkala
+    - mamta negi
+    - kawal kumari
+    - lad bai
+    - bhawna
+    - farzana
+    - sarika panjawani
+    - gudiya
+    - smt kamlesh
+    - durgesh
+    - jyoti
+    - sanna
+    - vineta
+    - varsha
+    - muskan
+    - sonam
+    - anita with her 2 children namely ramesh and siraj
+    - vinita
+    - kishmat
+    - sunita
+    - smt salina @ shasina
+    - komal
+    - vimla devi @ rani
+    - anjali @ nanu
+    - tamnna
+    - kiran thapa
+    - nishu
+    - bharti
+    - lakshmi
+    - shilpa
+    - laxmi
+    - sarita devi
+    - ishika
+    - priya rawat
+    - barkha
+    - kajal
+    - gulshtab
+    - suchitra
+    - saira bano
+    - durga kumari
+    - rajkumari
+    - geeta
+    - pooja
+    - kajal @ sunita
+    - nikky singh
+    - smt asha
+    - sabana bano urf baiesa
+    - pooja
+    - dhakhadevi
+    - smt. sita
+    - rakhi
+    - ambiya
+    - jyoti @ gudya
+    - premwati
+    - premwati
+    - pooja
+    - pinki
+    - nisha
+    - miss kanika
+    - nargis
+    - preeti devi
+    - aarti
+    - kajal
+    - deepali
+    - sushila
+    - ranjana mukharji
+    - k munni rab
+    - sonali
+    - amuda
+    - shakeena
+    - khairu nisha
+    - sushila
+    - mamata
+    - renu
+    - pinki
+    - resham
+    - kumari nenu
+    - kanchan balai
+    - sonaki devi
+    - shila devi
+    - smt. krishana devi
+    - smt. resham
+    - sudama
+    - pooga
+    - alahbasri
+    - ajmeri jaysmin
+    - jyoti
+    - preeti
+    - krishana bhandari
+    - anita
+    - arti
+    - sangeeta kumari
+    - karamjeet
+    - rajkumari
+    - smt ruby devi
+    - ku rube
+    - hina
+    - suman
+    - kajal
+    - shivani
+    - samreen
+    - deepika sharma
+    - varsha garg @ hunny m.no.-8901040854
+    - gaytri bai
+    - suman
+    - partibha
+    - renu
+    - sashi kala
+    - rajshree
+    - sitra
+    - laxmi
+    - kumkum
+    - sano devi
+    - aditi
+    - similata
+    - sadhna @ sabi
+    - rekha harijan
+    - jyoti
+    - raveena
+    - fareena
+    - farina
+    - roshni
+    - beena
+    - sumentra
+    - kumari sahista
+    - manju
+    - nanda devi
+    - soniya
+    - durga
+    - mukti
+    - manju
+    - poga
+    - gulsana
+    - annu
+    - manjeet
+    - bhatari
+    - rubi
+    - soni
+    - monika
+    - niranjan
+    - arti
+    - shahnaz
+    - deepti
+    - arati
+    - nikita
+    - suman
+    - pooja soni
+    - reena
+    - shikha
+    - soniya
+    - shiwani
+    - madhu
+    - komal
+    - sunita
+    - roshan aara begam
+    - neha
+    - neha
+    - yashika
+    - roshanara begam
+    - rinku d/o harvir singh
+    - meenu
+    - nasim
+    - smt. kushma devi
+    - pushpa devi
+    - shiba
+    - pavi
+    - sunita
+    - varsha
+    - sheela
+    - anjali
+    - gulfsa
+    - mona
+    - kherul nisha
+    - hina parvin
+    - jyoti
+    - pooja
+    - rozi
+    - suman
+    - preeti
+    - sanju bai
+    - garima
+    - pooja handa
+    - ashra kaushar
+    - shabana begam
+    - anjum
+    - anuradha
+    - aarti
+    - reena
+    - smt sushma
+    - arzoo
+    - shiva bai
+    - sapna
+    - huseni bano
+    - sonu
+    - smt.sehran
+    - kajal
+    - niru
+    - maya
+    - khusboo
+    - raveena
+    - rachna
+    - rinesh
+    - meenu bahadur
+    - kumari sanju
+    - harmit kor
+    - reena
+    - pooja
+    - geeta rani barman
+    - meena
+    - rena bai
+    - preeti
+    - manisha
+    - aanchal
+    - kajal
+    - madhuni haldar
+    - kanchan
+    - kumari manju
+    - nargis bano
+    - smt. seema pandya
+    - ku. neha raj
+    - suman rani
+    - anju bala @ sunaina
+    - sonia devi
+    - sunita
+    - nitasha
+    - antim
+    - bharti
+    - kajal
+    - divya
+    - sushila kapoor
+    - ganga
+    - madhu
+    - neha verma @ deepa
+    - bharti
+    - neetu
+    - rakhi
+    - komal
+    - pinki devi
+    - aarti
+    - rihana
+    - manisha
+    - juhi
+    - madhuri bhandari
+    - amina begam
+    - pooja devi
+    - kumari arti
+    - manisha
+    - manka
+    - manni bai
+    - priyanka tirki
+    - radhika
+    - jyoti
+    - pinki
+    - radha
+    - sushma
+    - laxmi
+    - anita devi
+    - amasi munda
+    - sandhya
+    - lata
+    - chandani urf chanda tara
+    - tanushri
+    - sapna
+    - komal bharti
+    - santosh kumari
+    - babli
+    - maya
+    - khushbu rani
+    - seema
+    - rani
+    - ramwati
+    - bakila w/ o ankil
+    - juna d/o prem bahadur
+    - namita
+    - roshni
+    - heena
+    - poonam
+    - soniya
+    - laxmi
+    - neelam kaur
+    - urwashi
+    - khushboo
+    - lisha
+    - rinki
+    - mamta bai
+    - madhu
+    - neeru
+    - satwanti
+    - neetu
+    - archana
+    - kajal
+    - savita
+    - archana
+    - shanu
+    - neelam
+    - seema
+    - namra parvez
+    - aasma
+    - dev kanwar
+    - munni devi
+    - kanta
+    - seeta devi
+    - twinkal
+    - doli
+    - vakila
+    - jyoti
+    - rani
+    - saneha sharma
+    - rajani
+    - arti
+    - harprit
+    - nisha devi
+    - gaytri bai
+    - ruchi
+    - komal
+    - kumari jyoti
+    - preety
+    - rani devi
+    - rubina jahan
+    - smt gulista
+    - pooja
+    - pooja
+    - bhavna oad
+    - birmadevi
+    - simran bhishat
+    - laxmi sharma
+    - sufia
+    - sapna
+    - barkha
+    - sonali urf juhi
+    - renu
+    - chahat
+    - sita
+    - krishma
+    - muli
+    - roshan
+    - heena
+    - jyoti
+    - lalita
+    - firdosh bano @ asha
+    - soona bai
+    - smt seema
+    - renu
+    - kumari anjali
+    - smt sudesh davi
+    - premlata
+    - sheetal
+    - manormapal
+    - kismat/ sngu
+    - suman @ sabnam
+    - priti
+    - sangeeta
+    - sangeeta
+    - megha bhasin
+    - mahak
+    - alapna
+    - rekha
+    - rekha
+    - parveen
+    - goldy
+    - mohini singh
+    - rajni
+    - mala witrh two child ritik age-3 & rohan age-6 yrs
+    - arti
+    - kavita
+    - rubi
+    - sehnaj
+    - alseepa
+    - anita
+    - jafrin
+    - leela
+    - diksha soni
+    - ram singh
+    - kavita
+    - vandana
+    - hema aikka
+    - aashiya
+    - laxmi
+    - diksha
+    - anjana mahajan
+    - vinita
+    - mariyam
+    - anju
+    - najrin @ soniya
+    - sitara  khatun
+    - chand tara
+    - darkash
+    - noor jah
+    - manju
+    - sunita
+    - tarnnum
+    - anjali kiski
+    - shiv devi
+    - ruksana
+    - reena
+    - tumpa das with a child roma das
+    - babita khatoon
+    - mohseena
+    - khushboo sharma
+    - shanti bai
+    - tulsi
+    - dayawati
+    - rukmani
+    - mamta
+    - nirmala
+    - manju
+    - laxmi
+    - geeta devi
+    - himanshi
+    - sanjna
+    - shahnaz khatum
+    - chanchal
+    - muskan@ruksher
+    - binnu
+    - kamla devi
+    - tumpa
+    - roshani
+    - laxita
+    - piryanka
+    - runiya
+    - jharna
+    - sakila
+    - nirja
+    - smt. sobha
+    - jyoti gosyami
+    - mangi bai
+    - versha
+    - maya devi
+    - suntia
+    - kamlesh
+    - divya sharma d/o om prakash sharma
+    - jaspreet
+    - ramdulari
+    - nagma
+    - sandhya
+    - rimjhim
+    - anita
+    - soniya
+    - jyoti
+    - nagma
+    - shruti
+    - renu
+    - chaya
+    - laxmi
+    - shadhana
+    - reemi sarkar
+    - varsha bagalia
+    - sabnam khatun
+    - hini bibi
+    - sangeta
+    - sarita
+    - bharti devi
+    - savita
+    - sushila
+    - nirosha
+    - kavita bai
+    - smt. madina
+    - smt. kanchan devi
+    - uma
+    - renu
+    - sama parveen
+    - asana
+    - archna
+    - shashi
+    - arsi
+    - meena kumari
+    - kajal kumari
+    - jyoti
+    - saroj pandey
+    - neha
+    - geeta @ komal
+    - anjum
+    - anchal
+    - kosar bano
+    - soni
+    - varsha sharma
+    - megha das
+    - kalyani kumari
+    - sushma
+    - anju
+    - unknown
+    - sunita kaur
+    - neha
+    - payal
+    - payal
+    - payal
+    - shabana
+    - sonu
+    - meena devi
+    - km0 moni
+    - bhagwati
+    - poonam
+    - uma
+    - rajiya
+    - neha
+    - saviha
+    - archana
+    - surbhi
+    - paramjeet kour
+    - asha devi
+    - nikita pahlwani
+    - rekha
+    - sangeeta
+    - jyoti sharma
+    - anju
+    - kavita
+    - sumitra devi
+    - rashi bansal
+    - kavita
+    - suman
+    - tina
+    - kalpna singh
+    - uma yadav
+    - geeta saini
+    - aazadi@jully
+    - maina @ meenu
+    - sema devi
+    - aarifun bivi
+    - smt deepanshi
+    - raj kumari
+    - radha
+    - priti
+    - preeti
+    - sultana begam
+    - smt. seema
+    - smt. preeti
+    - geeta
+    - rita rani
+    - rajeshwari
+    - neelam
+    - madhuri
+    - suman kushwah
+    - anushka kanwar
+    - renu
+    - neelam
+    - rajni
+    - gita
+    - reetu
+    - babita
+    - fakiri
+    - alina
+    - frra
+    - tripti rawat
+    - chanda devi
+    - snah lata
+    - rekha vays
+    - pinki
+    - nehal
+    - lata sharma
+    - varsha
+    - kirti
+    - neha
+    - nusrat parveen
+    - lali nisha
+    - sunita
+    - laxmi
+    - naseema
+    - babita
+    - sheela
+    - zina kumari
+    - pushpa thapa
+    - usha parmanand
+    - devki
+    - shkuntala
+    - swati
+    - smt surbhi
+    - deepa
+    - simranjeet kaur
+    - shakuntla
+    - vishal
+    - kumari jeda
+    - sabenoor@tamanna
+    - rukhsar
+    - suman
+    - anusoya
+    - ashman praveen
+    - aruna
+    - ramkali
+    - riya kashyap
+    - babita
+    - neetu
+    - suman
+    - reena
+    - reena
+    - kanti devi
+    - payal ahari
+    - deepa singh
+    - inderjeet kour
+    - sabeena
+    - kanchan
+    - heena
+    - aasha
+    - smt devli
+    - smt kala
+    - nandu bai
+    - kawita
+    - smt narmda
+    - monika
+    - priya kumari
+    - geeta
+    - khushi
+    - rabina khatun
+    - vimla
+    - habiba
+    - rashmi
+    - imrana
+    - ruby w/o
+    - phalguni
+    - manisha bhardwaj
+    - arti
+    - akash
+    - shanti devi
+    - marti kalasua
+    - pushpa
+    - vimla
+    - priyanka
+    - rubi devi
+    - nisha
+    - veena tandan
+    - baby
+    - spna
+    - mehwish
+    - priyanka
+    - jeba
+    - jasmen
+    - anita @ manju
+    - barkha
+    - varsha
+    - manisha sharma
+    - asha
+    - fareen
+    - bhanweri
+    - rupa
+    - meenaxi
+    - preeti chopra
+    - tanya chopra
+    - veronika bhinder
+    - gudiya
+    - kumari payal sharma
+    - kumari puja
+    - sunil kumar
+    - sumanthra
+    - rajni
+    - gyarsi devi
+    - smt. asha
+    - anshu gupta
+    - durgesh suman
+    - rajiya bano
+    - saalu
+    - pushapa
+    - anjana kumari
+    - savita @ guddu
+    - rinku devi
+    - kajol
+    - priya
+    - aarti
+    - rekha
+    - aarti
+    - noor jha
+    - pooja
+    - noorjaha
+    - smt renu
+    - sumitra
+    - rekha davi
+    - himanshu
+    - sapna
+    - farjana
+    - husainpreet kour
+    - sonam kumari
+    - poonam
+    - poonam
+    - smt anita
+    - kavita kumari
+    - pooja
+    - pooja
+    - suman
+    - laxmi
+    - annu
+    - rafat yashmeen
+    - gulsan khatoon
+    - tannu
+    - jyoti
+    - mamta
+    - babita
+    - jyoti
+    - manish
+    - sakshi @ soniya
+    - annu
+    - manju
+    - priya
+    - divya kapoor
+    - vineeta
+    - durga bai
+    - parem devi urf gothi
+    - seema
+    - pragti
+    - poonam sharma
+    - pinki
+    - nimmy
+    - priti tomar
+    - pooja
+    - ishika
+    - roshan bai
+    - salma
+    - simran
+    - sushma rana
+    - anita
+    - suman
+    - sudershan bala
+    - swata mishra
+    - pinki devi
+    - rekha
+    - aarti
+    - reena saini
+    - kashish
+    - jyoti
+    - suman
+    - lalita
+    - nidhi
+    - jyoti
+    - jannat
+    - shreemati nirmala padwala
+    - kumari vinita
+    - smt. lalita devi
+    - parwati devi
+    - jyoti
+    - sona
+    - ms. jayanti (maid)
+    - karishma
+    - shanti bandiya
+    - kajal
+    - jyoti
+    - nisha
+    - mishbha sams @ simran
+    - pooja
+    - meenu
+    - ganga devi
+    - durga
+    - sheetal
+    - kajal
+    - veena sharma
+    - sona bai
+    - muskan
+    - meena
+    - smt nisha
+    - mona
+    - hailena
+    - mamta
+    - ku rangeeta
+    - shalu
+    - pinky
+    - bandana
+    - sushila
+    - kumari sonu
+    - kamlesh
+    - krishna devi
+    - 
+    - mohsina begum
+    - jomiya
+    - gauri rana
+    - priyanka
+    - mushkan
+    - babita
+    - archana
+    - gopi
+    - suman
+    - jiya batra
+    - poonam
+    - gudiya
+    - deepti bhargav
+    - kumkum
+    - babbu singh
+    - sahana
+    - rubina
+    - shahina @ moti
+    - rini
+    - priyanka
+    - minakshi
+    - smt. pinki@malti devi
+    - kumari rachana
+    - pinki
+    - lalita kumari
+    - neha
+    - hina @huma
+    - pooja
+    - javitri
+    - amisha
+    - panchuri
+    - jyoti @ muskan
+    - deepanshi jain
+    - ruhi khatoon
+    - radhika
+    - kiran
+    - aanya @ china
+    - sangita
+    - preeti
+    - gendi
+    - poonam devi
+    - sus shri  aalabndi
+    - sus shri  aalabndi
+    - shabbenour
+    - shalu
+    - kavita
+    - gango devi
+    - neetu
+    - saroj
+    - nidhi
+    - lata thakur
+    - pooja
+    - sosri bai
+    - kavita
+    - jyoti
+    - asha
+    - mamta
+    - anjli
+    - mamta
+    - priya @ sonu d/o
+    - shama parveen
+    - noor bano
+    - susma
+    - neha
+    - shanawaz@heena
+    - joyti
+    - radha
+    - poonam
+    - jainab
+    - renu kumari
+    - mohd aslam
+    - uzma
+    - nargish
+    - mamta begam
+    - deepa shersht
+    - priya @ sonu
+    - heena @ huma
+    - hansa dave
+    - vijay kumar
+    - kamlesh kanwar
+    - kumari praya
+    - chanchl $ ghuddi
+    - neema rebari
+    - nisha
+    - sinaa bnau
+    - mamta
+    - komal
+    - soni khati
+    - nidhi
+    - jashgul kaur
+    - hemlata
+    - maya
+    - pooja gujar
+    - meena
+    - shweta
+    - alisha khan
+    - 
+    - meenu
+    - geeta
+    - preety
+    - nagma
+    - anisha
+    - sandhya
+    - swati
+    - saraswati
+    - sheela
+    - muskarn
+    - saru
+    - nargish
+    - murjina
+    - bina bai
+    - honey
+    - lovely
+    - priya
+    - shabnam
+    - paramjeet kaur
+    - sabana
+    - anjali
+    - suhana baano
+    - deepa
+    - jyoti
+    - ruby
+    - jyoti jingir
+    - preeti
+    - smt rajni
+    - anita
+    - laxmi devi
+    - km vijeta
+    - rubee
+    - kajal
+    - pinki
+    - balalia ngadong
+    - balalia ngadong
+    - surekha
+    - manno
+    - komal
+    - sabnam
+    - shobina
+    - rani
+    - nikki
+    - rinki
+    - suhani devi
+    - deepa
+    - pooja garg
+    - joity
+    - laxmi
+    - sonam sania
+    - foranta
+    - pammi
+    - menu kashyap
+    - sania parveen
+    - sania parveen
+    - sania parveen
+    - tania parveen
+    - smt. kanya devi
+    - ku. kamla yadav
+    - anuradha
+    - swati
+    - priyanka das
+    - ruckmani
+    - takshila arora
+    - rajni
+    - payal
+    - shivani
+    - nasima
+    - anita
+    - anita
+    - suman gungi
+    - sulekha
+    - kanchan
+    - sweta sharma
+    - munni devi
+    - saraswati
+    - saroj
+    - reshma
+    - neha
+    - puja yadav
+    - saroj
+    - bhawana @ shannu
+    - anjum
+    - shilpi
+    - sidhi
+    - pinki yadav
+    - seema
+    - smt reena
+    - amrit pal
+    - shiva
+    - nirmla
+    - bhanu priya
+    - swati
+    - manpreet kaur
+    - tannu
+    - kaushal
+    - sitara
+    - meera devi
+    - rita jain
+    - seema
+    - manju @ taruna
+    - kiran
+    - shabreen
+    - laxmi sharma
+    - sanjana
+    - sandhya
+    - kiran and maya both sisters
+    - tannu
+    - ritu
+    - shabana
+    - smt. udi
+    - smt puja
+    - usha
+    - chandni
+    - sangita
+    - nirmala
+    - lada bai  marubhat
+    - girishchandra
+    - smt. durga devi
+    - pooja
+    - pooja
+    - shabana
+    - smt. munni
+    - seema
+    - sushma
+    - pushpa devi
+    - kamlesh
+    - arsi
+    - sudama with 2 children
+    - heena
+    - ilma
+    - shital
+    - khushboo
+    - shivani
+    - seema
+    - geeta devi
+    - varsa
+    - seema devi
+    - savita
+    - sheela devi
+    - jaswinder kaur
+    - gurpreet kaur
+    - harinder kaur
+    - anjli
+    - rema
+    - suman
+    - ganga
+    - lali davi
+    - rajni
+    - pooja
+    - anshiya mehta
+    - geeta
+    - renu
+    - triveni
+    - bindu
+    - suman
+    - reshma
+    - priya
+    - parul
+    - aasha
+    - khushi
+    - afsana
+    - poonam
+    - razida khatoon
+    - asha kumari
+    - sony parveen
+    - pooja
+    - puspa
+    - kiran
+    - gulshan
+    - vandna
+    - priya gupta
+    - santoshi
+    - jincy varghese
+    - shweta
+    - arti
+    - reshma
+    - ronak
+    - deepa
+    - farha
+    - naushi
+    - leela meena
+    - archana
+    - guddi
+    - iesha
+    - rihana
+    - akansha
+    - almina
+    - poonam soni
+    - cosmic
+    - pooja panwar
+    - anju
+    - babita
+    - shilpi kumari
+    - radha
+    - kishana bai
+    - sangeeta jan
+    - bhawana
+    - preeti
+    - sujata
+    - nirjala
+    - 
+    - sanju
+    - smt. kamlesh
+    - saral
+    - lila
+    - pooja
+    - mehak
+    - chanda devi
+    - poonam
+    - rabin
+    - kamrulnisha
+    - sudhama
+    - uma
+    - armita
+    - soni
+    - rakhi
+    - vimal verma
+    - smt.ranni
+    - sapana
+    - rohini
+    - neha gupta
+    - sarita
+    - neha
+    - rachna
+    - susri madhuri d/o jagdishchandra bhat r/o34 b panc
+    - renu devi
+    - kavita
+    - komal
+    - manisha
+    - saloni
+    - manju kumari
+    - kanchan d/o kailash yadav
+    - durga
+    - gulshafa
+    - pooja
+    - renu
+    - imaman khatoon
+    - uma verma
+    - tarannum
+    - pooja
+    - aliya
+    - pooja
+    - lalita choudhry
+    - pooja
+    - smt. gayatri
+    - anita suthar
+    - asha
+    - meera
+    - ku. babali
+    - pooja
+    - sawana
+    - reenu
+    - ms. k. satya
+    - radha
+    - savita sharma
+    - ramesh  dutt
+    - harpreet gil
+    - laxmi
+    - fazia
+    - afsha
+    - faaija
+    - kirti
+    - amarin
+    - razia sultan
+    - razni
+    - rinki
+    - sabina
+    - musra khatoon
+    - sutiya
+    - shabnam
+    - nootan
+    - ku. anshita singh
+    - prinka
+    - sonu bhawsar
+    - farhib
+    - jyoti
+    - reshma
+    - kelama devi
+    - saniya
+    - anita
+    - jasmina
+    - komal @ kumkum
+    - shivani
+    - shakuntla/baby
+    - shgita
+    - shorav
+    - santosh
+    - afsana
+    - poonam
+    - reeta
+    - neha
+    - kamlesh
+    - sita devi
+    - lakhya dona sherppa
+    - manbharbai
+    - diya sharma
+    - kashish
+    - kavita
+    - ruby panwar
+    - sanju
+    - rekha bai
+    - smt. bhanwari ,nahar singh
+    - smt. bholi devi
+    - hansa
+    - palvi sharma
+    - killo kumari
+    - saroj
+    - anoopama
+    - chanda
+    - mamta bai
+    - arshi bisht
+    - bima
+    - smt. shila d/o bharulal jat
+    - priyanka
+    - tulsi
+    - preeti joshi
+    - manisha
+    - shalu
+    - rakhi
+    - yogita
+    - jyoti
+    - radha
+    - ritu
+    - sonam kumari
+    - najma
+    - nirmala
+    - sudha
+    - nasima
+    - renu
+    - muskan
+    - laxmi divi
+    - smt hasina @ buttr
+    - kumari sonam
+    - smt doli
+    - sunita
+    - mamtha
+    - pramila katara
+    - lakhsmi devi
+    - sultana
+    - poonam
+    - nidhi jaysika
+    - preeti
+    - nena
+    - suman
+    - munni devi
+    - priyanka
+    - manisha
+    - rajni
+    - kavita
+    - priyanka
+    - priyanka
+    - neetu
+    - sonika
+    - anjali
+    - nirma
+    - shakuntla/baby
+    - khushbhu
+    - chandni
+    - kumari rani
+    - payal
+    - payal kumari
+    - moni devi
+    - priya
+    - smt gunjan
+    - suman shakawat
+    - neha
+    - resham talwar
+    - aasmin
+    - kanta
+    - anita sharma
+    - mamta
+    - yasmin banu
+    - smt rekha
+    - chanchal
+    - preeti
+    - pooja
+    - sarita
+    - bhanu sharma @ alish
+    - nancy saxena
+    - preeti
+    - puja
+    - lovely
+    - laxmi
+    - priyanka
+    - pinki sharma
+    - suhagini
+    - monika
+    - minakshi
+    - reekha
+    - sanju
+    - aashma
+    - sonali
+    - anjali
+    - arti
+    - anandi bai
+    - suman
+    - dali
+    - sheetal
+    - anjali
+    - kiran devi
+    - shivani@prachi
+    - smt. guddi
+    - tabssum @ gudiya
+    - manisha rani
+    - himani @ payal
+    - himani @ payal
+    - himani @ payal
+    - himani @ payal
+    - aansi devi
+    - nishu
+    - laxmi devi
+    - reena
+    - komal
+    - varsha
+    - dipanshi
+    - kesha
+    - rekha
+    - baby
+    - neha
+    - priyanka
+    - priyanka
+    - priyanka
+    - neha
+    - padama bai luhar
+    - pushpa
+    - babby
+    - tamanna
+    - rubi
+    - komal
+    - sapna
+    - radha bai
+    - nirma
+    - sona sood
+    - rinki
+    - shanti devi
+    - smt tara devi
+    - preeti
+    - soni
+    - poonam
+    - pooja chauhan
+    - manju nayak
+    - shikha
+    - laxmi @ lalita
+    - kajal
+    - jay shree panchal
+    - nisha
+    - sunita
+    - sunita rani
+    - neetu yadav
+    - madhuri
+    - geeta devi
+    - naziya
+    - smt. monika bajaj
+    - neeru
+    - shahin
+    - saloni
+    - shivani
+    - lal baano
+    - poonam
+    - soni
+    - liladevi
+    - devika goyal
+    - nisha
+    - kaushal
+    - rajni
+    - rajni
+    - shalu
+    - hemlata pathak
+    - megha
+    - aarti
+    - seema
+    - kiran
+    - rajni
+    - rani sharma
+    - smt jaimala
+    - kumari puja
+    - devki
+    - smt. hanja bai
+    - tisha urf megha sen
+    - vaishali
+    - preeti
+    - mrs nanki
+    - komal
+    - dulari
+    - soni
+    - gayatri @ babli
+    - kajal d/o
+    - bhawana
+    - anamika
+    - sahida laskar
+    - ashtha
+    - neha
+    - anita
+    - sharda
+    - nirmla koli
+    - parwati balai
+    - saroj
+    - sangeeta meena
+    - urmila bai
+    - seema dangi
+    - chand kunwar
+    - kumari sunita
+    - rupender kaur
+    - puja
+    - smt. kanchan
+    - jyoti
+    - rita d/o laxman
+    - sonam
+    - ikara noor
+    - dimpal
+    - rukmani devi @rupa
+    - nagma khan
+    - reena
+    - chandrakala
+    - gila bai
+    - shilpi
+    - neelam
+    - pooja
+    - renu
+    - sanju devi
+    - neha
+    - komal
+    - rubi
+    - manpreet
+    - priya mishra
+    - nehal kumari
+    - suman
+    - kavita
+    - bhawna @ sonam
+    - asha devi
+    - sushila
+    - rehana
+    - sahana praveen
+    - durga
+    - gurpreet kaur
+    - shamshina
+    - priyanshu
+    - sheetal
+    - pooja
+    - anjali
+    - archna
+    - soniya
+    - priti
+    - renu joshi
+    - shushma
+    - muskan
+    - shashi shrada khalko
+    - anita rajput
+    - arthi
+    - renu
+    - sanju devi
+    - monika
+    - krishana
+    - soniya
+    - niru
+    - sobha
+    - rasida khan
+    - seema uraf lalita
+    - leelawati
+    - komal
+    - kajal
+    - sunita
+    - jyoti shahu
+    - vijay laxmi
+    - smt savita devi
+    - asha
+    - roji
+    - vidha baghel
+    - dinesh kumari
+    - leela kumari
+    - doli
+    - aarti
+    - asha devi
+    - raju devi
+    - sunita devi
+    - sunita @ jyoti
+    - basiran
+    - phul kumari
+    - manisha kumari
+    - anju devi
+    - sapna
+    - pooja with three child (vikash,aakash,khushi)
+    - khushi
+    - rakhi with two child (devraj age-3 yrs,deepak age-
+    - nitu
+    - rakhi
+    - beena
+    - anita
+    - manju
+    - pinky
+    - jai shree
+    - rima
+    - rima
+    - rima
+    - kumari suman
+    - laltes
+    - babita
+    - ankita @ mini
+    - rinki
+    - shanti bai
+    - palak
+    - neelam
+    - rinki
+    - preeti chopra
+    - tanya chopra
+    - rashmi @ rinku
+    - jyoti
+    - anju devi
+    - jyoti
+    - malti
+    - priya
+    - priya
+    - kavita
+    - soni
+    - mala
+    - mala
+    - shivani bhatnagar
+    - shivani bhatnagar
+    - champa @ hema
+    - neetu
+    - kanchan
+    - mamta
+    - laxmi
+    - hema
+    - sharadhha
+    - gunjan devi
+    - mosmi sekh
+    - arshla
+    - geeta
+    - geeta
+    - kiriti
+    - priya
+    - suman
+    - ku. rajni
+    - smt.mamta devi
+    - smt kristina
+    - gaura kuletha
+    - puja
+    - mamta
+    - ku rajindre
+    - sahina
+    - jasmeet kour
+    - rekha
+    - dhaneswar dass
+    - rekha
+    - reshma ahari
+    - simran dhawan
+    - ashu
+    - manpreet
+    - nisha
+    - pulita
+    - rajani
+    - sonam
+    - nisha
+    - krishma tomar
+    - sangita devi with daughter sonia 3yrs 6month, and
+    - shobha
+    - fozia
+    - moti devi
+    - madhuri
+    - lila bai
+    - chhaya
+    - smt ranu
+    - khushnasiba
+    - nirma
+    - sulochna devi
+    - kavita
+    - nirma
+    - yashoda
+    - anita kunwar
+    - vinna
+    - smt. sumitra
+    - kirpa
+    - seema
+    - sonam
+    - nagma begam
+    - pinki chanda
+    - kavita talash
+    - saima
+    - rashmi
+    - sonam
+    - hema
+    - neeta devi
+    - shabnam
+    - hazra
+    - jameela
+    - arti
+    - ku. pinkee
+    - preeti
+    - pooja
+    - veero @ veerwati
+    - vaishali
+    - jyoti kumari
+    - sapna
+    - poonam
+    - pryanika
+    - renu
+    - nandani
+    - pooja
+    - geeta
+    - doli
+    - mithu
+    - meenu vishwas
+    - sushila
+    - tannu
+    - mamta
+    - rima
+    - rucksana
+    - divya
+    - shalini @ shallu
+    - santosh devi
+    - santosh devi
+    - poonam
+    - smt. kamala davi
+    - nisha
+    - rakhi
+    - shankar
+    - binita
+    - kushum @ khushbu
+    - arsi
+    - sartaj
+    - neelam
+    - pinki
+    - munni
+    - suman
+    - sonia
+    - smt babbli
+    - kumari sunita
+    - smt. choti devi
+    - pushpan
+    - skunatla
+    - noorjahan
+    - jasoda
+    - neha
+    - najni
+    - anjali
+    - ruby
+    - megha gupta
+    - tina
+    - tanu
+    - renu
+    - munni sharma
+    - rukiya bano
+    - subhagya
+    - vijaya devi
+    - neha
+    - mala
+    - vimla
+    - shahzadi
+    - shashi
+    - babli kumari
+    - saraswati
+    - nazreen
+    - manisha
+    - ashu
+    - komal
+    - mustki begam
+    - rukshar
+    - rekha
+    - laxmi
+    - luxmi
+    - kajal
+    - dumani munda
+    - jyoti
+    - priti kaur
+    - poonam
+    - anguri
+    - praveen @ khushboo
+    - smt tina
+    - kumari hemlata
+    - rakhi
+    - hema mali
+    - rukshar
+    - ekta sharma
+    - smt. madhu
+    - mumtaj
+    - pooja
+    - shruti
+    - rakhi
+    - naseema
+    - pooja
+    - mandvi sharma @ shiva
+    - mamta
+    - vandna
+    - gulshan
+    - meena
+    - heena parveen
+    - tripta
+    - sonu
+    - gulshan
+    - priya
+    - deepika tomar
+    - tamanna
+    - priya kumari
+    - anita kerketa
+    - nirmla
+    - bhawana
+    - pooja
+    - siza
+    - nano sabroon khan
+    - nisha
+    - gudiya
+    - pyari
+    - guddi
+    - rehana
+    - vandna w/o sunny
+    - vimlesh
+    - minakshi
+    - rakhi
+    - sumitra
+    - nandini
+    - laxmi
+    - kranti
+    - preeti
+    - aarti
+    - sarsawati devi
+    - saraswati
+    - chando
+    - anita
+    - kavita
+    - shushila balai
+    - tulsha
+    - sonali bankoti
+    - smt.ganga devi
+    - sunita
+    - manisha
+    - sabana
+    - hazu roat
+    - khusbu regar
+    - smt. rekha
+    - kanku
+    - bala
+    - rakhi
+    - dwarika gurjar
+    - sahin
+    - nisha
+    - anju
+    - neha  gupta
+    - karshana
+    - rakhi
+    - neha
+    - seema
+    - nandita
+    - karishma
+    - suman devi
+    - ravina
+    - kajal kumari
+    - priyanka @ anjali
+    - ruksar
+    - fauina
+    - faijina
+    - soni
+    - soniya
+    - smt parmila
+    - suman
+    - sangeeta with son pushapender douter archana
+    - sonam
+    - smt krishana
+    - neha
+    - rajani
+    - geeta
+    - geeta
+    - pryinka
+    - kanchan
+    - tarnum
+    - roopa
+    - pushpa sinha
+    - smt shalu
+    - vinita
+    - khushbu
+    - chanchal @ komal
+    - deepa
+    - lakhbir kaur
+    - seweta
+    - suman
+    - shweta
+    - parwati devi
+    - mumtaj
+    - hemanti aary
+    - kavita
+    - mariyam sarjo
+    - aarti
+    - durga pathik
+    - sangeeta
+    - meena
+    - nazia khan
+    - pooja rani
+    - huma
+    - jyoti
+    - lalita
+    - haseena
+    - sonia
+    - monika
+    - shabana
+    - sandhya mishara
+    - laxmi
+    - maya devi
+    - gori
+    - kaushar
+    - smt sapana
+    - sunita
+    - philomina
+    - jyoti
+    - smt. gudiya
+    - geeta devi
+    - neetu
+    - priyanka
+    - kailaki devi
+    - priyanka
+    - kajal
+    - kastoori
+    - sarika
+    - priya
+    - durga devi
+    - sonali
+    - pooja
+    - rajni
+    - bhawna
+    - salma khatun
+    - laxmi
+    - farah khan
+    - poonam
+    - kamla
+    - kamlesh
+    - manju bai
+    - vandna
+    - prinka bhanshali
+    - phulbi
+    - reshma
+    - smt babita
+    - sonu
+    - ankita
+    - priyanka
+    - hina kanwar
+    - varsha
+    - manu
+    - simran @ashita
+    - harshi
+    - gudiya
+    - mamta
+    - ruby
+    - shivani
+    - poonam
+    - sunita kaur
+    - ritu
+    - aastha thakur
+    - 
+    - meenu
+    - lata kumari
+    - pooja
+    - phool watiya devi
+    - shalu
+    - bhawna
+    - mandeep kour
+    - shobha bano
+    - smt. sonu kumari
+    - malti
+    - rupa
+    - km0 shilpa
+    - vimlesh gujar
+    - smt. richa sharma
+    - smt. soni
+    - puja
+    - rita
+    - smt. ratani
+    - indra megwal
+    - kumari ranjita
+    - priya
+    - sangeeta
+    - 
+    - heena
+    - chanchal
+    - pushpa
+    - rukshana
+    - komal tiwari
+    - geeta
+    - priyanka rawat
+    - aman deep kaur
+    - maya
+    - jyoti
+    - santosh devi
+    - meera
+    - gayatri
+    - lavpreet kour
+    - priyanka rani
+    - smt sakura brn
+    - jarim
+    - shahin
+    - kavita
+    - mira devi
+    - archna
+    - aamina
+    - mamini
+    - laxmi @ kajal
+    - kajal
+    - shehnaz
+    - kirti
+    - sanjna @ sunita
+    - shilly parveen
+    - nisha
+    - divya sharma
+    - jyoti
+    - munni devi
+    - chandni
+    - shalini
+    - pooja sharma
+    - meti kumari
+    - meti kumari
+    - meti kumari
+    - aarti @ kajal
+    - suman
+    - sushila
+    - munni w/o ami lal
+    - mona verma
+    - smt. kavita bai
+    - rupanjali patiri
+    - shabina praveen
+    - sarah wells
+    - ranjit kaur
+    - pooja
+    - amandeep kaur
+    - sana
+    - priyanka
+    - aarti rajpoot
+    - sunita
+    - jyoti
+    - priya
+    - reena devi
+    - priya @  himanshi
+    - manpreet
+    - sangeeta
+    - chanchal
+    - neelam
+    - rani
+    - jamna devi
+    - neetu
+    - suman sharma
+    - kavita
+    - pooja
+    - shivani
+    - gulfsal s/o rasid
+    - hamim
+    - neha
+    - khushbu
+    - shabana
+    - priyanka
+    - shilpa
+    - neha
+    - priyanka
+    - sabba
+    - kriti
+    - nigar khan
+    - lahida
+    - pooja
+    - aarti diwakar
+    - bhawana
+    - monika
+    - annu devi
+    - jyoti
+    - rubeena
+    - pooja
+    - preeti
+    - amba  balai
+    - komal sharma
+    - savitri devi
+    - sunita
+    - diksha chaudhary
+    - urmila
+    - rekha @ muskan
+    - usha
+    - sunayna
+    - kaushalya devi
+    - mamta
+    - rina devi
+    - sarla
+    - kajal
+    - smt sunita
+    - ratmo devi
+    - kajal
+    - madhu
+    - keshanti
+    - rekha
+    - dholi devi
+    - manju roy
+    - najma
+    - arti
+    - anita
+    - danista paveen
+    - juhi
+    - sheetal verma
+    - sheetal
+    - barkha
+    - kusumlata
+    - sunita
+    - puja
+    - kajal
+    - kavita
+    - kamla
+    - reshma
+    - rani kumari
+    - aarti sharma
+    - kumari pallavi
+    - teena
+    - suman
+    - tara devi
+    - mithlesh
+    - akansha
+    - soni
+    - saroj
+    - aesha
+    - kusum
+    - sana
+    - vishakha anand
+    - fool kunwar
+    - himanshi
+    - asha
+    - purva
+    - deepa kumari
+    - bala devi
+    - akansha
+    - rashmi
+    - nenshi
+    - pooja
+    - smt  archana
+    - jyoti
+    - jaya
+    - smt. sangeeta  urf sonu
+    - sunita
+    - anjali
+    - jhuma
+    - sana khatoon
+    - sana khatoon
+    - sana khatoon
+    - shanti devi
+    - vandna
+    - neha
+    - jyoti
+    - pooja
+    - farjana
+    - manju
+    - bhopal singh
+    - sneha
+    - pooja
+    - sunarki devi
+    - asha
+    - preeti
+    - shrabani saha
+    - umda khatoon
+    - divy puri
+    - asha
+    - deepa chauhan
+    - sonia
+    - rajinder kaur
+    - deepa chauhan
+    - sarita
+    - asha
+    - nagma
+    - soni@ kanchan devi
+    - kanta devi
+    - anu kumari
+    - smt. pinki
+    - bandani
+    - manpreet @ simaran
+    - seema kunwar
+    - chanchal
+    - smt maya devi
+    - santosh bai
+    - pooja
+    - anju devi
+    - sehjal
+    - sonam
+    - sehnaz
+    - nisha pradhan
+    - anita vohra
+    - pinki
+    - simran
+    - ruby
+    - radha
+    - sushma
+    - 
+    - saroj
+    - poonam
+    - rani
+    - pooja
+    - nooreen aarsi
+    - saridevi
+    - kajal
+    - deepa
+    - barkha
+    - kiran devi
+    - jyotsana mohti
+    - nasrin jaira
+    - smt. baikunthi devi
+    - saziya
+    - karamjeet kour @ sagandeep kour
+    - manisha
+    - madhu
+    - sumitra
+    - pinki  kumari
+    - ruksana bano
+    - sapna
+    - jaitun
+    - deepa
+    - arti
+    - mulina
+    - kajal
+    - gulfasa
+    - sudesh
+    - suman
+    - shumita
+    - ashu
+    - sehnaz
+    - bhawna
+    - bhawna
+    - sunita
+    - zainab
+    - meera
+    - preeti
+    - asha
+    - vandhana
+    - munni
+    - deepa
+    - pinki
+    - kumari roshan
+    - sunita
+    - bhuri
+    - rabiya
+    - mariyam sarjo
+    - heena
+    - chhoti devi
+    - kiran d/o suraj prashad
+    - koyali
+    - rani
+    - javuneesha
+    - smt. manju
+    - 
+    - sapna
+    - sapna
+    - priya
+    - kismti khatoon @ khushboo
+    - amritha
+    - tanuja
+    - priyanka d/o
+    - bindi budra
+    - shbana khatun
+    - sanjana
+    - manju
+    - shalu sabarwal
+    - sahnaz
+    - jyoti
+    - shiwani
+    - nirmala
+    - sonali
+    - mahak
+    - santo @ neelam
+    - soni
+    - paramshela
+    - seema
+    - nidhi
+    - shalini
+    - shabra
+    - farha parvin
+    - deepa
+    - renu
+    - seema
+    - heena
+    - preeti
+    - sharda
+    - sharda
+    - meena
+    - shiwani
+    - sayda begam
+    - beeuty kumari
+    - devika
+    - shanti
+    - tabassum
+    - pooja
+    - kajal
+    - sonia
+    - neha kumari
+    - rakhi
+    - sana fatma
+    - pinki
+    - gunjan
+    - suman devi
+    - raj kumari
+    - sapna
+    - pinki
+    - tannu saini
+    - babita
+    - pinki
+    - smt usha
+    - sangita
+    - chandni
+    - kajal
+    - komal
+    - meena begum
+    - soniya
+    - daulat banno
+    - kumari komal
+    - ruksar
+    - nahid fatima
+    - urmila
+    - pooja
+    - sikha
+    - smt. neelam
+    - ranu
+    - pooja
+    - sarmila devi
+    - kusum
+    - gilbahar
+    - yasmeen@lali
+    - rani
+    - muskan
+    - sama parveen
+    - narmda
+    - aasma
+    - anjali
+    - chanchal
+    - jyoti
+    - ritika sharma
+    - shanaz
+    - maya
+    - neeli nirmala
+    - shakti kumari
+    - nasim hathun
+    - manisha kumari
+    - soni
+    - pooja
+    - priyanka
+    - priya
+    - munni devi
+    - nisha
+    - geeta devi
+    - kushum
+    - seema
+    - karishma d/o
+    - smt chanda
+    - shivani
+    - anshika kumari
+    - mamta
+    - anju devi
+    - deepa
+    - jyoti
+    - nanveet kaur
+    - shashi kala
+    - jyoti
+    - sonu
+    - farjanul nisha
+    - farhana
+    - chandrika nagar
+    - pooja
+    - kavita
+    - simpi kumari
+    - saima
+    - khushbu
+    - sahna
+    - kajal
+    - manisha
+    - sagrika @ versha
+    - sangeeta
+    - smt mithlesh
+    - kajal
+    - kumari himani
+    - kumari samrin naz @ simran
+    - sangeeta
+    - kumari farhin
+    - heena
+    - nisha
+    - meeramai
+    - vimla kumari
+    - kumari dipti
+    - rampayari
+    - pushpa
+    - simran
+    - laxmi
+    - anita devi
+    - smt.beena chouhan
+    - mnisha
+    - sakshi
+    - jyoti
+    - seema     meena
+    - radha
+    - sabhya shrama
+    - chandni ( with two child vikash 3 yrs & sweta 8 yr
+    - sushma devi
+    - kavita
+    - champa devi
+    - neha
+    - bitto
+    - khashbu
+    - nisha
+    - kamar jahan @ banno
+    - jyoti
+    - nidhi
+    - rubi
+    - smt prem devi
+    - dolat bano
+    - poonam
+    - sudesh rani
+    - saroj @ savita
+    - geet
+    - kusum devi
+    - monika
+    - smt. aamna devi
+    - kamlesh with her two child lucky & vanshika
+    - mosam kumari
+    - alisha loomba
+    - ritu
+    - amreen
+    - rashid@robhi
+    - manisha
+    - divya
+    - pooja
+    - ujama parveen
+    - mony
+    - geeta
+    - nisha
+    - nisha
+    - pariksha
+    - shiva noz
+    - mem
+    - geeta
+    - arti
+    - kavita devi
+    - sabina
+    - nisha
+    - sumita devi
+    - khushbu
+    - kusuma devi
+    - sana praveen
+    - munni devi
+    - sunita haddu
+    - rajkumari
+    - saloni
+    - dhapu
+    - sunita
+    - pushpa bhil
+    - kunti
+    - km. rekha chilwal
+    - meenu
+    - muskan
+    - bharti
+    - sana
+    - diksha
+    - komal
+    - sandhya
+    - shalu
+    - monika
+    - vikshi
+    - preeti
+    - kavita & sangita
+    - sahaja
+    - snjana
+    - sunita
+    - sunita
+    - birtha devi
+    - kiran kanwar
+    - riya kashyap
+    - kumari archana
+    - preeti gupta
+    - aasha
+    - kamla
+    - nargis
+    - sita devi
+    - smt. laxmi bai
+    - smt nanhi devi
+    - punam
+    - nagma praveen
+    - sangeeta
+    - suman uppal
+    - ruksar
+    - jyoti
+    - nisha
+    - premo devi
+    - jasvir kaur
+    - sanjana
+    - anjali
+    - priya
+    - soma
+    - nikki
+    - kumari rekha natheniyal
+    - aashu
+    - sakshi
+    - priti sagar
+    - manita
+    - sheensar pal
+    - rajo sharma
+    - sayada
+    - muskaan
+    - barkha
+    - simran kaur
+    - radhika
+    - sonam @ ranjana
+    - anshika
+    - samvedna
+    - neelam
+    - neelam
+    - meenu @ monika
+    - sadhana @ jyoti
+    - smt meena
+    - sharmila
+    - pratibha devi
+    - ravinder kaur
+    - laxmi
+    - kalpana
+    - tehmina
+    - sapna
+    - kamala
+    - sahin
+    - smt. geeta
+    - smt. mamta
+    - renuka parmar
+    - kanchaniya
+    - poonam
+    - lakhsmi @ rekha
+    - kavita @ babita
+    - birmati
+    - kela kanwar
+    - komal sharma
+    - bhaggo devi
+    - rekha
+    - mamta kumari
+    - sangita
+    - veena gupta
+    - neha
+    - dolly
+    - bhawana
+    - pinki
+    - kiran devi
+    - aarti
+    - ranjita w/o
+    - sazya
+    - shilpi
+    - laxmi
+    - renu
+    - seema bai
+    - rekha
+    - batasi
+    - shilpa
+    - bhawana
+    - sunita
+    - sunita
+    - sunita
+    - sunita
+    - santosh ( with two child vishal & rakhi ).
+    - jaimati
+    - amijan
+    - smt babbli
+    - fatma
+    - madhu
+    - hamsiran
+    - mammta
+    - kumari  bhabya goyal
+    - roshni
+    - gendi bai
+    - monika
+    - nirma
+    - vimala
+    - radhika
+    - chanchal
+    - neha
+    - monika
+    - ujamma
+    - rashmi
+    - ajju @ rubi
+    - gajwanti @ manju
+    - selars
+    - janki kumari
+    - pinki
+    - kumari anju rawat
+    - smt meena
+    - riya
+    - neha
+    - jyoti
+    - pratibha pareek
+    - rubi
+    - deepika
+    - deepali arora
+    - somwati
+    - poonam das
+    - sayna parveen
+    - pooja
+    - poonam
+    - pinki
+    - rawana khatoon
+    - aarti
+    - sirish
+    - mainka kumari
+    - sabreen khatun
+    - mabiya
+    - bhagirathi
+    - rahnuma
+    - manisa
+    - bala
+    - varsha
+    - mandeep kaur
+    - geeta devi
+    - smt. sefali das
+    - soni
+    - prem devi
+    - rekha
+    - arti
+    - jyoti
+    - puja
+    - rajni
+    - reetu
+    - kaifiya siddaki
+    - firdous
+    - smt. rita dewan
+    - nirmal kaur
+    - anu kumari
+    - santara
+    - sangeeta
+    - seema
+    - jhuhi
+    - deeksha
+    - sonam
+    - sapna
+    - geeta devi
+    - akram
+    - gunja devi
+    - sonia
+    - monika
+    - roopa
+    - amrita
+    - gudiya
+    - baby
+    - smt mholani
+    - taruna
+    - smt hina
+    - anita
+    - minaxi chakma
+    - rajani
+    - suman
+    - nirmala
+    - sahanaj khatun
+    - neha
+    - zarina
+    - archana singh
+    - muskan d/o shiv kumar r/o c-78, shivaji park, punj
+    - mamta
+    - shital
+    - poonam
+    - babali
+    - kavita @ chanchal
+    - laxmi
+    - sanjana
+    - 
+    - priyanka
+    - rinky devi
+    - saraswati
+    - nisha
+    - shivani
+    - neetu @ guddi
+    - yashsvi sharma
+    - gulshan
+    - kum savitri
+    - nasreema khatoon
+    - safali das
+    - kumari lelina
+    - vineta kunwar
+    - badami
+    - smt. uma halshi
+    - st sakuntala gulati
+    - khubhu
+    - krishana
+    - manmeet kaur
+    - punit
+    - khusbu
+    - jeba
+    - rukshan
+    - meenu s/o shiv kumar r/o c-78, shivaji park, punja
+    - meenu s/o shiv kumar r/o c-78, shivaji park, punja
+    - sufiya
+    - pooja
+    - shalu
+    - rukmani
+    - rajni
+    - reena
+    - sakshi
+    - manisha
+    - manju bai
+    - reeta
+    - indu devi
+    - priya
+    - smt.ganga devi
+    - manisha
+    - mrs neha
+    - ruby bhoura
+    - ramdhani w/o shivprasad
+    - bohati devi
+    - yashoda
+    - priyanka
+    - anjali
+    - phooli devi
+    - anjum
+    - phooli devi
+    - phooli devi
+    - phooli devi
+    - phooli devi
+    - phooli devi
+    - sudesh
+    - mangi bai
+    - meenu
+    - prem bai
+    - babita
+    - divya
+    - kalavati
+    - smt. ladu kunwar
+    - rajudi doda
+    - smt.laxmi
+    - laxmi devi
+    - mohini
+    - bhawna
+    - 
+    - babita kaushik
+    - laxmi
+    - jyoti
+    - kavita
+    - sunita
+    - meenu devi
+    - tarannum
+    - sanam lohar
+    - rani devi
+    - riya
+    - mehnaj
+    - chandni
+    - panchu
+    - seema bai
+    - sabba
+    - kali urf rakha
+    - pooja
+    - bimla
+    - rajina biwi
+    - sharda
+    - arjina
+    - manju
+    - rinku
+    - smt baleshwari
+    - smt sudha
+    - suman
+    - revti
+    - ranjana devi
+    - poonam
+    - nisha
+    - maya
+    - asha
+    - bhuri
+    - asha devi
+    - sunita
+    - pooja
+    - savitri
+    - babita
+    - khushbu
+    - rajni
+    - prem lata
+    - prem lata
+    - prem lata
+    - vinita
+    - nikki
+    - sheetal
+    - neha
+    - yashoda
+    - annu
+    - nisha kumari
+    - khushbu
+    - neha
+    - swati
+    - seva pati
+    - khusboo
+    - foranti
+    - shakuntala devi
+    - jyoti
+    - mona @ amrin fatma
+    - anita
+    - smt babita
+    - bharti jain with her two son palak jain age 11 yrs
+    - komal
+    - aarti
+    - dipali
+    - shivani
+    - smt  kanchan devi
+    - smt. bhgavti devi
+    - jaya
+    - smt. paramjeet
+    - sunita kumari
+    - meena
+    - monika
+    - sahana parveen @ nisha
+    - laxmi
+    - jyoti
+    - tabwsum
+    - rajkumari  yadav
+    - ruksana
+    - jyoti
+    - deepa
+    - ritika rani dass
+    - hema
+    - manpreet kaur @ simran
+    - manbhar bai
+    - afsana
+    - palvinder kaur
+    - jamna d/o jaipal r/o d-773, j j colony, madipur, d
+    - shivani
+    - gulnaz
+    - sahin
+    - manju
+    - jamnaa devi
+    - usha
+    - mrs soni
+    - krishama
+    - anjali  @ nisha
+    - godambari devi
+    - kumari radha
+    - laxmi @ roma
+    - hemlata
+    - rubi with a child
+    - dipika
+    - saista
+    - dali devi
+    - bebi
+    - suman lata
+    - neelam devi
+    - anushka sharma @ pooja
+    - sapna porwal
+    - nazma
+    - jareena
+    - neha
+    - gurmit kaur
+    - arti
+    - smt. sushila
+    - pooja
+    - kamla
+    - komal devi
+    - sarita
+    - manpreet kaur
+    - kumari rani
+    - sonu yadav
+    - kiran
+    - neraj
+    - devki @ devkumari
+    - husina
+    - nisha
+    - sangeeta
+    - pramila urf pinki
+    - pallvi
+    - poonam
+    - gulshan jha
+    - nisha
+    - pooja
+    - sunita
+    - aysha
+    - reshma
+    - mallika jayaswal
+    - mallik  jayswal
+    - komal
+    - lali @ poonam
+    - mallika jayaswal
+    - savita
+    - gyatri devi
+    - sujata dhawan
+    - suman
+    - kalpana
+    - khushbu
+    - poonam
+    - sangeeta
+    - rubi khatoon
+    - gita
+    - smt dhakha devi
+    - shanta koul
+    - komal
+    - deepika
+    - nagia
+    - varsh
+    - sushma
+    - seema
+    - diya mandal
+    - megha
+    - pooja
+    - baljeet kaur
+    - lalita luthra
+    - rajkumari
+    - priyanka
+    - priyanka
+    - priyanka
+    - priyanka
+    - shivani
+    - priyanka
+    - kiran
+    - kiran
+    - divya
+    - rajni
+    - shanti gosai
+    - pooja
+    - kumari varsha
+    - annu soni
+    - vijayanta
+    - smt hasmi
+    - minakshi
+    - ravinder kaur @ simmy
+    - poonam
+    - manisha
+    - nisha @ neeshu
+    - jaya
+    - tarawati devi
+    - sagufta
+    - reeta
+    - somi toddu
+    - baljeet kaur
+    - sandhya @ soni
+    - monika
+    - unknown
+    - jaya
+    - pooja devi
+    - aaliya
+    - ekta
+    - naveeda
+    - anjli
+    - rajni devi
+    - kavita
+    - janki
+    - gunjan
+    - parwati
+    - naveeda
+    - nikita
+    - smt. phuli devi
+    - pinki
+    - ankita negi
+    - noorjahan
+    - husana bano
+    - sabana
+    - kanchan
+    - mazida
+    - natasha
+    - pooja
+    - sumaila
+    - mili
+    - rupa
+    - anno@ mahrun
+    - kavita
+    - minakshi
+    - rubina
+    - bhavna suthar
+    - bhavna makwana
+    - sangeeta
+    - haseena
+    - nitu
+    - mamta kakker
+    - jyoti
+    - shiva singh
+    - sandhya
+    - sangeeta
+    - parmita ray
+    - jyoti @ punima
+    - ravinda kumari
+    - sandhya
+    - babita
+    - pinki
+    - raj rani
+    - shiwani
+    - manisha
+    - kali
+    - kali
+    - kanchan kumari
+    - priyanka
+    - sajana
+    - laxmi
+    - meena
+    - renu @ pali
+    - santosh
+    - paru devi
+    - doli
+    - santosh
+    - sonia
+    - farjana
+    - smt. usha jatav
+    - rekha
+    - kamla
+    - shaina
+    - aarti shaha
+    - shilpi
+    - kiran
+    - gudiya kumari
+    - radha
+    - lalita bai
+    - aparna
+    - nana
+    - farha
+    - gudiya kumari
+    - gudiya kumari
+    - sujeet kumar
+    - deepika jain
+    - preet
+    - phool kumari
+    - nidhi
+    - santosh
+    - aarti
+    - sneha
+    - nilam
+    - shipra
+    - archna marwha
+    - sheetal
+    - laxmi
+    - mamta
+    - fareem
+    - arti
+    - sumitra roat
+    - priya mali
+    - kajal@sundri
+    - amrita @ashoda
+    - smt kelashi
+    - ruksana bi
+    - chhavi
+    - komal
+    - manisha
+    - divya
+    - poonam
+    - soni
+    - heena praveen
+    - chandra kala
+    - manju
+    - poonam
+    - rajwanti
+    - anita
+    - kusum
+    - sarita
+    - divya sharma
+    - poonam
+    - geeta devi
+    - bharti
+    - lila
+    - minaksi mehra
+    - suman
+    - mona @ mumtaj
+    - gyatri devi
+    - sunita
+    - seeriya bibi
+    - sweta tamka
+    - neelam
+    - jasvinder kaur w/ gurbeg singh
+    - alita kujur
+    - sapna
+    - tabassum
+    - nisha
+    - asha naidu
+    - kumari manisha
+    - renuka
+    - arti
+    - anchal
+    - heena
+    - pooja
+    - shivani
+    - preeti kumari
+    - omwati
+    - sonu jangir
+    - jyoti
+    - veejita
+    - taslima
+    - taslima
+    - ajnoor baby
+    - lila kumari
+    - soni
+    - sivani
+    - na
+    - smt. murti devi
+    - neha
+    - radhadalal
+    - anjali
+    - shivani
+    - ruksana
+    - ruksana
+    - neha singh @ nanu
+    - chanab
+    - garima  bhardwaj
+    - pooja
+    - reena
+    - shalu
+    - munjira bibi
+    - hemlata @ pooja
+    - sabnam
+    - pooja
+    - kailash kour d/0 pooran r/o ghamudki ps sikri
+    - priti
+    - suman nagar
+    - km0 reena
+    - shanti
+    - neetu
+    - komal
+    - anil sharma
+    - kavita
+    - doli with two child adtiya & golu
+    - rahil perveen
+    - veena
+    - radha d/o
+    - seema
+    - rama
+    - suhaliya
+    - chanchal @ rubi
+    - chanchal @ rubi
+    - neesa
+    - radha
+    - manu
+    - inderjit kaur
+    - sanju singh
+    - pinki
+    - ravita
+    - renu
+    - samoti
+    - samiron
+    - murshida
+    - jaya parbha @ pooja
+    - mairi jeems
+    - rajwati
+    - smt aruna ekka
+    - kasumbi
+    - ravena
+    - neetu sharma with a child
+    - alisha @ annu
+    - aarti
+    - saima
+    - saima
+    - saima
+    - kavita gochar
+    - fatma
+    - samina
+    - neha
+    - manisha
+    - pooja pandya
+    - fuli paagdiya
+    - raju damor
+    - pooja bairwa
+    - farzana
+    - sarita
+    - indra kanwar
+    - ku moni
+    - gaytri
+    - smt. indira bai
+    - kavita
+    - sarita
+    - shakuntala devi
+    - sangeeta
+    - kaushalya devi
+    - poonam
+    - rajani
+    - roshni
+    - aarti
+    - roshni
+    - rekha
+    - pooja
+    - samreen
+    - vandna
+    - vandna
+    - reena
+    - jaydurga
+    - km shakshi
+    - manu
+    - roopa
+    - nikil mishra
+    - bhawna
+    - reena
+    - monika panchal
+    - muskan
+    - smt  deepmala
+    - kusum
+    - savita
+    - pintu devi
+    - rimzim
+    - kusum meena
+    - kamlesh krant
+    - simranjeet kaur
+    - manju
+    - anita
+    - pinki
+    - reena
+    - rinki
+    - shivani
+    - ravina kumari
+    - neha
+    - rakhi
+    - maya
+    - vikshi
+    - meena
+    - aishwarya
+    - sushma
+    - manisha
+    - sonam
+    - bhudevi
+    - seeta masar
+    - ku- shashi pal
+    - anita devi
+    - ku. monu
+    - sashi pal
+    - geeta devi
+    - arshi bisht
+    - raj kumari
+    - joyti
+    - kavita
+    - ritu  @ chotti
+    - nikita
+    - sarita devi
+    - shobha
+    - farida khan
+    - simmi
+    - ganga devi
+    - rajni
+    - pooja
+    - laxmi
+    - praveen
+    - preeti
+    - shivani
+    - tanuja devi
+    - sapna
+    - rashida khatoon
+    - kavita devi
+    - seema
+    - raj kumari yadav
+    - tane jain
+    - sapana
+    - smt niru
+    - sheela bhanat
+    - karishma devi
+    - radha
+    - sonia
+    - anjum
+    - shweta
+    - jyoti
+    - mashli
+    - soniya @ soni kumari
+    - beauty dass
+    - pooja
+    - komal
+    - shabina khan
+    - pooja
+    - babita
+    - kamla devi
+    - sunder bai
+    - dilkhush
+    - shree susila bali
+    - soni
+    - seema
+    - sachi
+    - rina @ moti
+    - rina @ moti
+    - nisha sharma
+    - madhu
+    - babli
+    - gaytri
+    - dipika
+    - sharda kharadi
+    - roshani bhati
+    - -	monika
+    - jyoti
+    - rukshana khatun
+    - aarti
+    - sunita @ pooja
+    - preeti
+    - bhagwanti
+    - deepa
+    - tumpa mundal
+    - ekta hans
+    - rekha
+    - madhu
+    - nahid @ shabia
+    - radhika
+    - priyanka
+    - savita
+    - anita
+    - anita
+    - chandni
+    - sanjana
+    - sobha devi
+    - chandni
+    - poonam
+    - januka
+    - minakshi
+    - vandana
+    - anjana
+    - preeti
+    - preeti
+    - saimun nisha
+    - ritu
+    - khusbu
+    - sunita
+    - sunita
+    - smt. rekha
+    - nazibuneesha @ shayba
+    - pooja
+    - teena bhambi
+    - mehronisha
+    - babita devi
+    - sarita
+    - renu
+    - sonam
+    - swaranjeet kaur
+    - laxmi
+    - shiwani
+    - pramila
+    - aarti
+    - monika
+    - sonia
+    - sonali
+    - anjali
+    - satnam kaur
+    - komal
+    - komal
+    - neelam
+    - bharti
+    - khushabu
+    - silpi
+    - khushabu
+    - khushabu
+    - nisha
+    - minakshi
+    - ranjna
+    - rajni kaur
+    - lalita
+    - soni
+    - astha pareek
+    - smt. hemlata
+    - parsann  bai
+    - parsann  bai
+    - aasa devi
+    - khushbu
+    - jyoti
+    - smt. renu@rinki
+    - farjana siddaqi
+    - sushma
+    - zeba
+    - amrita
+    - nilesh
+    - kirti chawla
+    - sonia
+    - monika
+    - deepika
+    - vimla
+    - surekha bairagi
+    - avastha khatun
+    - deepa
+    - smt. hemlata
+    - maya
+    - smt kajal
+    - smt. gyattri bai
+    - sunita devi
+    - vasu nanoma
+    - tanu
+    - chanchal
+    - bharti devi
+    - sonam
+    - ranjana
+    - kajal
+    - preeti
+    - seema
+    - rekha
+    - irfan
+    - laxmeena
+    - renu
+    - hema devi with with his daughter nalini age 4yrs
+    - suman
+    - sonia
+    - lila
+    - mooli devi
+    - sunita bai
+    - kumari santra devi jogi
+    - smt kamla deve
+    - archana
+    - parmita
+    - reema
+    - majrula
+    - asha sharma
+    - savia
+    - radha
+    - deep mala
+    - mariam  mumtaz
+    - hina
+    - rajani
+    - parul
+    - ruchi
+    - anjali
+    - sarda
+    - rachna
+    - nisat parveen
+    - gulshan
+    - janki
+    - simren
+    - taramati
+    - sharda
+    - lali
+    - karishma
+    - rabiya
+    - reema
+    - babli
+    - kajal
+    - gitika
+    - maina devi
+    - smt. basanta devi
+    - seema
+    - -	radha
+    - mamta
+    - savita
+    - reena
+    - harmeet kaur
+    - bhawna sejwani
+    - manisha
+    - akhtari @ muskan
+    - pharjana
+    - mamta
+    - nisha
+    - shivani
+    - shivani
+    - shivani
+    - reshma
+    - muskan
+    - kiran
+    - prya @ choti
+    - minu
+    - saloni
+    - mahrul nisha
+    - najmin
+    - simran
+    - kajal singh
+    - kumari divya urf kamal d/o babu lal bairwa
+    - kuntesh @ kunti
+    - barakha
+    - arti
+    - reenu
+    - smt. kavita
+    - puja
+    - sikha
+    - sangeeta
+    - babli @ ritu
+    - preeti kumari
+    - sonia with her daughter sonikshi age- 3 month
+    - salu
+    - sneha
+    - heera lal @ sunil kanojia
+    - priti
+    - priyanka
+    - pinky
+    - manjeet kaur
+    - gangajali devi
+    - rekha
+    - sunita kanwar
+    - ranju sharma
+    - leela devi
+    - asha
+    - shakshi@ megha
+    - lata
+    - santi bai
+    - sikha
+    - nisha
+    - dipa bai
+    - anju
+    - shalu
+    - ganesi devi
+    - lakshmi devi
+    - priya
+    - sonia
+    - raj kumari
+    - jakra khatoon
+    - roshan
+    - mrs. nidhi
+    - saahin
+    - laxmi @ gudiya
+    - shital
+    - nitam
+    - tulsi
+    - kajal
+    - deepali
+    - monika munda
+    - nisha
+    - seema das
+    - soni
+    - rashmi @ ishika
+    - sonam
+    - rashmi @ ishika
+    - vimlesh
+    - dimple
+    - radhika
+    - arati
+    - rajni
+    - guljan
+    - dariya kanwar
+    - seema saini
+    - laxmi
+    - dropti raiger
+    - sumanlta
+    - aarti
+    - ku. fatma
+    - varsha
+    - nirmla
+    - nilam sharma
+    - diksha @ billa
+    - priyanka
+    - leena rai
+    - balwant
+    - subash
+    - pradeep kumar
+    - mantu
+    - sanjeev kumar
+    - jani khan
+    - sagar
+    - sahil
+    - uday veer
+    - ram nichatar
+    - bablu
+    - rajan verma
+    - bhima
+    - suresh talwar
+    - narender singh
+    - suresh kumar
+    - anil kumar
+    - prshant
+    - mohd yasin
+    - puskar singh
+    - bhagirath
+    - nazmuslam
+    - nazmuslam
+    - sachi chauhan
+    - mohd danish
+    - ravinder singh
+    - vaibhav
+    - atul verma
+    - pintu kumar
+    - nanhe
+    - raju ram so harlal ji bishnoi r/o ramesh colony sa
+    - shivam
+    - prabhatilal
+    - monu
+    - hanni kumar @ mandu
+    - shiva
+    - sameer
+    - shabi rza
+    - sajan
+    - manojkumar
+    - naresh
+    - himanshu
+    - tinku
+    - inderjeet singh
+    - jon vergis
+    - deepak
+    - anurag
+    - rajat maheshwari
+    - harender
+    - sushil kumar
+    - sumer
+    - nausad
+    - inderpaal singh
+    - bharat singh
+    - raja
+    - dharmveer @ dharma
+    - ram avatar
+    - ashish
+    - kuwarjeet sharma @ vikash
+    - rakesh kumar
+    - manak paramik
+    - pinku
+    - deepak
+    - mahbub ali
+    - dinesh kumar
+    - sandeep
+    - pappu
+    - krish topar jon
+    - kuldeep singh
+    - ramchander
+    - shambhu
+    - bajinder
+    - om parkash
+    - omprkesh
+    - mahesh
+    - ramchander
+    - shekhar
+    - ashak @ shahrukh
+    - fazulla
+    - nandu
+    - vikram kumar nayar
+    - monu @ sonu
+    - gulshan sehrawat
+    - naved noor
+    - mukesh
+    - pradeep kumar
+    - amit kumar
+    - rahul tiwari
+    - naveen
+    - yamin
+    - digamber yadav
+    - rakesh kapoor
+    - nawal kishore
+    - lilaram
+    - rakesh sharma
+    - sanjay kumar
+    - inderpal singh @ shanni
+    - ishwar
+    - sanjay
+    - brijmohan
+    - dhmendar
+    - kaptan singh
+    - vajid ali
+    - rohit
+    - dhamender
+    - devraj
+    - babu lal
+    - rakesh
+    - bhuneshwar
+    - akash
+    - vikas
+    - jamaal
+    - gladwin massey
+    - kamal
+    - amar
+    - mahender pal
+    - vijendra singh rajawat
+    - warmati
+    - pradeep
+    - patender
+    - sunny
+    - narbahadur
+    - dharmender
+    - shahid
+    - mohd azam
+    - jitender kumar
+    - pravesh
+    - jatin
+    - ajay
+    - rohit yadav
+    - ram baran
+    - vijay kumar
+    - sanjeev s/o
+    - arun @ joni
+    - mantu
+    - hitesh
+    - kirodimal
+    - kishore
+    - manish taygi
+    - mohd.  asif
+    - devki nandan
+    - bhupendra urf anku
+    - bhupendra singh
+    - bhupendra singh
+    - tundiram
+    - manohar singh
+    - parmod kamat
+    - bharat
+    - rajesh kumar paswan
+    - amit
+    - mahesh
+    - yogender
+    - vivek @ vicky
+    - nand kishore
+    - chanda lal soni
+    - anchal @anchu
+    - aarav
+    - anikt kumar singh
+    - shivam
+    - deepak
+    - jitender sharma
+    - iqram
+    - mohsin
+    - rghuraj singh
+    - bhoop singh
+    - kanhaiya sharma
+    - bundhu
+    - rohit
+    - vindeshver
+    - avinash chand
+    - pappu @ man mohan kumar
+    - manish
+    - sawarmal
+    - mohit
+    - sanjay gulati
+    - jagir singh
+    - rohit
+    - sagar
+    - mum and singh
+    - deepnarayan @ rohit
+    - edris yusuf zai
+    - gaurav sharma
+    - surender mukhiya
+    - vishnu
+    - mahaveer gurjar
+    - sorab siaq
+    - kishan
+    - satnarayan meena
+    - rajesh kumar
+    - kallu
+    - shahib kumar
+    - nitin verma
+    - gaurav rawat
+    - pintu tarfdar
+    - raghubir singh
+    - jay bhagwan
+    - deepak
+    - praveen kumar @papees
+    - babu @ balu
+    - naimuddin
+    - dhanraj
+    - budhram
+    - sunil kumar
+    - padam
+    - rajender kumar / titu
+    - kalicharan
+    - vipin kumar
+    - anand
+    - guru lal
+    - raj kumar
+    - kamaljeet singh
+    - rahul shrivastav
+    - vivek
+    - nitin chahal
+    - maksud ahmed
+    - azad singh
+    - sunder  singh
+    - samir
+    - shri chand
+    - harish
+    - sagar
+    - manoj
+    - himansu
+    - gopal
+    - rahul
+    - talvender
+    - sunil kumar
+    - ravi raj sheker
+    - sagar
+    - himanshu @ jatin
+    - rakesh
+    - radhey shyam
+    - rahul
+    - jalil
+    - raja
+    - vinod
+    - islam
+    - mahendra singh
+    - tassadul omar
+    - imamudeen
+    - ashok
+    - akash urf deepu
+    - mudbir khan
+    - naveen bansal
+    - yashpal aanand
+    - aakash or deepu s/o satyprakash sharma r/o town ro
+    - aslam baks
+    - sonu
+    - ashok jarwal
+    - mohan singh
+    - umlesh
+    - chandeshwar prasad
+    - vikram mandal
+    - rihaan
+    - nishant
+    - parlad pilly
+    - phool chand
+    - chandan
+    - gurudut sharma
+    - kamlesh
+    - om prakash mishra
+    - bagaram
+    - deepa
+    - chet ram
+    - mohd farman
+    - sakib @ nadir
+    - govind singh
+    - prakash chand meena
+    - sk abu hasan
+    - rohan kapoor
+    - kanhaiya @saurabh
+    - manoj kumar
+    - chunni
+    - piyush
+    - name singh
+    - atul sharma
+    - rajkumar
+    - mohd anwar
+    - shashank  sanghi
+    - bhavesh penuli
+    - rajkumar
+    - altmash
+    - bharat bhushan koushik
+    - sachin kumar
+    - chtarpal singh
+    - chtarpal singh
+    - balbir singh
+    - bharat bhushan
+    - rahul nath joshi
+    - mohanlal
+    - kuldeep singh
+    - goopi ram
+    - depander
+    - nirmal
+    - ajay saday
+    - satrohan saday
+    - jay prkash rohal
+    - surendra kumar
+    - shubham
+    - gaurav urf raheesh
+    - sunil kumar gupta
+    - rajpal
+    - dharam singh
+    - krishna pandey
+    - mukhtyar singh
+    - karan
+    - horam
+    - atul sharma
+    - mukul
+    - mohit singh
+    - vishnu
+    - pramod gupta
+    - sandeep
+    - rahul
+    - bhim singh
+    - abdul samrad
+    - ankur
+    - naveen
+    - saddam
+    - chaturbhuj
+    - tara parshad
+    - trijugi narayan sukla
+    - abdul kadir
+    - mukesh kumar
+    - aditya prasad
+    - ram kumar
+    - md  tayab
+    - manoj
+    - mohan kumar
+    - parvej ahmed
+    - rajesh kumat
+    - anil yadav
+    - sahid
+    - ajay
+    - ????? ??
+    - ashok
+    - harish chand
+    - rajesh
+    - bhola
+    - nikhil kr sharma
+    - sunil
+    - ganesh
+    - ashok jain
+    - mahinudin
+    - sona lal
+    - chanden kumar mehto
+    - om pal
+    - ???????
+    - arun kumar
+    - vinod kumar
+    - sahil
+    - sanjay
+    - sundeep kumar singh
+    - rajat tyagi
+    - dheeraj @ gulshan
+    - lavkush
+    - anil
+    - devender
+    - dharambir @ rahul
+    - tarun
+    - shashikant mishra
+    - ram kishor
+    - amit
+    - kush
+    - surender @ ramu
+    - jasvinder
+    - kedarnath
+    - rohit
+    - amarendra @pul
+    - vikas
+    - subhash chand
+    - abhishek singh
+    - nek mohd.
+    - ashok sharma
+    - ramsagar maheto
+    - pankaj
+    - bachcha ram singh
+    - mazhar s/o azimudeen
+    - dinesh katara
+    - rajesh
+    - kaleram
+    - monish
+    - ankush sharma
+    - brij mohan thakur
+    - arun kumar
+    - sagar pandey
+    - sagar pandey
+    - pappu kumar  mandal  s/o gopal parsad mandal
+    - guddu
+    - bablu mishra
+    - neeraj gupta
+    - salman
+    - rakesh
+    - shiv kumar
+    - kuldeep singh
+    - barj bhusan
+    - aakash dabral
+    - shetan gurjar
+    - narender
+    - durga lal
+    - baidnath
+    - pritam singh
+    - vikash gaud
+    - nishant @ monti
+    - ram chander
+    - badnath
+    - vikram arora
+    - abhishek
+    - jogender
+    - danish
+    - irfan
+    - nishant prashad@anshu (with mother)
+    - ram babu
+    - pushpender
+    - dharmender kumar
+    - mohit mathur
+    - abhishiek swami
+    - krishan parkash
+    - anil kumar
+    - la l    babu
+    - sanjay kumar
+    - yuveraj
+    - vikram singh bisht
+    - azim
+    - nafe singh
+    - musibat aki
+    - brijmohan aggarwal
+    - partap singh
+    - vicky @ raja
+    - vijay kumar
+    - mannu jain
+    - mohd. khalid @  mohd. harish
+    - subhash chand
+    - piyush mehto
+    - himanshu
+    - sumit parkash
+    - naim
+    - shakil
+    - sandeep
+    - ravinder singh @raghav
+    - yashbir
+    - rituraj
+    - praveen
+    - nizam
+    - mubarik ali
+    - rameshwer nagar
+    - sandeep kumar
+    - premchand
+    - deepak kumar
+    - arjun
+    - akshay kumar
+    - ravi
+    - ajay
+    - rajesh kumar sharma
+    - kishan lal
+    - sunil gupta
+    - yash @ shashi
+    - kundan singh @ richapal singh
+    - ashish @ bhanu
+    - shahid
+    - vikas goswami
+    - vikas goswami
+    - shivlal
+    - dharmpal
+    - bodu ram
+    - laxman
+    - ram kishan
+    - krishan kumar
+    - dinesh sharma
+    - girraj nath
+    - kimat singh
+    - sukhbir
+    - ankit rawat
+    - ajay
+    - murarilal
+    - veer singh
+    - aditya @ vishnu
+    - bhupendra singh
+    - harshmeet singh @ happy
+    - mukesh
+    - amarjeet mal
+    - meghu kumar
+    - dhirender
+    - rajender singh
+    - idrish
+    - manish
+    - manish
+    - hemant kumar
+    - rajender
+    - ajay bhardwaj
+    - krishan kumar
+    - rahul
+    - shrinath prasad sharma
+    - pankaj yadav
+    - balwan
+    - balwan
+    - sandeep
+    - puran mal
+    - sundar pal
+    - golu @ ramtrilok
+    - akash
+    - dakshya sharma
+    - jagdish juneja
+    - anil saxsena
+    - javed
+    - laltha prashad
+    - deepak mittal
+    - zile singh
+    - faizal khan
+    - preyojit nath
+    - mohan sada
+    - akheelesh
+    - anand singh
+    - bhavesh
+    - vinay yadav
+    - kamlesh
+    - julficar
+    - amit mohan jha
+    - sahab singh
+    - sonu
+    - rakesh kumar
+    - surendra
+    - anil kumar sain
+    - ashok kumar
+    - kuldeep gaur
+    - neeraj
+    - bhavishy kumar sharma  uefh  bholu
+    - sameem
+    - mohd salman
+    - rambir singh
+    - prem kishore
+    - ranbir
+    - kuldeep
+    - manoj kumar
+    - manjeet @ manish
+    - rajesh kumar
+    - prahlad
+    - vinod
+    - ranvir
+    - ramender
+    - satendra
+    - gufraan khan
+    - parmeshwar
+    - satish kumar meena
+    - p ramkumar
+    - sunil kumar mehto
+    - sonu
+    - sher mohmd
+    - kartik
+    - dilshad
+    - jaga singh
+    - rohit
+    - nihalchand
+    - abhishek
+    - indraj singh
+    - laxman singh
+    - bhagwan singh meena
+    - prem singh bisht
+    - rajdev bind
+    - baljeet
+    - dinesh
+    - raju
+    - harish saharan
+    - vipan
+    - suraj rathi
+    - satpal
+    - ruchendra rana
+    - girish kumar
+    - ashish gupta
+    - narender singh
+    - ashok kumar gha
+    - dharmendra kumar
+    - ravinder
+    - sushil kumar
+    - vashu
+    - ??????????????
+    - raheesh
+    - laxman
+    - shanshak sharma
+    - montu verma
+    - laxman
+    - allabaksh
+    - ravi
+    - mangal chand
+    - pankaj lal kumar
+    - lokesh
+    - mohan lal
+    - gopal ram
+    - 
+    - meghashayam  sharma
+    - ajeem
+    - shivani
+    - ram babu shah
+    - aniket
+    - sanjay chauhan
+    - bhola
+    - deepak @ nikku
+    - mohan
+    - gaurav
+    - sonu
+    - prem chand
+    - deepak
+    - karan
+    - dharmender kumar
+    - ?????  ??
+    - rajender
+    - ????? ??
+    - anil bhatt
+    - kumar pal
+    - lekhraj
+    - narayan dass
+    - lokender singh
+    - pareen bhardwajd
+    - rajeev kumar
+    - pyar mohmad
+    - balkishan rai  @ kanhiya
+    - vishnu
+    - heera lal urf heero
+    - sehdev mukhiya
+    - rony rao
+    - bholaram yadav
+    - chandra pal
+    - akash
+    - sanjay
+    - mohan
+    - sonu
+    - ajeet chaudhary
+    - noshad
+    - surajmal
+    - sanjay bansal
+    - krishan kumar
+    - sameer
+    - vikram or baali
+    - vinay kumar
+    - swati sharma
+    - vishal
+    - vishnu
+    - kishor yadav
+    - harender
+    - nanak chandu
+    - badrudeen
+    - mohd.wahid
+    - ashok kumar
+    - gourav jain
+    - jagmohan gupta
+    - omprakash pandit
+    - jitendra kumar khant
+    - sushil gupta
+    - ramchander nuriya
+    - rahul verma
+    - aakash
+    - ???? ?????
+    - neeraj shokeen
+    - saroj patel
+    - mehak singh
+    - sh. ganpat lal
+    - hari singh
+    - raju
+    - ved prakash
+    - sandeep
+    - danish
+    - chatter singh
+    - manav
+    - manav
+    - abhinandan
+    - karan singh
+    - rajdev
+    - gangaram
+    - kalish
+    - abhinandan
+    - mukram
+    - shan mohd.
+    - kishan lal kanojia
+    - rahul
+    - rajesh
+    - parveen
+    - mohd. arif
+    - raju
+    - durgesh kumar
+    - mohd nazeer
+    - sanjay singh
+    - jatin  raina
+    - mahesh
+    - rinku
+    - pankaj
+    - mangu
+    - jagjeet singh
+    - avinas mourya
+    - najim
+    - lakshman singh
+    - anshul krishana urf shubham
+    - dilkush
+    - vikas kumar & bal ram
+    - mahaveer jain
+    - asif
+    - prdeep soni
+    - shyam sunder
+    - sanjay
+    - ankala praveen
+    - hansraj
+    - lal mohammed
+    - somnath
+    - abhinay
+    - rsjesh sharama
+    - narender
+    - arun kumar
+    - abdul kalam
+    - gs-1957975 sunil kumar vaag
+    - vikash
+    - muqhtar muslim
+    - ramesh kumar
+    - prem singh
+    - javed
+    - tej prakash
+    - manohar kumar
+    - mohit nautiyal
+    - dinesh kumar
+    - karamvir
+    - kusumakar mishra
+    - anjum chowdhary
+    - shani alam @shakir
+    - rajiv kumar
+    - asgar ali
+    - deepak
+    - ashok kumar
+    - sachin kumar
+    - ??????
+    - afsar khan
+    - ravi
+    - rampal
+    - harinarayan paliwal
+    - mahipal
+    - vinod
+    - ran jeet singh
+    - raju jogi
+    - kashmir singh
+    - wajuddin
+    - adityalok singh
+    - yunishs
+    - kushal  gupta
+    - raj pal
+    - sunil
+    - vikram
+    - baby singh @ kunni
+    - israil
+    - vinod kumar
+    - amit kumar
+    - mitthu
+    - kamal kishor
+    - j nelson abiman
+    - nannu@jaypal
+    - murarilal
+    - alok kumar
+    - faujdar sharma
+    - anil kumar
+    - vipin
+    - satish
+    - ram kishan
+    - arshad
+    - arshad
+    - ravinder
+    - bhonu
+    - raju kumar
+    - naveen
+    - sanjay
+    - sunder @ bablu
+    - manu bhai
+    - ram avtar
+    - nihal singh
+    - rohit gupta
+    - narender kumar gupta
+    - brijnandan mehato
+    - ashlam miya
+    - bhagat ram
+    - babu o m
+    - raghubir singh
+    - govind
+    - priti
+    - sakhichander
+    - shivnath
+    - kuldeep
+    - karan gupta
+    - shkil khan
+    - rajesh kumar sharma
+    - deepak sharma
+    - dinesh
+    - gandharv mishra
+    - dhrambir
+    - shri puran singh rawat
+    - nareshpal
+    - gaurav
+    - yasmin
+    - satish chand
+    - sarvesh kumar
+    - ravi kumar
+    - rohit
+    - ankush
+    - laxman prasad
+    - tushar
+    - data ram
+    - pankaj
+    - amir
+    - surender singh
+    - omprakash
+    - ajay kumar
+    - jhagdu rzak
+    - vijay
+    - raju dass
+    - rithik ravinderan @ monu
+    - mohit yadav
+    - sunil
+    - anuj patni
+    - ?????
+    - jit bahadur
+    - deepak kumar
+    - sunil kumar
+    - shubham
+    - sushil
+    - dhara
+    - kalu@ sanjya
+    - rahul
+    - shankar
+    - kailash
+    - jitu singh
+    - partab chand soni
+    - rakesh kumar
+    - ravi
+    - ravi
+    - piyush kalra
+    - vipan kumar
+    - mahesh
+    - nand kishor @ nandu
+    - rajender goyal
+    - sanjay
+    - shree chand
+    - rinku
+    - aazad
+    - nathu
+    - ahamad
+    - amarjeet
+    - manoj kumar
+    - santosh
+    - neeraj kumar
+    - harpal
+    - yaadram
+    - zameer ahmed
+    - shri parkesh
+    - vinod @ sagar
+    - arjun
+    - insaf ali @ mulla
+    - rakesh yadav
+    - pankaj
+    - rajesh kumar
+    - kabid
+    - rajendra kumar
+    - tejpal
+    - hanuman das
+    - mukesh ram
+    - mandeep kumar
+    - ajay singh panwar
+    - vikram goswami
+    - shakib
+    - mukesh
+    - gaurav
+    - ?????
+    - sandeep dhaka
+    - shakib
+    - baljeet
+    - himanshu @ annu
+    - rajeshwar@moni
+    - satya dev singh
+    - sachin
+    - amit kumar
+    - bhorelal
+    - kuldeep @ kullu
+    - danish
+    - pankaj sehgal
+    - md. aaqif
+    - mitthun
+    - sagar
+    - irphan safi
+    - deepvhand
+    - vasim
+    - deepak
+    - suresh kumar
+    - malkiat singh
+    - prateek bhaskar
+    - kapil
+    - mahender @manish
+    - pankaj
+    - mahender singh
+    - mandan lal
+    - tarun @ arun
+    - vishal
+    - chaman parkash
+    - jhagdoo
+    - sabana khatoon
+    - ravi shankar goswami
+    - manish kumar
+    - riyaz
+    - nitesh kumar
+    - pari mohmad
+    - jitesh agarwal
+    - asif
+    - sanjay kumar
+    - sitar singh
+    - pooran chand
+    - vijay
+    - tarun kumar
+    - rajesh kalia
+    - prashant yadav
+    - nisar @ master
+    - anil balai
+    - sunil kumar
+    - vipul agrawal
+    - dal bahadur  thapa
+    - manjeet
+    - naresh
+    - ajay chand
+    - sanjeev kumar
+    - gaurav
+    - bunti kumar
+    - pawan kumar
+    - shakir
+    - sanjay sharma
+    - deepak
+    - disha
+    - jairam singh yadav
+    - tejpal singh
+    - dilsad
+    - sajid
+    - sahil khandelwal
+    - sonu
+    - hem raj
+    - nitesh kumar
+    - baburam
+    - vijay singh
+    - ravi kumar
+    - sarbash
+    - mohamad
+    - saurav
+    - mahender singh
+    - kokil berman
+    - pradeep kumar
+    - ram ratan
+    - dhawal sreshta soni
+    - harish
+    - hari mohan
+    - arun kumardhasmana
+    - suresh sanwal
+    - kishor matta
+    - deepak kumar
+    - rajkumar
+    - rohit agrawal
+    - chetan verma
+    - chandrashekhar saini
+    - ravi
+    - vinod ahuja
+    - nirmal nepali @ karan
+    - deepak
+    - dinesh
+    - manish kumar  sharma
+    - durga prasad
+    - yogender jha
+    - kundan singh
+    - shish ram
+    - pankaj malik
+    - jay noor
+    - chintu lal
+    - pravendra singhal
+    - afzal ali
+    - darshan lal
+    - sh sri ram
+    - sadre alam
+    - gobind
+    - chanchal
+    - mo. farman
+    - narayan ram
+    - tufail ahamd
+    - mohd. hanif
+    - bhanu pratap morya
+    - kunal
+    - vivek
+    - imran
+    - gulshan
+    - suresh kumar
+    - shri pal
+    - jacky and amit
+    - kailash
+    - jagpati jha
+    - harji
+    - suleman
+    - shah ali
+    - sandeep pawar
+    - natthu ram
+    - vasim khan
+    - mukesh
+    - atu verma
+    - rishabh jain
+    - karan
+    - raveena khaton
+    - rahul
+    - kuldeep
+    - simran malhotra
+    - sajjan kumar
+    - uda ram
+    - ashutosh kumar
+    - sonu
+    - majid
+    - mahipal singh yadav
+    - rajkumar
+    - mohd samim
+    - sanjay
+    - sanjeev kumar
+    - pasanjeet
+    - jile singh
+    - ankur sharma
+    - vijaypal
+    - jagtar singh
+    - sh santosh s/o sh ramavtar
+    - sadhu yadav
+    - akram khan
+    - saleem
+    - lalit saini
+    - rajkumar
+    - mohit
+    - om parkash
+    - tilak raj
+    - usman
+    - jaskaran singh
+    - guddu
+    - anish
+    - har bilas
+    - farid
+    - usman
+    - krishna nand
+    - sandeep singh
+    - ravi kumar
+    - darshan lal sonkar
+    - manish kumar
+    - jishan
+    - rohit
+    - vashisast
+    - roop chand
+    - sonu @ virendra
+    - aasish sharma
+    - tapan  kumar
+    - abhash verma @ abhishek
+    - sabir ali
+    - gurnam
+    - puran regar
+    - muntjar
+    - bharat bhushan
+    - bidur mahat
+    - himanshu sharma
+    - mukesh
+    - kamal
+    - sonu
+    - avinash
+    - sagir
+    - udai pratap singh
+    - rajender singh
+    - hawa singh
+    - ajay singh bhati
+    - harendra singh
+    - anil kumar
+    - jai bhagwan
+    - abbal singh
+    - mohd sahil
+    - waseem
+    - mukesh
+    - ????? ????
+    - karan sabharwal
+    - pardeep @ monu
+    - rajam singh
+    - shahid
+    - yaswani panday
+    - gautam
+    - naresh kumar
+    - sahab singh alias bitu
+    - deepchand
+    - bhud ram
+    - jai sharma
+    - raju
+    - suresh
+    - bhanwar singh
+    - narendra kumar jain
+    - sanju
+    - gurpreet singh
+    - dev puri goswami
+    - neeraj verma @ chotu
+    - ashok kumar
+    - dilshad
+    - mohamad faisal
+    - suresh chandra
+    - rajesh kumar
+    - deepi
+    - mula ram
+    - hariom
+    - neeraj yadav
+    - salman @ shera
+    - sanjay singh
+    - tilak raj
+    - rahul
+    - ashok kumar
+    - vivek mohan arya
+    - subash bim
+    - rakesh
+    - aakash
+    - vikash
+    - pawan dixit
+    - rinku
+    - rahul @ joni
+    - asha
+    - inderpal
+    - praveen kumar
+    - ankit @ lala
+    - suraj tiwari
+    - gora singh
+    - vikram
+    - ashu @ sunil
+    - raman
+    - manoj kumar
+    - aajad singh
+    - sumit kumar
+    - naresh kumar
+    - ravinder kr malhotra
+    - lala ram
+    - ankit @ happy
+    - ashish
+    - subhash chand
+    - mohd mujahid ansari
+    - deepak midha
+    - arshad
+    - shyam lukka
+    - munnakumar
+    - rajbeer
+    - amit
+    - chotu
+    - avinash
+    - prakash prajapt
+    - ashish malodia
+    - vinod
+    - chandreshwar
+    - babu lal sharma
+    - prakash
+    - bunty
+    - lokesh @ happy
+    - mehboob mehandi
+    - lal bahadur jha
+    - jakh bahadur
+    - sohaib
+    - chand ram
+    - sachidanand
+    - omprakash
+    - mandeep
+    - mahinder
+    - pardeep singh
+    - omparkash
+    - naulesh
+    - vikram
+    - raisuddin
+    - sumer
+    - mohar singh
+    - phool chand
+    - kamalkishore
+    - monu
+    - tahir hussain
+    - subhash nimbolkar
+    - munnem meena
+    - ajay
+    - suraj kumar
+    - aasif
+    - eliyas
+    - bhupendra
+    - ajay kumar
+    - pramod kumar
+    - vishnu
+    - md. mujmmil
+    - ???? ????
+    - kasim
+    - moh.jakir
+    - prakash meena
+    - gorv sharma
+    - ramu urf rambabu
+    - rajinder  s/o hawa singh jat r/o shamlo kalan
+    - rahul vijay
+    - rahul
+    - ramdutt
+    - narender
+    - munender pratap singh
+    - suraj @ kukku
+    - bipin
+    - yogender
+    - aas mohd.
+    - raju
+    - lavish kumar
+    - suraj
+    - md sakil
+    - sanjeev kumar
+    - rajnesh
+    - daya nand
+    - kishn lal
+    - gulsher
+    - poonam chand
+    - ct sandeep
+    - ct sandeep singh
+    - asha nand
+    - shiva
+    - kamal
+    - puneet @ arun
+    - unknown
+    - ankur sharma
+    - raj kumar
+    - rocky
+    - rafal singh
+    - subham
+    - javid
+    - dinesh
+    - abhisek
+    - karishan
+    - aas mohammad
+    - karishan
+    - vinod
+    - poonam w/o
+    - jaipal
+    - hardas singh
+    - shambhu gupta
+    - ramjanam
+    - mamta
+    - mayank
+    - rajo dalal
+    - rajesh
+    - matadeen
+    - manish
+    - atul
+    - arbaz
+    - mahinder yadav
+    - a. suresh
+    - prince
+    - rajnesh kumar
+    - sazid
+    - veeri singh
+    - sahil
+    - suresh chand chakarwati
+    - arsh
+    - ravi gupta
+    - suraj bahadur
+    - narender
+    - ed mohmad
+    - raju yadav
+    - md rahul
+    - sh. ram bahadur
+    - ramji
+    - pardeep saini
+    - jitendra yadav
+    - rajender
+    - palaram
+    - abid
+    - sachin
+    - mod- akram
+    - dharam singh
+    - vicky @ vikash
+    - ????
+    - sanjay chug
+    - praveen kumar
+    - gyanu kumar
+    - vicky kumar
+    - naresh kumar
+    - viriya kher
+    - hukamchand
+    - ashu
+    - israr
+    - madan lal
+    - pooranmal
+    - narender
+    - anandu krishan
+    - mohd.  amjad
+    - ramotar
+    - mohd aslam
+    - saddam khan
+    - rohit thapa
+    - ankit khatri
+    - punit yadav
+    - neeraj
+    - shahjad
+    - shashikant brahaman
+    - gamer das
+    - pappu
+    - jitender
+    - ravi tiwari
+    - vishal
+    - garsh
+    - meenu kumar
+    - araslan yusuf
+    - rohitash
+    - sh om prakash
+    - uday lal
+    - upender choudhry
+    - deepak
+    - dhan chandar
+    - narendra kumar
+    - rakesh
+    - kush gupta
+    - mohammad jaan
+    - gulshan bhola
+    - kuldeep kasyp
+    - mohd javedh
+    - rajender kumar dheer
+    - santosh kumar
+    - omkar
+    - jeetu
+    - mandeep singh
+    - ashok kumar
+    - mukesh verma
+    - sanjay singh
+    - suresh kumar
+    - mahesh kumar
+    - sunil kumar
+    - chandan yadav
+    - sagar shekh
+    - zaheer ahmad
+    - vinod arora
+    - kamal meen
+    - sujit singh chaudhary
+    - pawan kumar
+    - bablu
+    - salman
+    - ajit
+    - nitesh
+    - satyanarayan lohar
+    - nand kishor
+    - jagdish
+    - omprakash sharma
+    - sarvjeet singh
+    - pratha
+    - shivraj singh
+    - deepak
+    - ankit verma
+    - ashok kumar
+    - baldev singh
+    - vipun kocher
+    - gonsan topno
+    - gaurav
+    - gulab
+    - deepak
+    - ghanshayam
+    - balram
+    - vimal
+    - sahid
+    - bhagwati lal jat
+    - aasif
+    - umar daraj
+    - salinder
+    - mahesh
+    - manish
+    - kailash
+    - rahul nath gupta
+    - swedesh mahaldar
+    - rajesh god
+    - shukveer singh
+    - bhusan
+    - galiya
+    - rajendra kumar
+    - satish
+    - kishan lal
+    - javed
+    - mohit
+    - mithilesh kumar sharma
+    - mohd kamaal
+    - chandan
+    - rakesh
+    - birender pal
+    - ravi kumar
+    - vivek
+    - jyoti
+    - chhitar lal
+    - chhantu dass
+    - bablu
+    - nimahe mandal
+    - madan
+    - shlender
+    - aamir
+    - sunder lal
+    - mohan adiwasi
+    - dulal
+    - ajab singh
+    - deepak
+    - tanuja
+    - vedprakash sharma
+    - abhishek @ sumit
+    - nitish kumar
+    - sarad chaubay
+    - ramesh
+    - shalender
+    - ramjani
+    - madan mohan
+    - chand
+    - imran
+    - kaloo giri
+    - inayat hussen
+    - mukesh banjara
+    - manoj
+    - babu
+    - ravinder singh
+    - neetu
+    - shiv pal
+    - ashish
+    - pradeep@kale
+    - rahul kumar
+    - hasina
+    - garupal singh
+    - udit kumar @ pingu
+    - dinesh
+    - gagandeep
+    - rohit kumar
+    - aayush kashyap
+    - anil kumar sahu
+    - arun kumar
+    - sajid
+    - sachin kumar mittal
+    - sahib saran
+    - gopal sharma
+    - rohit
+    - chandu ikbal @ akbar
+    - ??????
+    - neeraj kumar
+    - surender
+    - nitin
+    - shishram yadav
+    - dharmveer
+    - harendra
+    - shish ram
+    - rohtash saini
+    - rameshwer urf kallu
+    - tofik
+    - ????
+    - adan
+    - sanjay @ gindo
+    - ramdhan
+    - kirshan pal
+    - sonu
+    - ashrfi
+    - raja
+    - jai chand
+    - deepak bhatt
+    - om parkash
+    - afsar alam
+    - dinesh
+    - pintu kumar
+    - mohammad ishtiaque ahmad
+    - vashu
+    - barkat ali
+    - samay singh
+    - manoj
+    - sundar
+    - mohd sohaib
+    - farman
+    - parvez
+    - taj mohd
+    - raju ghosh
+    - mahesh
+    - ravi kant boity
+    - sachin kumar garg
+    - klash kumar
+    - irfan
+    - ram
+    - suraj
+    - alim
+    - manoj
+    - dharminder
+    - manoj kumar
+    - hemraj
+    - hemraj
+    - naresh
+    - suraj
+    - rajan
+    - bherav dutt
+    - vikaram
+    - ayub ali
+    - md. ehasan alam
+    - jafruddin
+    - ajit singh
+    - faran singh
+    - sonu kumar
+    - sanjiv kumar jain
+    - vikash
+    - asagar khan
+    - shyam lal
+    - yogesh sharma
+    - manmohan khurana
+    - kanhaiya urf kare
+    - kailash
+    - baleshwer
+    - rohit kumar yadav
+    - mohd rafiq
+    - arpit avasthi
+    - kale
+    - shabir
+    - rishu @ vishal bansal
+    - abhishek
+    - shahjad
+    - banju
+    - arvind
+    - mahboob
+    - anil @ bittu
+    - sonu
+    - manpreet singh
+    - pankaj  chobe
+    - rohit
+    - gawali pandharinath yadav
+    - mahender sharma
+    - md inaam ahmad s/o vishal ahmad
+    - rajbir singh
+    - ??????????
+    - lokindra singh
+    - rakesh
+    - rakesh
+    - ram lagan singh
+    - kuldeep singh
+    - vikas thakur
+    - raj
+    - raj
+    - gd harendra yadav
+    - arvind kumar
+    - mohanlal
+    - shishram
+    - metily ritayard sonu sharma
+    - hanshraj
+    - daya nand
+    - santosh
+    - manoj
+    - mukesh
+    - pappu
+    - neeraj kumar
+    - ranbir
+    - majid
+    - babulal
+    - shiv kumar
+    - subhash kumar
+    - barkat
+    - sohel
+    - satyanarayan
+    - dheeraj
+    - nitin jain
+    - narender
+    - vikash
+    - anand
+    - jai parkash
+    - ??????????
+    - gulshan
+    - birbal ram
+    - veeri singh jatav
+    - shobharam
+    - ashok
+    - ashok kumar
+    - aashish
+    - keshram
+    - sanjay
+    - navendra
+    - manoj kumar
+    - ramesh tiwari
+    - shyam sunder
+    - sandeep dahiya ms/o azad singh r/o village bound p
+    - kishnaram
+    - ankur kumar
+    - sonu
+    - parkash @ sagar
+    - sumit
+    - sumit
+    - md rahmat ali
+    - josin jomon
+    - rohit @ sonu
+    - mukesh
+    - rakesh kumar
+    - ashok rai
+    - saurabh kumar
+    - rohtash
+    - arhiyant jain
+    - suman lal
+    - bajrang lal @ jugal kishor
+    - bajrang lal @ jugal kishor
+    - rana
+    - sumit
+    - vansh goel
+    - jagbir
+    - mohd. ali
+    - mohit
+    - atul kumar @ rahul
+    - sharda rao
+    - puran chand
+    - prakash
+    - dinesh
+    - mho javed
+    - rajkumar
+    - km.deyji
+    - vakil
+    - mohd masoom billa
+    - umesh chand
+    - vikash
+    - bhasker nath tiwari
+    - abdul hafiz
+    - deepak
+    - tool bahadur
+    - mukkesh
+    - mukesh
+    - inderjit
+    - jagdish parsad s/o mohru lal
+    - raju
+    - vinit kumar @ banty
+    - dhanu /dhanparkesh
+    - anurag tiwari
+    - rajiv @ raju
+    - rahul sharma
+    - jitender
+    - ajit kumar
+    - rohitash keer
+    - gulab gameti
+    - kareshan
+    - sitaram
+    - brij mohan
+    - parmodh
+    - imam baksh
+    - devashish sahu
+    - yogesh
+    - vishal srivastav
+    - parsant
+    - vikas
+    - bansi lal
+    - rama nand
+    - mohamad sahajeet
+    - lalit kumar
+    - deepak tak
+    - abdul aziz
+    - md javed
+    - devender kumar @ ashu
+    - jishant
+    - rihan
+    - dalpat
+    - deepa ram
+    - deeraj
+    - ashok meena
+    - surya dev singh
+    - budhu
+    - maushid
+    - jagdish kaliya
+    - parmod kumar
+    - mudssir
+    - nand lal
+    - lav
+    - deepak
+    - anil
+    - deewan singh
+    - vishal
+    - devendra
+    - pankaj gupta
+    - vinay
+    - jitendra
+    - ashu
+    - jagmohan
+    - zamile amhed
+    - ravinder
+    - amjad
+    - rohit
+    - subham madhwal
+    - ???? ?????
+    - mushir
+    - rambarose
+    - aasif
+    - mohd siraz s/o mohd nisar
+    - ansar
+    - juber
+    - parveen sha
+    - ramkumar
+    - deepak
+    - ratan singh
+    - gautam  mandal
+    - mr. kishan singh
+    - vishnu
+    - kishan lal
+    - biram
+    - vivek sharma
+    - jaquir
+    - ramesh
+    - kapil
+    - dhan singh
+    - bir singh
+    - deepan dev
+    - rahu kumar
+    - meera devi
+    - munna ram
+    - ct. dilbag singh
+    - sadabrij
+    - mohit
+    - rudra narayan urf sonu
+    - vinod
+    - dana ram
+    - akshay @hunny
+    - lokesh deswal
+    - akshay pahwa
+    - parvesh @ poni
+    - manowar hussain
+    - aahim
+    - shyan bahadur
+    - shahbuddin
+    - kaushal kumar
+    - ram singh negi
+    - puran chandra bahuguna
+    - vinod kumar
+    - tara chand sharma
+    - imran
+    - sh labh singh
+    - mohsin
+    - pervinder
+    - ramu
+    - lala
+    - raja
+    - rohan mandl
+    - sanjay
+    - salman khan
+    - girish chander kapadi
+    - liyakat ansari
+    - sumit kumar
+    - prem chand
+    - kamal
+    - narendra nagda
+    - saurabh
+    - rohit
+    - nadeem kha
+    - arsad
+    - mohammad humayoun
+    - raja
+    - narender singh
+    - nasar ali
+    - gurdayal
+    - omprakash s/o balsingh
+    - shan mohd
+    - manish
+    - keval thakur
+    - jugal kishor chouhan
+    - rahul
+    - jairam singh
+    - pooja chaudhry
+    - suresh
+    - salim
+    - subhash
+    - vishnu parshad
+    - ram kishan gola
+    - vijay  banshwal
+    - jeet pal  @jitu
+    - vidya nand jaiswal
+    - aluddin hushen
+    - mrityunjay
+    - masheen yadav
+    - syamsunder
+    - girjesh kumar
+    - narender singh
+    - narender singh
+    - sattaram
+    - amrik singh
+    - vishal kumar
+    - yogesh
+    - mangi ram singh
+    - habib s/o karimsab
+    - nayan saikh
+    - deepak
+    - sunil kumar
+    - pradeep kumar
+    - narayan singh rawat
+    - suman
+    - rahul
+    - sabir
+    - rakesh
+    - subburaiyalu
+    - sachin
+    - ???? ?????
+    - himansu garg
+    - baban mishra
+    - nakched parsad
+    - aadil
+    - shahbaz
+    - riyasat ali
+    - ashok kumar
+    - ramesh
+    - dharmender
+    - amrik singh
+    - sachin raghav
+    - rahul
+    - upender
+    - saranjeet singh
+    - ramjiyawan
+    - ravinder kumar rai @ dannu kumar rai
+    - babar
+    - karmveer singh negi
+    - pram jeet dabas
+    - emilia toppo
+    - bhramanand kumar
+    - surender kumar yadav @ kaku
+    - rathan lal ji
+    - mahendra kumar
+    - akhil ravindran
+    - akshat baliyan
+    - ankit negi
+    - mahnatha sahni
+    - prem kumar
+    - ram naresh
+    - hansraj meena s/o raghunath meena r/o maharajpura
+    - rohit gill
+    - deepak @ pardeep
+    - ravi
+    - rajit kumar
+    - ayush pathak
+    - omkar
+    - vikash
+    - radheshyam
+    - mahesh kumar yogi
+    - kishan chand @ rahul
+    - raju @ rahul
+    - latesh
+    - pankaj taren
+    - ram narain
+    - aashish
+    - krishan
+    - raju
+    - roop chand
+    - shambhu munda
+    - dinesh gupta
+    - virendra singh
+    - ishwar singh
+    - anil kumar
+    - mohd. nafees
+    - ganpati korada
+    - fateh singh
+    - prince kumar
+    - aditya
+    - chhanoyar shekh
+    - laxman dass
+    - sonu
+    - hansraj
+    - nasir
+    - vikesh kumar
+    - sanoj kumar
+    - kapil
+    - bhagwan singh
+    - vivek urfh navin
+    - bishesh kumar
+    - shahrukh
+    - vikas
+    - riyazuddin
+    - mangi lal
+    - krish
+    - salman
+    - mangal singh
+    - prem pal
+    - kuldeep kumar
+    - parveen
+    - sh attar singh
+    - anil kumar
+    - raju
+    - kishan lal
+    - chanchal @ chintu
+    - deepak
+    - ???? ?????? ?????
+    - ashok kumar  s/o la jeet
+    - ravi tripathi
+    - sujit kumar
+    - urmila
+    - kumari preeti
+    - pankaj
+    - lilu ram
+    - govind rao
+    - kalayan
+    - vivek kumar gupta
+    - ram ratan
+    - akash
+    - mho aamir
+    - parveen
+    - satish chand jain
+    - sujata yadav
+    - ???????
+    - sandeep
+    - salman
+    - jagdish ram
+    - raja ram
+    - ramesh meena
+    - rohit
+    - anup
+    - sanjay gupta
+    - sanjay gupta
+    - rafi
+    - tushar vats
+    - gopal singh
+    - mehtab alam
+    - ramkishan
+    - deepu
+    - gaurav
+    - joni
+    - manish jain
+    - mahendra singh chotele
+    - jai kumar
+    - mukish kumar
+    - shi8vprakash
+    - sanjeev saad
+    - rajesh kumar
+    - amrish dixit
+    - nanak prasad
+    - sahil @bohlu
+    - firoz
+    - abhimanyu
+    - deepak
+    - rajbir
+    - sunil kumar bharati
+    - arun
+    - bhura ram
+    - arjun
+    - pram prkash sharma
+    - chhotu
+    - altab
+    - raju
+    - gajender singh
+    - lokesh kumar ojha
+    - rahul bhiram
+    - ashish kumar
+    - dharmender
+    - aashu
+    - mandeep
+    - karan trehan
+    - niyaaz khan
+    - ajay tomar
+    - md afjal
+    - harpal singh
+    - ramkaran gujar
+    - raju
+    - satpal
+    - dinesh kumar
+    - pintu kumar
+    - sumit
+    - lalit kumar
+    - yaqoob
+    - arshad
+    - ali mohamad
+    - ramesh chander
+    - prince
+    - ravi
+    - salim
+    - sandeep
+    - vasim @ bhoora
+    - muzamiil
+    - sukhveer singh
+    - kirodimal
+    - amar
+    - ashwani kumar
+    - shishpal
+    - suneel kumar
+    - adrash
+    - lekhram
+    - shyam dhar mishra
+    - bheem singh
+    - ajay bairagi
+    - krishna
+    - mohsin
+    - mohd. sazzad ansari
+    - akash
+    - hardev
+    - virender
+    - punit sharma
+    - suraj malhotra
+    - ramnath
+    - moh.
+    - chand miya
+    - anil
+    - nanka bhil
+    - ram niwas
+    - rakshit singh
+    - neeraj kumar verma
+    - satish kumar
+    - sonu
+    - suraj
+    - raju
+    - rajesh
+    - pusgpender
+    - dinesh kartik
+    - sumesh
+    - sajjan
+    - darshan lal
+    - om parkash
+    - surya narayan
+    - hardam kumar
+    - mukhtar khan
+    - fahim
+    - sonu
+    - sunilrawat
+    - anjan kumar sharma
+    - danish
+    - menpal
+    - gulshan grover
+    - vikash
+    - hitlar
+    - ajay kumar
+    - kala
+    - faiyaaz
+    - jai narayan jat
+    - sh.shiv charan singh
+    - salim  kha
+    - fakrudeen
+    - vishal lamba
+    - mo. safik
+    - aaftab
+    - vinayak
+    - munish singhla
+    - dilshad
+    - ?????? ?
+    - avinash jha
+    - shubham dandriyal
+    - saahil nautiyal
+    - mohd. kaish
+    - surender kumar
+    - braj mohan
+    - neeraj
+    - pappu @ raju
+    - netram
+    - pawan saini
+    - rajider singh
+    - akram ali
+    - jiya rahman
+    - hansraj
+    - mohd. rizwan
+    - naryan chamaar
+    - afjal
+    - mohan lal
+    - satayanarayan
+    - manoj jha
+    - amir khan
+    - pankaj
+    - maisan
+    - shiv sagar
+    - nadem
+    - mathura @ vijay
+    - deerendra singh
+    - dhirender singh ravat
+    - rajesh kumawat
+    - ajit
+    - rajkumar
+    - sorab
+    - omparkesh
+    - amar nath
+    - jitesh
+    - manjeet
+    - kouchu
+    - vinod kumar
+    - sandeep sahu
+    - rma kant
+    - chura mukhiya
+    - sanjay s/o deep chand
+    - ???? ?????? ???
+    - mujeeb
+    - amit pal
+    - kalu lal khatik
+    - chunni lal
+    - subash rai
+    - noor ahmed
+    - krishan pal
+    - ram kishan
+    - pramod choudhary
+    - krish
+    - saud
+    - rakesh kumar
+    - smt lalita
+    - ankit
+    - chandan
+    - adarsh @ sonu
+    - bhupesh kumar
+    - ghantoli
+    - shekhar chand
+    - lokesh manchanda
+    - nitin
+    - adil
+    - hari shankar
+    - subhash
+    - sushil
+    - muzmil
+    - narender
+    - ravindra jindwal
+    - abhinav
+    - sajid hussen
+    - haliya charpota
+    - pawan meghwal
+    - shivraj
+    - riyajul
+    - pawan kumar gupta
+    - anoop roy
+    - chandpreet
+    - chaman gupta
+    - ved pal
+    - ankit gupta
+    - leelu
+    - sahnabaj
+    - rahul singh
+    - nabi hussain
+    - prakash regni
+    - ajay
+    - ram kuamr
+    - nanak chand
+    - mathura singh
+    - naresh kumar
+    - sandeep sharma
+    - sandeep sharma
+    - santram
+    - karan gulyani
+    - naman kaushik
+    - vijaypal
+    - lal ji parshad
+    - titu
+    - kishan singh
+    - nisar ahamad
+    - abhijeet adhikari
+    - mukesh kumar
+    - pradeep @ sunny
+    - aman bhatt
+    - mayank pandey
+    - sachin tomar
+    - ashwani
+    - gajendra singh sekhawat
+    - javed siafi
+    - sahabudeen
+    - gurbachan singh s/o darshan singh
+    - dev
+    - devender chodhary
+    - hari uraown
+    - satpal kaura
+    - jaspreet
+    - jaspreet
+    - jaspreet
+    - sanjay sharma
+    - satendra
+    - pintu
+    - sabir
+    - rajesh
+    - vivek
+    - laxman
+    - subhan
+    - hariom panday@shivam
+    - manoj
+    - asgar kamal
+    - vijay tyagi
+    - rahul
+    - rohit
+    - jatin
+    - vijay kumar
+    - mukesh kumar
+    - raju
+    - chander bhan
+    - mukesh chauhan
+    - monu
+    - raj kumar
+    - goldi chopra
+    - khursid alam
+    - nesha
+    - sohal pal
+    - santram
+    - ajay sadana
+    - tulcharam
+    - jitendra kumar
+    - santosh kumar
+    - punkaj
+    - dashrath
+    - adalat
+    - ranjeet
+    - vijay aggarwal
+    - sumnesh
+    - ashok kumar
+    - chander prakash bansal
+    - saleem ansari
+    - rajesh arora@kamal
+    - chunaram
+    - arjun
+    - vikrant
+    - rinku
+    - rohit
+    - rajesh kumar
+    - sumit kumar
+    - suraj
+    - ranjeet kumar
+    - prabhakar pandey
+    - shri kumar
+    - umar
+    - om prakash
+    - suresh
+    - mohd. kasim
+    - rajiv shah
+    - rahul
+    - sube singh
+    - javed
+    - ravishankar
+    - manish kumar
+    - karishan
+    - rajkumar
+    - mohammad shahid
+    - mohammad shahid
+    - isharar ahmed
+    - anil kumar
+    - shashank sharma
+    - mohd.javed
+    - sajjan kumar
+    - adil
+    - aman
+    - yadvir
+    - santram @ santu
+    - mishri lal
+    - ganga ram
+    - somprakash
+    - ashok kumar @ jain
+    - pradeep singh
+    - ramniwas
+    - s p vinit gupta
+    - gulshan singh
+    - sanjeev kumar soni
+    - unknown
+    - sunil
+    - ashok kumar
+    - lakki prajapti
+    - nadeem
+    - salman
+    - satish kumar
+    - gaurav gupta
+    - tariq
+    - subhash sharma
+    - 
+    - gopal
+    - satendra kumar
+    - sandeep
+    - banti
+    - satish
+    - umanath @ nanda babu
+    - rajeev kumar
+    - suresh kumar
+    - atif
+    - anamol modi
+    - unknown @ monu
+    - randhir kumar
+    - mohd mahfooz alam
+    - shivam
+    - ????
+    - amit kumar
+    - sauhal
+    - kishor saini
+    - tarun upadhyay
+    - sardar pal singh
+    - lokesh
+    - sajid
+    - mustafa mandal
+    - shil kherval
+    - lalit mohan rawat
+    - parkash agarwal
+    - arun
+    - rajkumar sharjma
+    - manish gautam
+    - adarsh
+    - hitender kumar
+    - sanny
+    - varun kumar
+    - viresh kumar
+    - chunni lal
+    - suresh singh
+    - mohd. arjoo
+    - mukesh
+    - anil kumar
+    - shi girdhari
+    - sumit chhouhan
+    - nikhil kumar
+    - virender
+    - abhishek
+    - suresh kumar
+    - dalpat singh
+    - rinku
+    - shiv kumar rai
+    - kalu lal meena
+    - bunda ram
+    - shjad ali
+    - anil nimesh
+    - mukesh kumar
+    - kauva
+    - sethi
+    - rajesh rawat
+    - manoj
+    - deepak
+    - sukhbir
+    - deepak @ pritesh
+    - rakesh  singh
+    - vikash kumar
+    - nagender singh
+    - opendar singh @ tinkal  rajpoot
+    - prem
+    - babu lal
+    - manoj kumar
+    - madan
+    - kamal
+    - nishant tyagi
+    - lukkad @ kishore
+    - vinod @ biraje
+    - abhisek
+    - prittam dass
+    - harvinder @kala @ravinder
+    - rajdev
+    - rohtash
+    - nitin
+    - malkeet
+    - ghisaram @ amar singh
+    - anand msingh
+    - satender kumar
+    - mohd. iliyas @ firoj
+    - poma ram
+    - pankaj kumar
+    - yasin
+    - suresh
+    - husain mohommad
+    - rakesh kumar
+    - sandip kumar
+    - rajesh kumar gupta
+    - budhi singh
+    - ashok kumar
+    - julfikaar
+    - chhabil singh
+    - susan subva
+    - md. alikhan
+    - mohd. sakil
+    - kundan
+    - jaibir
+    - babudden kuresi
+    - tilakraj
+    - rahul
+    - sunil kumar
+    - vipin
+    - vicky sharma
+    - sahnaj
+    - narender singh
+    - suwa lal
+    - pintu
+    - partap @ pappu
+    - bhagwati prasad
+    - lal singh
+    - govind singh
+    - shekh nasir husain
+    - shri gani mohammad
+    - animesh kumar suman
+    - sumit bainsla
+    - shahid
+    - satish
+    - kingkar mandal @ deepak
+    - ram govind
+    - gaurav
+    - sandeep kasera
+    - bheem pal
+    - maqsood alam
+    - ramesh panwanr
+    - tarun
+    - khushi mho
+    - vivek
+    - jodhi kumar
+    - avdesh kumar yadav
+    - prince
+    - gopal singh hada
+    - amit
+    - manuvar hussain
+    - anurag mohan saklani
+    - devesh
+    - manoj
+    - gen bahadur
+    - safiq @ shanawaj
+    - nitin kumar
+    - shami khurana
+    - arun
+    - akash
+    - harsh
+    - panchuram meena
+    - manoj singh bisht
+    - rajesh kumar
+    - amrjeet
+    - rinka @ rinku rathour s/o  naresh kumar r/o  66 ha
+    - vishal
+    - joginder
+    - rahul @ bhola
+    - nikhil saini
+    - chhotu
+    - amit tandan
+    - vinod sehgal
+    - dara singh
+    - ????
+    - rajeev @ neetu
+    - girwer singh
+    - prasant kumar
+    - jagdesh ram meghwal
+    - sandeep
+    - basibul
+    - dharmender kumar
+    - rameh chand
+    - mahesh sharma
+    - ravi
+    - arvind @ ramesh
+    - dhulin
+    - asutosh sharma
+    - banwari lal
+    - parem varma
+    - narender
+    - ilyas
+    - rafeddin
+    - md. waseem
+    - anurag singh alias banti
+    - manjeet
+    - sushil sharma
+    - dharampal
+    - narayan lal
+    - shital
+    - jetender @ sonu
+    - angda prasad mishra
+    - rajesh kumar
+    - umesh
+    - jafar ali
+    - ashu singh
+    - vikas
+    - gulfam saifi
+    - mukesh @ kala
+    - narendra  mishra
+    - avnit / chotu
+    - subhash
+    - prayatan prabhas
+    - abhijeet
+    - bittu
+    - gopal lal
+    - naveen lal
+    - mukesh kumar
+    - manoj kumar
+    - lalu
+    - maan singh
+    - pardhuman kumar gupta
+    - deni
+    - mohan lal saini
+    - jasbir singh
+    - gopal kishan
+    - tarun
+    - shiv prasad
+    - vijay lal
+    - dilvar
+    - devesh sharma
+    - abhishek
+    - ramu@ ramchandar
+    - parkash
+    - om prakash jat
+    - pritam
+    - mukesh kumar
+    - lawli / lakky
+    - goverdhan
+    - yogendra thakur
+    - ajay kumar
+    - mannu
+    - nadeem
+    - jitender yadav
+    - said ahmed
+    - jeete
+    - rinku
+    - mo vahid
+    - ashok agrrwal
+    - prinsh
+    - jai kishan
+    - vinod kumar
+    - sivam
+    - sh lalchand
+    - suraj pal
+    - tara chand s/o sultan
+    - rahul
+    - prabhash yadav
+    - suresh
+    - ramesh kumar
+    - lalit kumar
+    - harun
+    - virender
+    - vinod kumar
+    - laxman kumar
+    - akash
+    - sonu roy
+    - rahul singh
+    - harish
+    - sonu
+    - ajay
+    - munna
+    - anish
+    - akhileshwer
+    - ram sagar kumar
+    - gaurav @ little
+    - sukhsohan
+    - satish
+    - jai gopal
+    - basant ram
+    - mohd iqbal
+    - shahzad
+    - pradeep kumar
+    - ravi singh
+    - rajender singh
+    - ankit
+    - vinay kumar
+    - raju kashyap
+    - mohan singh meena
+    - md. saran
+    - sushpal
+    - dinesh kumar
+    - aman
+    - aman deep
+    - chotum karmokar
+    - ikbal
+    - manish @ mantu
+    - danish
+    - ashish
+    - naveen kumar
+    - tapender upadyay
+    - perveen kumar
+    - rakesh kumar
+    - rahul kumar
+    - chandan
+    - ravi kumar
+    - giriraj
+    - tejender singh
+    - krishnal
+    - ashu rehman
+    - golu
+    - pawan kumar
+    - rakesh
+    - azim
+    - vipin
+    - arajun singh
+    - junna khan
+    - maman singh
+    - rahul
+    - rahul
+    - ram ratan
+    - rasid
+    - sachin
+    - dhurv solanky
+    - ????
+    - osier
+    - jitender tiwari
+    - prannab dey
+    - ravi
+    - jaswant
+    - kartik
+    - suresh kumar
+    - babloo @ ajay
+    - parveen kumar
+    - vishal sarin
+    - nagendra parihar
+    - vishal sarin
+    - narayan sharma
+    - yogesh
+    - deepa ram
+    - rajender
+    - jitender
+    - mho. zuber
+    - aash mohoomad
+    - sumant @  chintu
+    - md chand
+    - mukat singh
+    - salim
+    - arjun ram
+    - santosh kuamr
+    - sunil
+    - ram naresh tiwari
+    - sakchan
+    - chander shekhar
+    - kirorimal
+    - ashok sharma
+    - shree ram
+    - saurabh
+    - bhimsen
+    - mukesh kumar
+    - ashok kumar
+    - lakhu parsad
+    - sourab verma
+    - jairam singh
+    - sanju
+    - ashish rout
+    - shri ram parkash
+    - daksh
+    - sanjay ram
+    - sachin kumar
+    - mitlesh kumar mishra
+    - praveen kumar
+    - ravinder
+    - chandu
+    - sanjeev dass
+    - vakeel
+    - manoj kumar
+    - anuj
+    - himanshu
+    - rajender singh
+    - shabbir
+    - ramswroop s/o jaidev mena
+    - mishrilaal
+    - shri kumar parthi
+    - mosim
+    - sumit risidev
+    - ashif
+    - yogendra
+    - mohd. aklim
+    - aman @ kalu
+    - pradep kumar
+    - jeet ram
+    - laxman
+    - parth
+    - sharukh khan
+    - bhemji patidar
+    - moh an kumar
+    - monu
+    - ajay
+    - rajat garg
+    - bishana ram
+    - prince
+    - rajesh gupta
+    - arvind
+    - sanjeev shekhar
+    - modh danish
+    - sunil
+    - amit
+    - ramulu bumulu
+    - naseem
+    - arun
+    - mohit kumar
+    - ishwar singh
+    - sanjiv kumar
+    - rakesh
+    - rajesh
+    - chertamani dubey
+    - sidharth
+    - hamid
+    - veer bahadur
+    - bharat
+    - satyam
+    - sunil
+    - hifjul kha
+    - suresh
+    - pardeep
+    - sainky
+    - jayantadass
+    - peer mohmmad
+    - kavit
+    - bupal
+    - abhishak
+    - mohit
+    - sukesh kumar choudhary
+    - ashok kumar
+    - ranjan singh
+    - mohd ashim
+    - subham negi
+    - arun
+    - rajat
+    - sagan lal chalan
+    - ravi @ nanna
+    - guddu paswan
+    - jagdish lal
+    - nitish negi
+    - dinesh
+    - tepu mohd
+    - raj kamal
+    - rohit @ jangu
+    - dimpy
+    - gaurav gupta
+    - ramphal
+    - sonu
+    - shayampuri
+    - balwan
+    - anurag
+    - uma ram
+    - not known
+    - chirag batta
+    - jaipal
+    - radheshyam
+    - sumit sah
+    - bawan yadav
+    - jagdish singh
+    - akshay
+    - sanjay
+    - jyoti prasad
+    - ajay
+    - prakash
+    - jatin pal
+    - shivam
+    - shivam
+    - suraj
+    - jitender
+    - jagdish
+    - rajan
+    - mahendra
+    - surendra kumar mandal
+    - rajeev kumar
+    - sakil
+    - mukesh
+    - manish saini
+    - sunder
+    - arpit aroda
+    - pachuram  verma
+    - chote khan
+    - krishan kumar @ pappu
+    - mikel
+    - manoj kumar
+    - adil
+    - anil kumar
+    - monu
+    - amir hasan
+    - suresh
+    - rajesh
+    - ram naresh yadav
+    - irfan
+    - rampal alis ram lal
+    - naseef
+    - yogesh
+    - alok
+    - ashok kumar
+    - saurabh pande
+    - harish kumar pandey
+    - nikhil urf jimmi choudhri
+    - tarachand
+    - pradeep kumar chauhan
+    - rohit agarwal
+    - ????? ???? ??? ?????
+    - mangal
+    - laxmi narayan
+    - istikar
+    - pappu
+    - rajesh
+    - akhlish kumar
+    - rakesh @bablu
+    - vimal nepali
+    - vimal
+    - sanju
+    - santosh
+    - joginder singh
+    - akhalak
+    - harender
+    - priju
+    - nathani mandal
+    - kamlesh kumar
+    - tazaudeen @ kabadi
+    - tirath
+    - shishpal
+    - mahtab ali
+    - vinod kumar
+    - ashwani
+    - asha ram
+    - ragib
+    - mohd imran
+    - ramesh
+    - mithun malakar
+    - ashwani kumar
+    - deepak
+    - mukesh
+    - sagan lal chalan
+    - avinash @ sandeep
+    - sunil @ fouji
+    - mohd. riyaz
+    - viram singh
+    - rakesh @ chand
+    - sonu
+    - karan
+    - aasha mehta
+    - shalender
+    - kamal
+    - gufran khan
+    - aatif ali
+    - ram vilas choudhary
+    - chandra bhan
+    - sachin
+    - rahul kumar
+    - karan
+    - mukesh kumar
+    - abhishek
+    - deepak kumar
+    - binja ram
+    - sant mahendra singh
+    - babu lal
+    - shan mohamad
+    - sabid
+    - vinod
+    - vijay
+    - satbir @ sahil
+    - parveen
+    - amit
+    - parveen
+    - firoj
+    - pawan @ pintu
+    - imsaan
+    - suresh
+    - gorav kumar
+    - mitnu & santhosh
+    - santosh
+    - ram gopal
+    - mangilal
+    - sonu @ vijay
+    - anil sen
+    - shri manoj
+    - sahabbudin
+    - vinay
+    - sandeep kumar
+    - manoj mahto
+    - mohd kaif
+    - gurbax singh
+    - ashok kumar
+    - sunil
+    - manoj gupta
+    - manjit singh tomer
+    - shiva
+    - amit kumar
+    - karmveer singh
+    - vikram panwar
+    - salim
+    - kavit
+    - madhu ram
+    - rakesh
+    - rajan @ nazibula khan
+    - pintu
+    - arjun singh
+    - faizan
+    - rahul drall
+    - sameer
+    - guddu
+    - anup
+    - bhupender kumar
+    - vishwjeet devnath
+    - raisingh
+    - vishnu
+    - om prakash
+    - mayank
+    - amit kumar
+    - rahul
+    - ???????????? ????
+    - ashok kumar
+    - arif niyaz
+    - amit kumar
+    - amit kumar
+    - amit kumar
+    - mohamad abdul matin
+    - amit rana
+    - gurupreet singh
+    - shiv singh
+    - rajish
+    - chiddu ram
+    - saddam
+    - mukesh s/o late raju
+    - niranjan lal saini
+    - dhanraj s/o sitaram
+    - anoj kumar
+    - swadhin beswal
+    - vijesh sahu
+    - sohan lal
+    - ravi
+    - amit
+    - teenu
+    - jauli
+    - prkesh veer @ babuu
+    - sanjeev rai
+    - pawan kumar
+    - anooj patava
+    - raja
+    - sahil
+    - shrawan @ disko
+    - raj kumar
+    - deepak kumar
+    - radhey shyam
+    - shamshad
+    - beeru
+    - mohd rizwan
+    - ajit singh @ sonu
+    - atul
+    - manish  kumar
+    - sanjay gomes
+    - jitu@jitendra rajpoot
+    - ranpal singh
+    - anuj kumar
+    - rohit
+    - anil
+    - dharmveer
+    - vishal @vaini
+    - ramji lal
+    - ritesh agrwal
+    - sushmendra kumar @ chandan
+    - anand kumar
+    - vishnu
+    - dinesh
+    - mohit
+    - rahish kha
+    - pawna
+    - virender
+    - deepak kumar
+    - prem kumar
+    - shyam kumar
+    - amit paande
+    - jaynarayan  meena
+    - bhagvati parsad
+    - dinesh yadav
+    - dinesh kumar
+    - jisu
+    - vipin kumar
+    - balram @ toni
+    - tak chand
+    - lakhmi
+    - kalu bhatiya
+    - mangal singh
+    - ajad rawal
+    - akhilesh gupta
+    - rajesh
+    - umesh yadav
+    - pradeep kumar
+    - mohd ujjam
+    - sameer
+    - sachin
+    - hemant
+    - raja
+    - ravi kumar
+    - bhola
+    - rakesh yadav
+    - lokesh
+    - tejpal singh
+    - sonu @ devid
+    - jagdish
+    - premchand
+    - hemant
+    - mahender singh
+    - rajesh ram
+    - sunil kumar
+    - salauddin
+    - lakhan bajadur
+    - rajeev kumar @ sandeep
+    - mohd.asif
+    - lekose joseph
+    - makrud alam
+    - rajiv
+    - dinesh  sen
+    - bapu lal dangi
+    - rahul
+    - arif
+    - karandeep singh ,@ balu
+    - bittoo sahani
+    - rakesh
+    - munshi prasad yadav
+    - ram murat singh
+    - anwar ali
+    - penzin kunga
+    - deepak @ rahul saxena
+    - mukesh gupta
+    - seeta ram
+    - gorav kumar
+    - mohsin khan
+    - dhram sigh
+    - ayan @ akash
+    - pawan kumar
+    - manish kushwaha s/o ramesh
+    - pankaj kumar
+    - om prakash
+    - tasleem
+    - rakesh
+    - choturam
+    - santosh
+    - vishal
+    - govind
+    - naresh
+    - kalyan singh devra
+    - dhiru @ vikky
+    - ganesh kainee
+    - dev kumar
+    - sanchit gupta
+    - siraj
+    - vinod verma
+    - pardeshi
+    - mohit
+    - lovely
+    - rahul kaushik
+    - hasir
+    - mantu gupta
+    - varun
+    - shiv sahota @ karan
+    - puran singh
+    - rahul
+    - kapil
+    - ajay kumar
+    - raj kumar
+    - bundel sahni
+    - partap singh
+    - sunil janu
+    - sonu
+    - chand miyan
+    - kiran or vikram
+    - manoj kumar
+    - shankar lal meena
+    - neetu
+    - bhagwan singh
+    - dinesh kumar
+    - rajesh kumar
+    - lokesh
+    - karan singh
+    - ravi kumar verma
+    - rajbir
+    - anuj
+    - manish @ tutu
+    - akash
+    - manish
+    - soheb
+    - waseem
+    - dasharath
+    - parveen
+    - baga sathyanarayana
+    - md alamin
+    - sombir
+    - shaturughyan chaudhary
+    - kaushal
+    - rajesh sharma @ raju
+    - subham krishna
+    - virender kumar
+    - moinuddin @ chand
+    - sonu s/o raj kumar
+    - roshan lal
+    - kailash
+    - ram sharan yadav
+    - jagdish chand
+    - viplo sardar
+    - dharambir
+    - kadir ali
+    - vishvnath sarkar
+    - dilip
+    - vishal singh
+    - himanshu
+    - ashok
+    - mukesh
+    - ram dhar
+    - sunil kumar
+    - subhash singh bisht
+    - ravinder
+    - kapil
+    - sonu @ kalu
+    - gaurav
+    - kalpna
+    - chanderbal tyagi
+    - aman junuja
+    - faizan khan
+    - surender
+    - mohd.  rajiq
+    - lokesh s/o hari singh
+    - amba lal
+    - mohanlal
+    - kalyan datt sharma
+    - happy
+    - vikram
+    - shripal
+    - sandeep
+    - randhir singh parmar
+    - dinesh kumar sawami
+    - mukesh
+    - roshan kumar
+    - amit
+    - akhilesh
+    - surendra kumar
+    - pawan
+    - sanjay kumar
+    - shakti
+    - jitender@jita
+    - nimesh narwani
+    - mohd khalid
+    - monu bansal
+    - rajkumar
+    - mukesh
+    - gurmeet singh
+    - pawan
+    - bhupender singh
+    - vinod
+    - gaurav
+    - jitender s/o arjun singh
+    - manjeet
+    - aashik
+    - ruchit
+    - vasuki thakur
+    - danveer singh
+    - subham jain
+    - kulli
+    - latur s/o gopal koli
+    - mahud ansari
+    - rajeev
+    - rajeev
+    - baniya
+    - satbir
+    - santosh mahto
+    - rajan
+    - krishan
+    - matok
+    - arjun singh
+    - sunil kumar gupta
+    - rekha
+    - baburam
+    - deepak
+    - suman
+    - brijesh kumar
+    - aash mohd.
+    - monty @ monu
+    - jaidul ali sekh
+    - ashok kumar
+    - parmod
+    - sunil kumar
+    - manish
+    - fiyaz ansari
+    - ram ashray
+    - devender
+    - bajulal
+    - shazad @ sanju
+    - ram niwas
+    - pappu
+    - rajvi kumar
+    - benay kumar dube s/o surendpati dube r/o baradaha
+    - bachan singh rana
+    - jhawar lal bakshi
+    - sohan singh rana
+    - nand kishor
+    - deepak
+    - prabhakar bisi
+    - aamosh jacab
+    - mithlesh kumar
+    - nandi
+    - bhoop singh
+    - aryan
+    - deepchand balai
+    - jasvir
+    - vikarm singh
+    - sudhir singh
+    - ram chander
+    - abhishek
+    - sahil
+    - jagmohan
+    - mukesh kumar
+    - bharat
+    - sachin
+    - raeeyan
+    - balbir singh
+    - bijender
+    - vinod
+    - rajesh
+    - roshan lal
+    - narender
+    - umesh
+    - pintu
+    - rahul
+    - shakir @ bau
+    - piyus
+    - anshum
+    - gensingh
+    - yatharth @ yashodev
+    - nadeem
+    - vinod kaushik
+    - aslam
+    - aman
+    - rohit
+    - rahul kumar
+    - lalit kumar
+    - vikram kumar
+    - bhagwan singh
+    - hemant
+    - narender
+    - lakshaya sharma
+    - hemant kumar
+    - shivam
+    - raju @ rajkumar
+    - balraj
+    - vikrant singh panwar
+    - kulwant singh
+    - balaram
+    - rahul
+    - dharamvir @ guddu
+    - shivam mishra
+    - soyab
+    - deendyal
+    - shakil ahmad
+    - mukesh @ golu
+    - mohd. marukh
+    - dhramender
+    - babuddin
+    - salman
+    - rizwaan
+    - shubham giri
+    - puran rai
+    - ram kishore
+    - deepak
+    - sonu
+    - mahendra yadav
+    - hariram s/0
+    - lalit alias lowan
+    - rajesh saini
+    - hakam singh
+    - ajay
+    - narender
+    - dharmpal
+    - narender
+    - sunil kumar
+    - satpal morya
+    - prem kumar sharma
+    - ruksar
+    - dinesh
+    - sanjay kumar
+    - harish chand shringi
+    - ashish
+    - jitin @ chunni
+    - gourav
+    - suraj
+    - mukul
+    - matadeen
+    - salman
+    - ajay kumar
+    - veerbhan
+    - shispal
+    - laxminarain
+    - raju
+    - surender singh
+    - pappu kumar
+    - moolchul
+    - mhd. firoz
+    - devender jain
+    - muskan varma
+    - rajeev sirohi
+    - rajesh
+    - nawab @ kallu
+    - monupal
+    - sanjeet kumar
+    - ravi dutt
+    - manish kumar
+    - ritesh
+    - rajender
+    - dharvesh kumar
+    - divaie chand
+    - vijay kumar
+    - sintu vishwash
+    - surender singh
+    - mahesh
+    - sahdev tiwari
+    - rakesh
+    - manoj kumar
+    - rajesh
+    - mohd hasnain
+    - sanjay
+    - harjeet singh
+    - nooruddin
+    - vijay kumar
+    - tek chand
+    - mohd. ladla @ mohd. kaif
+    - samir raj pal
+    - manoj kumar, jawalaprasad, r/o j.j. colony sawada,
+    - puran
+    - chand kumar
+    - sonu
+    - vishal @ bunti
+    - manav
+    - akshay kumar
+    - gagan kumar
+    - shambhu
+    - tauseek
+    - sokin
+    - khairti lal
+    - kunal kumar
+    - devender puri
+    - ramesh lal
+    - sanjay kumar
+    - mohd. aslam
+    - bharat damor
+    - alok kumar thakur
+    - najim urf babbu
+    - amar singh
+    - sanjay mehta
+    - rajkumar
+    - mohit @ sumitra
+    - puneet
+    - kishan agrawal
+    - ravi kumar
+    - ajay
+    - anil kumar
+    - 
+    - rakesh sonkar
+    - shivji  mathur
+    - gollu
+    - ravi sinha
+    - bhuri singh
+    - karan singh
+    - balmiki chauhan s/o budhan chauhan
+    - bhagvaan singh
+    - manish bansal
+    - chander bhan
+    - jai
+    - gurmeet singh @ golu
+    - bablu
+    - pinki
+    - surender singh
+    - vikram bahadur
+    - kapil dutt
+    - mukesh
+    - harender
+    - vinay kumar
+    - surendra singh
+    - bharat singh
+    - vishal ahemad
+    - ghanshyam
+    - rayish
+    - ayush
+    - sunder jha
+    - bhupender singh
+    - pradeep kumar
+    - ajeet singj
+    - rajesh kumar
+    - ashok shrivastav
+    - jarnail singh
+    - avid
+    - vinod kumar
+    - raj kumar
+    - sanjya chhetri
+    - raj kishor
+    - buddha
+    - mukesh
+    - monu
+    - govind prasad shahu
+    - deepak

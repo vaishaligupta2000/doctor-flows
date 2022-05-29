@@ -11,8 +11,10 @@ from typing import Any, Text, Dict, List
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 from rasa_sdk.events import SlotSet
+import logging
 import random
 from helper import Diagnosis
+
 
 bot_diagnosis = Diagnosis()
 bot_diagnosis.train()
@@ -35,9 +37,21 @@ class ActionHandleSymptom(Action):
         if syms is None:
             syms = []
 
+        '''
+        #let a symptom list - symps exits
+        if message not in syms:
+            temp = process.extraction("message", symps)
+            syms.append(temp[0])
+        '''
+
         # Check if symptom in list
         if message not in syms:
-            syms.append(message)
+            temp = bot_diagnosis.fuzzy_symptoms(message)
+            logging.info(f"{temp}")
+            logging.info(type(temp))
+            logging.info(type(message))
+            syms.append(temp)
+    
         else:
             dispatcher.utter_message("Already noted that you have: "+message)
             return []
@@ -49,7 +63,7 @@ class ActionHandleSymptom(Action):
         suggested_symptom = bot_diagnosis.suggest_symptoms(syms)
         
         # Check if symptom not already suggested
-        clean_syms=[]
+        clean_syms=[] #use this
 
         for symp in suggested_symptom:
             if symp not in syms and symp not in suggested_so_far:
@@ -66,7 +80,7 @@ class ActionHandleSymptom(Action):
     
         buttons = [{"title": "Yes", "payload": clean_syms[num]},{"title":"No", "payload": "/deny"}]
 
-        dispatcher.utter_message("You said you have: "+message)
+        dispatcher.utter_message("You said you have: "+ temp)
         dispatcher.utter_button_message("Do you also have "+clean_syms[num]+"?", buttons)
 
         return [SlotSet("symptom_list", syms)]

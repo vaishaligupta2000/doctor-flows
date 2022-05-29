@@ -5,6 +5,7 @@ from matplotlib.colors import ListedColormap
 import matplotlib.pyplot as plt
 from nltk.stem import WordNetLemmatizer
 from sklearn.naive_bayes import MultinomialNB
+from fuzzywuzzy import process
 
 class Diagnosis:
 
@@ -46,6 +47,8 @@ class Diagnosis:
         self.nb = MultinomialNB()
         self.nb.fit(X1,Y1)
 
+    def fuzzy_symptoms(self, message):
+        return process.extract(message, self.all_symptoms)[0][0]
 
     def suggest_symptoms(self, symptom_list):
 
@@ -60,7 +63,7 @@ class Diagnosis:
         y=self.nb.predict([test_symp])[0]
         temp_X=X_lemmatized[y]
         suggestion_X= list(set(temp_X)-set(symptom_list))  
-
+        #logger statement here
         return suggestion_X
 
     def predict(self,symptoms):

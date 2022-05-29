@@ -88,10 +88,10 @@ responses:
   - text: Sure! First I will be needing some details
 
   utter_ask_name:
-  - text: Please mention your Full Name (eg- Karan Gori)
+  - text: Please mention your Full Name (eg- 'Deepika Singh')
 
   utter_ask_number:
-  - text: "{name}, please mention your Mobile Number:"
+  - text: "{name}, please mention your Mobile Number without country code (eg - '8273645278'):"
 
   utter_ask_email:
   - text: 'Please mention your Email id:'
@@ -113,10 +113,26 @@ responses:
           payload: '/doctor_specialisation{{"doc_spec":"Psychiatrist"}}'
         - title: "Skin Specialist"
           payload: '/doctor_specialisation{{"doc_spec":"skin specialist"}}'
+        - title: "Psychiatrist"
+          payload: '/doctor_specialisation{{"doc_spec":"Psychiatrist"}}'
+        - title: "Gynecologist"
+          payload: '/doctor_specialisation{{"doc_spec":"gynecologist"}}'
+        - title: "Thyroid Specialist"
+          payload: '/doctor_specialisation{{"doc_spec":"thyroid specialist"}}'
+        - title: "Ortho Specialist"
+          payload: '/doctor_specialisation{{"doc_spec":"ortho specialist"}}'
+        - title: "Diabetologist"
+          payload: '/doctor_specialisation{{"doc_spec":"diabetologist"}}'
+        - title: "Gastrologist"
+          payload: '/doctor_specialisation{{"doc_spec":"gastrologist"}}'
+        - title: "Neuro Surgeon"
+          payload: '/doctor_specialisation{{"doc_spec":"neuro surgeon"}}'
       text: 'What is the doctors specialisation?'
 
   utter_details_thanks:
-  - text: "I have booked an appointment for {Name} at {Time}\nLocation: {Location}\nMobile Number: {Mobile_number}\nEmail: {Email}\nAge: {Age}!"
+  # - text: "I have booked an appointment for {Name} at {Time}\nLocation: {Location}\nMobile Number: {Mobile_number}\nEmail: {Email}\nAge: {Age}"
+  - text: "I have booked an appointment for {Name} at {Time}\n{Location}\n{Mobile_number}\n{Email}\n{Age}"
+
   utter_ask_time:
   - buttons:
       - title: "9:00AM"
@@ -127,14 +143,18 @@ responses:
         payload: '/time_slot{{"time":"2:00 PM"}}'
       - title: "4:00PM"
         payload: '/time_slot{{"time":"4:00 pm"}}'
+      - title: "6:00PM"
+        payload: '/time_slot{{"time":"6:00 pm"}}'
+      - title: "8:00PM"
+        payload: '/time_slot{{"time":"8:00 pm"}}'
     text: "Select your preferable time slot from the working hours:"
 
   utter_greet:
     - buttons:
-        - payload: '/Appointment'
-          title: Book an Appointment
         - payload: '/check_symptoms'
           title: Check my symptoms!
+        - payload: '/Appointment'
+          title: Book an Appointment
       text: 'Hi, how can I help you?'
 
   utter_cheer_up:

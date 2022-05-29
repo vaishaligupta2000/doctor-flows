@@ -2,7 +2,7 @@ from typing import Any, Text, Dict, List
 from urllib import response
 
 from rasa_sdk import Action, Tracker
-from rasa_sdk.events import SlotSet, EventType
+from rasa_sdk.events import SlotSet, EventType, AllSlotsReset
 from rasa_sdk.executor import CollectingDispatcher
 from twilio.rest import Client
 
@@ -46,6 +46,8 @@ class ActionSubmit(Action):
 
         if not doc.empty:
             doctor = doc.iloc[0,0]
+
+
     
         dispatcher.utter_message(text=f"Thank you for giving the details! {doctor} will be seeing you!")
         dispatcher.utter_message(template="utter_details_thanks",
@@ -57,31 +59,37 @@ class ActionSubmit(Action):
                                  Time=tracker.get_slot("time"), 
                                  Specialisation = tracker.get_slot('doc_spec')
                                  )  
+
         dispatcher.utter_message(text="Your appointment is confirmed and you will receive an SMS on your phone")
 
-        #adding country code
-        # num = tracker.get_slot("number")
+        # adding country code
+        num = tracker.get_slot("number")
         # mob = f"+91{num}"
+        ti = tracker.get_slot("time")
 
         account_sid = 'AC4f0393d0388dd8dd0b106f4c01e709b7'
-        auth_token = 'a89811b6101f2d10d8286f4025e70929' 
+        auth_token = '6b302ea7bf0758eb011cfd27f6201979' 
         client = Client(account_sid, auth_token)
 
         message = client.messages.create(
             from_='+19897350983',
-            body=dispatcher.utter_message(template="utter_details_thanks",
-                                 Name=tracker.get_slot("name"),
-                                 Location = tracker.get_slot("location"),
-                                 Mobile_number = tracker.get_slot("number"),
-                                 Email=tracker.get_slot("email"),
-                                 Age=tracker.get_slot("age"),
-                                 Time=tracker.get_slot("time"), 
-                                 Specialisation = tracker.get_slot('doc_spec')
-                                 ) ,  #'hello, this is a test message for automation',
-            to = '+919418685850'  
+            # body=dispatcher.utter_message(template="utter_details_thanks",
+            #                      Name=tracker.get_slot("name"),
+            #                      Location = tracker.get_slot("location"),
+            #                      Mobile_number = tracker.get_slot("number"),
+            #                      Email=tracker.get_slot("email"),
+            #                      Age=tracker.get_slot("age"),
+            #                      Time=tracker.get_slot("time"), 
+            #                      Specialisation = tracker.get_slot('doc_spec')
+            #                      ) ,  #'hello, this is a test message for automation',
+            body=f"Thank you for giving the details! {doctor} will be seeing you at {ti}!",
+            to = f"+91{num}"  
         )
 
         print(message.sid)
 
-        # dispatcher.utter_message(text="Message has been sent successfully to {}".format(tracker.get_slot("mobile_number")))
-        dispatcher.utter_message(f"Message has been sent successfully sent")
+        # # dispatcher.utter_message(text="Message has been sent successfully to {}".format(tracker.get_slot("mobile_number")))
+        # dispatcher.utter_message(f"Message has been sent successfully sent")
+        # dispatcher.utter_message(f"+91{num}")
+
+        return [AllSlotsReset()]
