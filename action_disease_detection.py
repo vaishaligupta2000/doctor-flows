@@ -10,7 +10,7 @@
 from typing import Any, Text, Dict, List
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
-from rasa_sdk.events import SlotSet
+from rasa_sdk.events import SlotSet, AllSlotsReset
 import logging
 import random
 from helper import Diagnosis
@@ -98,9 +98,8 @@ class ActionDiagnosis(Action):
         # Get diagnosis
         diag = bot_diagnosis.predict(syms)
 
-        print(diag)
 
         # Send message
         dispatcher.utter_message("Diagnosis: "+str(diag[0]))
         
-        return []
+        return [AllSlotsReset()]

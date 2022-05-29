@@ -11,6 +11,7 @@ intents:
   - user_thanks
   - bot_challenge
   - symptom
+  - menu
   - all:
       use_entities: []
   - end:
@@ -152,10 +153,17 @@ responses:
   utter_greet:
     - buttons:
         - payload: '/check_symptoms'
-          title: Check my symptoms!
+          title: Input Symptoms!
         - payload: '/Appointment'
           title: Book an Appointment
       text: 'Hi, how can I help you?'
+  utter_menu:
+    - buttons:
+        - payload: '/check_symptoms'
+          title: Input Symptoms!
+        - payload: '/Appointment'
+          title: Book an Appointment
+      text: "Main Menu: \n Hi, how can I help you?"
 
   utter_cheer_up:
   - text: "Here is something to cheer you up:"

@@ -78,23 +78,6 @@ nlu:
     - detect my disease
     - tell me disease of mine
 
-- intent: mood_unhappy
-  examples: |
-    - my day was horrible
-    - I am sad
-    - I don't feel very well
-    - I am disappointed
-    - super sad
-    - I'm so sad
-    - sad
-    - very sad
-    - unhappy
-    - not good
-    - not very good
-    - extremly sad
-    - so saad
-    - so sad
-
 - intent: bot_challenge
   examples: |
     - are you a bot?
@@ -301,16 +284,7 @@ nlu:
     - my district is [South Bombay]{"entity":"location"}
     - my town is [South Mumbai]{"entity":"location"}
     - Rural [Govandi]{"entity":"location"}
-    - Urban [Vashi]{"entity":"location"}
-    - [Delhi]{"entity":"location"}
-    - [NCR]{"entity":"location"}
-    - [Noida]{"entity":"location"}
-    - [Faridbad]{"entity":"location"}
-    - [UP]{"entity":"location"}
-    - [gurgaon]{"entity":"location"}
-    - [Lucknow]{"entity":"location"}
-    - [Himachal]{"entity":"location"}
-    - [Kangra]{"entity":"location"}
+
 
 - intent: my_name
   examples: |
@@ -346,9 +320,9 @@ nlu:
   examples: |
     - /^([+]\d{2})?\d{10}$/
 
-- regex: email
-  examples: |
-    - [\w!#$%&'/=?^.+*-]+@[\w.-]+$
+# - regex: email
+#   examples: |
+#     - [\w!#$%&'/=?^.+*-]+@[\w.-]+$
 
 # - regex: age
 #   examples: |
@@ -402,6 +376,18 @@ nlu:
     - appt
     - dr appt
     - appontment
+
+- intent: menu
+  examples: |
+    - main menu
+    - stop
+    - take me back to menu
+    - menu
+    - quit 
+    - stop quiz
+    - options
+    - start again
+
 
 - intent: out_of_scope
   examples: |

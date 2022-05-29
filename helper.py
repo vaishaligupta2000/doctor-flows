@@ -5,6 +5,7 @@ from matplotlib.colors import ListedColormap
 import matplotlib.pyplot as plt
 from nltk.stem import WordNetLemmatizer
 from sklearn.naive_bayes import MultinomialNB
+from sklearn.ensemble import RandomForestClassifier
 from fuzzywuzzy import process
 
 class Diagnosis:
@@ -12,7 +13,7 @@ class Diagnosis:
     def __init__(self):
 
         # Load the data
-        self.data = pd.read_csv("data_med.csv")
+        self.data = pd.read_csv("symptom_file.csv")
         self.X=self.data.iloc[:,1]
         self.Y=self.data.iloc[:,0]
 
@@ -41,11 +42,13 @@ class Diagnosis:
         for i in self.X:
             X1.append(self.prepare_vect(i.split(',')))
 
-        Y1=[i for i in range(0,23)]
+        Y1=[i for i in range(0,261)]
 
         # Train model using multinomia naive bayes
-        self.nb = MultinomialNB()
-        self.nb.fit(X1,Y1)
+        # self.nb = MultinomialNB()
+        # self.nb.fit(X1,Y1)
+        self.rf = RandomForestClassifier()
+        self.rf.fit(X1,Y1)
 
     def fuzzy_symptoms(self, message):
         return process.extract(message, self.all_symptoms)[0][0]
@@ -60,7 +63,7 @@ class Diagnosis:
 
         symptom_list = [self.lemmatizer.lemmatize(symp) for symp in symptom_list]
         test_symp=self.prepare_vect(symptom_list)
-        y=self.nb.predict([test_symp])[0]
+        y=self.rf.predict([test_symp])[0]
         temp_X=X_lemmatized[y]
         suggestion_X= list(set(temp_X)-set(symptom_list))  
         #logger statement here
@@ -69,6 +72,6 @@ class Diagnosis:
     def predict(self,symptoms):
         test_symp=self.prepare_vect(symptoms)
 
-        predicted_disease = self.Y[self.nb.predict([test_symp])[0]]
+        predicted_disease = self.Y[self.rf.predict([test_symp])[0]]
         
         return [predicted_disease]
